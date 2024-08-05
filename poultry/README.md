@@ -13,6 +13,8 @@ This Chicken Florentine recipe features perfectly seared chicken breasts in a th
 This Chicken Tostada Wrap is a homemade version of a fast-food favorite, combining shredded chicken, queso blanco, and fresh toppings all wrapped up in a warm tortilla. It's a delicious and satisfying meal perfect for lunch or dinner.
 #### [Hawaiian Chicken Sliders](hawaiian-chicken-sliders.adoc)
 These easy Hawaiian Chicken Sliders are perfect for game day or any day. Made with rotisserie chicken or leftover shredded chicken, these sliders come together quickly with a sweet and tangy flavor profile.
+#### [Nasi Goreng](nasi-goreng.adoc)
+Nasi Goreng is a popular Indonesian fried rice dish typically made with leftover rice, vegetables, and a protein such as chicken or shrimp. It is flavored with a variety of seasonings, including garlic, sambal, and kecap manis, which give it a unique sweet and savory taste.
 ### Chicken Legs &amp; Thighs
 ### Chicken Wings
 ### Whole Chicken
