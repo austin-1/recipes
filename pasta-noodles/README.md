@@ -11,3 +11,5 @@ Restaurant-quality mushroom ramen you can make at home! With a perfectly seasone
 A delicious Thai stir-fry dish made with glass noodles, vegetables, and protein, all cooked in a 2-cup Handi pot. This quick and flavorful dish is perfect for a light yet satisfying meal.
 ## [Pasta Carbonara](pasta-carbonara.adoc)
 Pasta Carbonara is a classic Italian dish that combines pasta with crispy pancetta or bacon, eggs, and cheese to create a creamy and flavorful sauce. This simple yet elegant dish is perfect for a quick and satisfying meal.
+## [Sukiyaki](sukiyaki.adoc)
+A warm and satisfying vegetarian version of sukiyaki, perfect for cooler evenings. This dish features a rich broth with a variety of vegetables, tofu, and udon noodles, making it both hearty and comforting.
