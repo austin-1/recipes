@@ -10,7 +10,7 @@ Cashew Baklava Cigars are a modern take on the classic baklava, featuring a spic
 ## [Chocolate Chip Cookies](chocolate-chip-cookies.adoc)
 The Best Chocolate Chip Cookie Recipe Ever is a classic American treat, delivering perfectly balanced flavors and textures every time. With a crisp exterior and soft, chewy center, these cookies are a timeless favorite.
 ## [Coconut Pudding](coconut-pudding.adoc)
-Creamy and smooth, this coconut pudding is the perfect dessert to balance a spicy Thai meal.
+This traditional Thai coconut pudding is rich and creamy, offering a soothing contrast to the bold and spicy flavors of Thai cuisine. Made with coconut milk and egg yolks, it delivers a smooth and velvety texture that makes it a perfect dessert for any Thai meal.
 ## [Pumpkin Cake](pumpkin-cake.adoc)
 Easy Pumpkin Cake with cinnamon cream cheese icing is a simple and delicious sheet cake, perfect for fall gatherings and holidays. The rich pumpkin flavor paired with the spiced cream cheese frosting makes it a seasonal favorite.
 ## [Pumpkin Cupcakes](pumpkin-cupcakes.adoc)
