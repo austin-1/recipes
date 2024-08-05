@@ -11,3 +11,5 @@ Lachuch is a traditional Yemenite flatbread with a soft, spongy texture, cooked 
 Leek, Cheese, and Ham Tarts are a savory treat that combines the delicate flavors of leeks, creamy cheeses, and diced ham in a buttery tart shell. This dish is perfect as an appetizer or a light meal, offering a taste of classic French-inspired cuisine.
 ## [Low Carb Crackers](low-carb-crackers.adoc)
 Low Carb Crackers are a delicious and keto-friendly snack made from almond flour, cheddar, and parmesan, offering a satisfying crunch with minimal carbs. Customize with your favorite herbs for a savory treat that's perfect for any time of the day.
+## [Qutab](qutab.adoc)
+Qutab with Cheese and Herbs is an Azerbaijani flatbread filled with a savory mixture of spinach, onions, and cheeses, encased in a thin, crisp outer layer. This versatile dish can be enjoyed for breakfast or as a delicious snack.
