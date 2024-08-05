@@ -23,6 +23,8 @@ An easy one-pot chicken dinner featuring oven-roasted Jamaican Jerk chicken cook
 This Oven Baked Creamy Lemon-Caper Chicken features tender chicken cutlets cooked in a rich and tangy lemon-caper sauce. Perfect for a comforting dinner, this dish is sure to impress with its blend of zesty lemon, briny capers, and savory chicken.
 #### [Nasi Goreng](nasi-goreng.adoc)
 Nasi Goreng is a popular Indonesian fried rice dish typically made with leftover rice, vegetables, and a protein such as chicken or shrimp. It is flavored with a variety of seasonings, including garlic, sambal, and kecap manis, which give it a unique sweet and savory taste.
+#### [Pesto Chicken &amp; Cauliflower](pesto-chicken-cauliflower.adoc)
+This one-pan Pesto Chicken and Cauliflower dish is a fast and healthy option for a weeknight meal. It's paleo, Whole30, and keto-friendly, and ready in just 35 minutes.
 #### [Tarragon Chicken Salad Wraps](tarragon-chicken-salad.adoc)
 Lemon Tarragon Chicken Salad Lettuce Wraps are low fat, low carb, and made with no mayo! These refreshing wraps are perfect for summer entertaining and are quick to prepare.
 ### Chicken Legs &amp; Thighs
