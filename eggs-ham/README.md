@@ -9,3 +9,5 @@ Baked Kashkaval with Sweet Tomato Relish and Egg Yolks is a savory dish that com
 ## &#127830; Ham
 ## [Ham, Tomato, Spinach, &amp; Onion Frittata](ham-tomato-spinach-frittata.adoc)
 This Ham, Tomato, Spinach, and Onion Frittata is a delicious and versatile dish that's perfect for breakfast, brunch, or even a light dinner. Packed with protein and fresh vegetables, it's a healthy and satisfying meal.
+## [Leek, Cheese &amp; Ham Tarts](leek-cheese-ham-tarts.adoc)
+Leek, Cheese, and Ham Tarts are a savory treat that combines the delicate flavors of leeks, creamy cheeses, and diced ham in a buttery tart shell. This dish is perfect as an appetizer or a light meal, offering a taste of classic French-inspired cuisine.
