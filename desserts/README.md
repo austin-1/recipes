@@ -15,3 +15,5 @@ Easy Pumpkin Cake with cinnamon cream cheese icing is a simple and delicious she
 Melt-in-your-mouth soft pumpkin cupcakes topped with a rich and creamy homemade cream cheese frosting. These cupcakes bring together the warm flavors of pumpkin and cinnamon, making them a perfect treat for the fall season.
 ## [Souffle Pancakes](souffle-pancakes.adoc)
 Fluffy and light, Japanese Souffle Pancakes are a popular breakfast dish that originated in Japan. These pancakes are known for their airy texture, achieved by folding whipped egg whites into the batter. They are often served with syrup and powdered sugar for a sweet treat.
+## [Strawberry Cupcakes](strawberry-cupcakes.adoc)
+These Very Strawberry Cupcakes are adorned with a tangy and delicious strawberry cream cheese frosting. Packed with flavor from both fresh and freeze-dried strawberries, they deliver a natural and vibrant strawberry taste without any artificial flavor or coloring.
