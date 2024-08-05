@@ -9,3 +9,5 @@ This Venice Beach inspired summer Hiyashi Chuka is a refreshing and vibrant cold
 Restaurant-quality mushroom ramen you can make at home! With a perfectly seasoned mushroom broth, this dish offers rich, umami flavors that will make you never want to order out again.
 ## [Pad Woon Sen](pad-woon-sen.adoc)
 A delicious Thai stir-fry dish made with glass noodles, vegetables, and protein, all cooked in a 2-cup Handi pot. This quick and flavorful dish is perfect for a light yet satisfying meal.
+## [Pasta Carbonara](pasta-carbonara.adoc)
+Pasta Carbonara is a classic Italian dish that combines pasta with crispy pancetta or bacon, eggs, and cheese to create a creamy and flavorful sauce. This simple yet elegant dish is perfect for a quick and satisfying meal.
