@@ -35,6 +35,8 @@ Nasi Goreng is a popular Indonesian fried rice dish typically made with leftover
 This one-pan Pesto Chicken and Cauliflower dish is a fast and healthy option for a weeknight meal. It's paleo, Whole30, and keto-friendly, and ready in just 35 minutes.
 #### [Tarragon Chicken Salad Wraps](tarragon-chicken-salad.adoc)
 Lemon Tarragon Chicken Salad Lettuce Wraps are low fat, low carb, and made with no mayo! These refreshing wraps are perfect for summer entertaining and are quick to prepare.
+#### [Tomato Chicken Breasts](tomato-chicken-breasts.adoc)
+This easy and juicy Dutch oven chicken breast with tomatoes is a must-try! Tender and flavorful boneless chicken breasts are cooked in a rich tomato sauce with simple everyday spices and vegetables. It's the perfect comfort food for the whole family.
 ### Chicken Legs &amp; Thighs
 ### Chicken Wings
 ### Whole Chicken
