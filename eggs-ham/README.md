@@ -12,6 +12,8 @@ Baked Kashkaval with Sweet Tomato Relish and Egg Yolks is a savory dish that com
 All your favorite flavors of Kalamata olives, feta cheese, capers, and red onion shine in these Mediterranean Deviled Eggs. This recipe offers a tart and briny twist on the classic deviled eggs, perfect for a flavorful appetizer.
 ### [Shakshouka](shakshouka.adoc)
 Shakshouka is a traditional North African and Middle Eastern dish made by poaching eggs in a spiced tomato and pepper sauce. This savory and hearty dish is perfect for breakfast, brunch, or even dinner, offering a burst of flavors in every bite.
+### [Tomato &amp; Avocado Frittata](tomato-avocado-frittata.adoc)
+This Dutch Oven Tomato and Avocado Frittata is a hearty and flavorful dish that combines the creaminess of avocado with the freshness of tomatoes and herbs. It's perfect for a nutritious breakfast or brunch, and the Dutch oven method ensures even cooking and a tender texture.
 ## &#127830; Ham
 ### [Ham, Tomato, Spinach, &amp; Onion Frittata](ham-tomato-spinach-frittata.adoc)
 This Ham, Tomato, Spinach, and Onion Frittata is a delicious and versatile dish that's perfect for breakfast, brunch, or even a light dinner. Packed with protein and fresh vegetables, it's a healthy and satisfying meal.
