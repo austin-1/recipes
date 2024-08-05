@@ -1,4 +1,6 @@
 # &#127838; Bread
+## [Adjaruli Khachapuri](adjaruli-khachapuri.adoc)
+Adjaruli Khachapuri is a traditional Georgian cheese bread, featuring a boat-shaped crust filled with a mixture of melted cheeses and topped with a runny egg. This savory bread is perfect for any meal, offering a unique and flavorful experience.
 ## [Coco Bread](coco-bread.adoc)
 Coco Bread is a beloved Jamaican staple, known for its soft, buttery texture and subtle sweetness, often enjoyed as a snack or sandwich bread across the Caribbean. Made with coconut milk, this bread embodies the tropical flavors of the region.
 ## [Dutch Oven French Toast Casserole](french-toast-casserole.adoc)
