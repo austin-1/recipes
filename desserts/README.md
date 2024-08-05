@@ -9,6 +9,8 @@ Baklava is a traditional Middle Eastern dessert made with layers of flaky Fillo 
 Cashew Baklava Cigars are a modern take on the classic baklava, featuring a spiced cashew filling wrapped in crispy phyllo dough and finished with a tangy lemon syrup. This dessert brings together the rich flavors of the Middle East with a refreshing citrus twist.
 ## [Chocolate Chip Cookies](chocolate-chip-cookies.adoc)
 The Best Chocolate Chip Cookie Recipe Ever is a classic American treat, delivering perfectly balanced flavors and textures every time. With a crisp exterior and soft, chewy center, these cookies are a timeless favorite.
+## [Coconut Pudding](coconut-pudding.adoc)
+Creamy and smooth, this coconut pudding is the perfect dessert to balance a spicy Thai meal.
 ## [Pumpkin Cake](pumpkin-cake.adoc)
 Easy Pumpkin Cake with cinnamon cream cheese icing is a simple and delicious sheet cake, perfect for fall gatherings and holidays. The rich pumpkin flavor paired with the spiced cream cheese frosting makes it a seasonal favorite.
 ## [Pumpkin Cupcakes](pumpkin-cupcakes.adoc)
