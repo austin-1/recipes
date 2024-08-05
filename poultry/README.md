@@ -17,6 +17,8 @@ Chicken Marsala is a classic Italian-American dish featuring tender chicken cutl
 Chicken Mole is a rich and flavorful Mexican dish traditionally simmered for a long period of time. This version is ready in less than an hour and can be served with Spanish rice, cauliflower rice, or shredded for enchiladas, quesadillas, or tacos.
 #### [Chicken Piccata](chicken-piccata.adoc)
 This savory Lemon Chicken Piccata is made all in one skillet and is perfect for a quick weeknight meal. It's gluten-free, paleo, low carb, and keto-friendly, making it a healthy and delicious option that also saves well for lunch the next day.
+#### [Chicken Saltado](chicken-saltado.adoc)
+Chicken Saltado is a quick and delicious Peruvian dish inspired by the classic Lomo Saltado, featuring stir-fried chicken with vegetables, soy sauce, and vinegar. This dish is perfect for a flavorful dinner in under 30 minutes.
 #### [Chicken Tostada Wrap](chicken-tostada-wrap.adoc)
 This Chicken Tostada Wrap is a homemade version of a fast-food favorite, combining shredded chicken, queso blanco, and fresh toppings all wrapped up in a warm tortilla. It's a delicious and satisfying meal perfect for lunch or dinner.
 #### [Hawaiian Chicken Sliders](hawaiian-chicken-sliders.adoc)
