@@ -5,6 +5,8 @@
 Ají de Gallina is a traditional Peruvian dish made with shredded chicken in a creamy, spicy sauce. This flavorful dish is typically served over boiled potatoes with a side of white rice, and garnished with hard-boiled eggs and olives.
 #### [Caprese Chicken Breasts](caprese-chicken-breasts.adoc)
 This Caprese Stuffed Chicken Breast recipe is an easy and healthy dinner that combines the classic flavors of mozzarella, basil, and sun-dried tomatoes. It's a delicious dish that is sure to impress your dinner guests.
+#### [Chicken Anticuchos](chicken-anticuchos.adoc)
+Anticuchos, or brochettes, hold a special place in Peruvian cuisine. These flavorful skewers of marinated chicken are grilled to perfection and served with golden potatoes, making them a satisfying and delicious dish to enjoy all year round.
 #### [Chicken Durban Masala](chicken-durban-masala.adoc)
 Chicken Durban Masala is a flavorful and spicy South African curry dish, made with a blend of aromatic spices, tender chicken, and hearty potatoes. Traditionally served in a bread bowl known as Bunny Chow, this version is cooked in Handi clay pots for a rich and authentic taste.
 #### [Chicken Escabeche](chicken-escabeche.adoc)
@@ -38,8 +40,74 @@ Lemon Tarragon Chicken Salad Lettuce Wraps are low fat, low carb, and made with 
 #### [Tomato Chicken Breasts](tomato-chicken-breasts.adoc)
 This easy and juicy Dutch oven chicken breast with tomatoes is a must-try! Tender and flavorful boneless chicken breasts are cooked in a rich tomato sauce with simple everyday spices and vegetables. It's the perfect comfort food for the whole family.
 ### Chicken Legs &amp; Thighs
+#### [Berbere Chicken](berbere-chicken.adoc)
+Berbere Chicken is a flavorful and spicy dish from Ethiopian cuisine, featuring chicken thighs seasoned with a homemade Berbere spice mix, served over a bed of lentils cooked with aromatic vegetables and spices.
+#### [Chicken Cacciatore](chicken-cacciatore.adoc)
+Chicken Cacciatore is a classic Italian dish that features tender chicken braised with vegetables, herbs, and tomatoes. This hearty and flavorful meal is perfect served over pasta, polenta, or with crusty bread.
+#### [Chicken &amp; Rice Casserole](chicken-rice-casserole.adoc)
+This Herbed Chicken and Rice Casserole is a hearty and flavorful dish made with marinated chicken thighs, pancetta, cauliflower rice, and fresh herbs. It's baked to perfection in a Dutch oven for a comforting meal.
+#### [Coconut Chicken &amp; Rice](coconut-chicken-rice.adoc)
+This delicious one-pot meal is a Southeast Asian spin on chicken and rice, combining tender chicken thighs with fragrant rice cooked in coconut milk. It's a satisfying and flavorful dinner that's easy to prepare.
+#### [Juane de Gallina](juane-gallina.adoc)
+Juane de Gallina is a traditional Peruvian dish made with chicken, rice, and eggs, all wrapped in banana leaves and steamed to perfection. This flavorful dish requires some patience and attention to detail but is well worth the effort.
+#### [Oven-Fried Chicken Thighs](oven-fried-chicken-thighs.adoc)
+Recipe for oven-fried chicken thighs that taste just like pan-fried or even deep-fried, but without the greasy mess and extra calories. Perfect for a quick and delicious meal.
+#### [Pollo Sabroso](pollo-sabroso.adoc)
+Pollo Sabroso is a traditional Peruvian dish known for its comforting flavors and vibrant ingredients, often enjoyed with rice or pasta.
+#### [Red Wine Chicken Drumsticks](red-wine-chicken-drumsticks.adoc)
+This hearty dish features tender chicken drumsticks cooked in a rich red wine sauce with vegetables. It's perfect for a comforting meal, especially when served over mashed potatoes, grits, or rice.
+#### [Salvadoran Stewed Chicken](salvadoran-stewed-chicken.adoc)
+Salvadoran Stewed Chicken is a flavorful and hearty dish made with tender chicken drumsticks cooked in a rich tomato and vegetable sauce. This comforting stew is perfect served over rice or with tortillas for a satisfying meal.
 ### Chicken Wings
+#### [Air Fryer Buffalo Wings](air-fryer-buffalo-wings.adoc)
+Air Fryer Chicken Wings deliver the perfect combination of crispy skin and tender, juicy meat. This method ensures an easy clean-up and is an excellent alternative for those who love the classic taste of fried wings but prefer a healthier approach.
+#### [Baked Buffalo Wings](baked-buffalo-wings.adoc)
+Crispy Baked Chicken Wings offer a delightful crunch without the hassle of deep frying. Prepare the flavorful Buffalo sauce first for a seamless cooking process that results in perfectly seasoned wings.
+#### [Garlic Parmesan Wings](garlic-parmesan-wings.adoc)
+Air Fryer Garlic and Parmesan Wings are crispy and packed with flavor, making them the perfect snack for any gathering. They pair wonderfully with a bitter IPA, balancing the robust flavors of garlic and Parmesan.
 ### Whole Chicken
+#### [Chicken Aji Verde](chicken-aji-verde.adoc)
+Chicken Aji Verde is a Peruvian-inspired dish that features a whole chicken marinated in a tangy, spiced blend and roasted atop a bed of potatoes. The dish is known for its rich, zesty flavors and tender, juicy meat, making it a perfect centerpiece for a flavorful meal.
+#### [Dutch Oven Roasted Chicken](dutch-oven-chicken.adoc)
+A simple yet flavorful recipe, this Dutch Oven Whole Roast Chicken is smothered in a lemon, garlic, and rosemary butter, making it the perfect centerpiece for a hearty dinner. Traditionally served with potatoes, this dish combines convenience and gourmet cooking in one pot.
+#### [Greek Chicken](greek-chicken.adoc)
+This Greek-inspired dish features a whole chicken roasted to perfection in a Dutch oven with a medley of vegetables. The chicken is seasoned with a blend of herbs and spices, and the dish is finished with a touch of lemon for a burst of fresh flavor.
+#### [Lemon Basil Chicken](lemon-basil-chicken.adoc)
+This tender and fragrant chicken dish is perfect for Sunday dinner or any special occasion. The lemon and basil infuse the chicken with fresh, vibrant flavors.
+#### [Roasted Chicken with Wild Rice](roasted-chicken-wild-rice.adoc)
+This Dutch Oven Roasted Chicken with Wild Rice combines tender chicken with the nutty flavors of wild rice, seasoned with a blend of spices for a comforting and delicious meal perfect for a Sunday dinner.
+#### [Rosemary Roasted Chicken](rosemary-roasted-chicken.adoc)
+Rosemary roasted whole chicken is a simple, delicious meal, perfect for family dinners or special occasions. This recipe showcases the ease of oven roasting and leverages the aromatic richness of rosemary and garlic, adapted from a traditional French technique.
+#### [Rotisserie Chicken, Mango &amp; Avocado Salad](chicken-mango-avocado-salad.adoc)
+This refreshing salad combines tender shredded chicken with sweet mango, creamy avocado, and a spicy chili-lime dressing, making it a perfect meal for any occasion.
+#### [Teriyaki Chicken](teriyaki-chicken.adoc)
+This Teriyaki Chicken with Roasted Scallions recipe showcases the harmonious flavors of Japanese cuisine, with sweet and savory chicken paired with mellow roasted scallions. It's a delightful dish that's both comforting and elegant, perfect for family meals or entertaining guests.
 ## &#128037; Cornish Hens
+### [Basque Cornish Hens](basque-cornish-hens.adoc)
+Rock Cornish Game Hens Basque Style is a delightful dish that combines the tender and flavorful Cornish game hens with a robust tomato-based sauce infused with herbs and olives, embodying the rich flavors of Basque cuisine.
+### [Buttermilk Cornish Hens](buttermilk-cornish-hens.adoc)
+Buttermilk Cornish Hen is a perfect choice for holiday family dinners, offering a tender and flavorful dish that's surprisingly easy to prepare. This recipe uses a buttermilk marinade to ensure the hens are juicy and deliciously seasoned.
+### [Cornish Hens with Apple &amp; Cranberry Rice Stuffing](cornish-hens-apple-cranberry.adoc)
+Cornish Hens with Apple-Cranberry Rice Stuffing offers an elegant main course perfect for special occasions in fall and winter. This dish combines the sweetness of apples and cranberries with savory herbs and a delicious glaze, providing a sophisticated flavor profile.
 ## &#127831; Turkey
+### [Roasted Turkey Thighs](roasted-turkey-thighs.adoc)
+Roast Turkey Thighs for Two is the perfect solution for a smaller Thanksgiving dinner or a cozy meal for two. This dish offers the flavor and tenderness of turkey without the need to roast a whole bird.
+### [Shallot &amp; Herb Braised Turkey](shallot-herb-braised-turkey.adoc)
+Slow-cooked with herbs and shallots, this braised turkey recipe yields succulent and flavorful meat. Using a variety of turkey pieces, such as the breast and thighs, ensures a perfect turkey dinner, ideal for a family meal.
+### [Turkey Köttbullar](turkey-koettbullar.adoc)
+Turkey Köttbullar, a lighter take on the traditional Swedish meatballs, features tender turkey meatballs seasoned with warm spices and served in a rich, creamy gravy. This dish is perfect for a cozy meal, especially when paired with mashed potatoes or lingonberry jam.
+### [Turkey &amp; Pancetta Pie](turkey-pancetta-pie.adoc)
+Turkey and Pancetta Pie is a hearty, savory dish perfect for a comforting meal. The combination of tender turkey, smoky pancetta, and a creamy filling, all encased in a flaky homemade pastry, makes this pie a satisfying treat.
+### [Turkey &amp; Shrimp Jambalaya](turkey-jambalaya.adoc)
+Wild Turkey Cajun Jambalaya blends the robust flavors of wild turkey breast with andouille sausage, shrimp, and a medley of spices and vegetables. This hearty dish is baked to perfection, offering a satisfying one-pot meal with deep Cajun influences.
 ## &#129414; Duck
+### [Chinese Braised Duck Legs](chinese-braised-duck-legs.adoc)
+Chinese Braised Duck Legs are delicately seared and braised with scallions, creating a sauce that pairs wonderfully with steamed rice. This dish is both exquisite and simple, offering a rich flavor that is deeply satisfying.
+### [Duck Confit](duck-confit.adoc)
+Duck Confit is a classic French dish where duck legs are slowly cooked in their own fat, resulting in tender, flavorful meat with crispy skin. This simple method is perfect for an indulgent meal.
+### [Duck Escabeche](duck-escabeche.adoc)
+Duck Escabeche is a traditional Peruvian dish that showcases the rich and savory flavor of duck, which has been a part of the Peruvian diet since pre-Columbian times. This recipe combines the duck with vibrant citrus and spices for a truly delightful meal.
+### [Orange Duck Legs](orange-duck-legs.adoc)
+Duck Legs Braised with Seville Oranges offers a rich and citrus-infused flavor, perfectly complemented by a medley of tender vegetables. This dish is ideal for a sophisticated dinner that highlights the unique tartness of Seville oranges.
+### [Slow Cooked Duck](slow-cooked-duck.adoc)
+Slow-Cooked Duck features a rich marinade of ají panca paste and spices, resulting in a deeply flavorful and tender dish. This recipe is perfect for a comforting meal, accompanied by potatoes and served with white rice.
