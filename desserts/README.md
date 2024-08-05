@@ -11,5 +11,7 @@ Cashew Baklava Cigars are a modern take on the classic baklava, featuring a spic
 The Best Chocolate Chip Cookie Recipe Ever is a classic American treat, delivering perfectly balanced flavors and textures every time. With a crisp exterior and soft, chewy center, these cookies are a timeless favorite.
 ## [Pumpkin Cake](pumpkin-cake.adoc)
 Easy Pumpkin Cake with cinnamon cream cheese icing is a simple and delicious sheet cake, perfect for fall gatherings and holidays. The rich pumpkin flavor paired with the spiced cream cheese frosting makes it a seasonal favorite.
+## [Pumpkin Cupcakes](pumpkin-cupcakes.adoc)
+Melt-in-your-mouth soft pumpkin cupcakes topped with a rich and creamy homemade cream cheese frosting. These cupcakes bring together the warm flavors of pumpkin and cinnamon, making them a perfect treat for the fall season.
 ## [Souffle Pancakes](souffle-pancakes.adoc)
 Fluffy and light, Japanese Souffle Pancakes are a popular breakfast dish that originated in Japan. These pancakes are known for their airy texture, achieved by folding whipped egg whites into the batter. They are often served with syrup and powdered sugar for a sweet treat.
