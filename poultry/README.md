@@ -9,6 +9,8 @@ Chicken Durban Masala is a flavorful and spicy South African curry dish, made wi
 Chicken Escabeche is a flavorful dish where chicken breasts are marinated and served with a spicy, tangy escabeche sauce made from red onions, garlic, and ají panca paste. This versatile sauce can also be used with beans, fried fish, and other meats, making it a delicious and adaptable dish.
 #### [Chicken Florentine](chicken-florentine.adoc)
 This Chicken Florentine recipe features perfectly seared chicken breasts in a thick and creamy spinach sauce. It's a versatile dish that can be served with pasta, rice, or a simple green salad. A splash of lemon and a sprinkle of parsley add extra flavor and color.
+#### [Chicken Marsala](chicken-marsala.adoc)
+Chicken Marsala is a classic Italian-American dish featuring tender chicken cutlets in a rich and creamy Marsala wine sauce with mushrooms and shallots. It's a flavorful and elegant meal perfect for any occasion.
 #### [Chicken Tostada Wrap](chicken-tostada-wrap.adoc)
 This Chicken Tostada Wrap is a homemade version of a fast-food favorite, combining shredded chicken, queso blanco, and fresh toppings all wrapped up in a warm tortilla. It's a delicious and satisfying meal perfect for lunch or dinner.
 #### [Hawaiian Chicken Sliders](hawaiian-chicken-sliders.adoc)
