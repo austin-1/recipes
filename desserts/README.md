@@ -5,3 +5,5 @@ Apple Cider Pound Cake is a rich, spiced cake that captures the flavors of fall,
 Air Fryer Apple Filled Donut Holes are a delightful twist on traditional donuts, combining the ease of using an air fryer with the classic flavors of apple pie. This recipe likely originates from modern American kitchens, where convenience meets classic comfort food.
 ## [Baklava](baklava.adoc)
 Baklava is a traditional Middle Eastern dessert made with layers of flaky Fillo dough, butter, and a sweet nut filling, all soaked in a rich honey syrup. This version is cooked in a Dutch oven, giving it a unique twist on the classic preparation method.
+## [Cashew Baklava Cigars](cashew-baklava-cigars.adoc)
+Cashew Baklava Cigars are a modern take on the classic baklava, featuring a spiced cashew filling wrapped in crispy phyllo dough and finished with a tangy lemon syrup. This dessert brings together the rich flavors of the Middle East with a refreshing citrus twist.
