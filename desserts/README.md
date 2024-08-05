@@ -17,5 +17,3 @@ Melt-in-your-mouth soft pumpkin cupcakes topped with a rich and creamy homemade 
 Fluffy and light, Japanese Souffle Pancakes are a popular breakfast dish that originated in Japan. These pancakes are known for their airy texture, achieved by folding whipped egg whites into the batter. They are often served with syrup and powdered sugar for a sweet treat.
 ## [Strawberry Cupcakes](strawberry-cupcakes.adoc)
 These Very Strawberry Cupcakes are adorned with a tangy and delicious strawberry cream cheese frosting. Packed with flavor from both fresh and freeze-dried strawberries, they deliver a natural and vibrant strawberry taste without any artificial flavor or coloring.
-## [Tequeños](tequenyos.adoc)
-Venezuelan Tequeños are a popular appetizer or snack made with a dough of sweet plantains and oat flour wrapped around cheese sticks. This version is air-fried, making it a healthier alternative to the traditional deep-fried tequeños.
