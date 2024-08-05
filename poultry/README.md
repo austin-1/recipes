@@ -15,6 +15,8 @@ This Chicken Tostada Wrap is a homemade version of a fast-food favorite, combini
 These easy Hawaiian Chicken Sliders are perfect for game day or any day. Made with rotisserie chicken or leftover shredded chicken, these sliders come together quickly with a sweet and tangy flavor profile.
 #### [Jerk Chicken](jerk-chicken.adoc)
 An easy one-pot chicken dinner featuring oven-roasted Jamaican Jerk chicken cooked on top of a flavorful mix of diced plantains, sweet potatoes, and apples. This dish is both hearty and full of Caribbean-inspired flavors.
+#### [Lemon Caper Chicken](lemon-caper-chicken.adoc)
+This Oven Baked Creamy Lemon-Caper Chicken features tender chicken cutlets cooked in a rich and tangy lemon-caper sauce. Perfect for a comforting dinner, this dish is sure to impress with its blend of zesty lemon, briny capers, and savory chicken.
 #### [Nasi Goreng](nasi-goreng.adoc)
 Nasi Goreng is a popular Indonesian fried rice dish typically made with leftover rice, vegetables, and a protein such as chicken or shrimp. It is flavored with a variety of seasonings, including garlic, sambal, and kecap manis, which give it a unique sweet and savory taste.
 ### Chicken Legs &amp; Thighs
