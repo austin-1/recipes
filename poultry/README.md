@@ -1,6 +1,8 @@
 # &#128020; Poultry
 ## &#128019; Chicken
 ### Chicken Breasts
+#### [Aji de Gallina](aji-gallina.adoc)
+Ají de Gallina is a traditional Peruvian dish made with shredded chicken in a creamy, spicy sauce. This flavorful dish is typically served over boiled potatoes with a side of white rice, and garnished with hard-boiled eggs and olives.
 #### [Caprese Chicken Breasts](caprese-chicken-breasts.adoc)
 This Caprese Stuffed Chicken Breast recipe is an easy and healthy dinner that combines the classic flavors of mozzarella, basil, and sun-dried tomatoes. It's a delicious dish that is sure to impress your dinner guests.
 #### [Chicken Durban Masala](chicken-durban-masala.adoc)
