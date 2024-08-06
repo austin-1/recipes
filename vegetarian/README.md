@@ -28,7 +28,7 @@ Quinoa Vegetable Stuffed Mushrooms are a healthy and flavorful dish, perfect for
 ### [Ricotta Stuffed Mushrooms](ricotta-stuffed-mushrooms.adoc)
 Herbed Ricotta Stuffed Mushrooms are tender mushroom caps filled with a creamy herb and ricotta mixture, perfect for an appetizer or side dish, with both air fryer and oven methods provided for easy preparation.
 
-## Potatoes
+## &#129364; Potatoes
 ### [Amish Potato Salad](amish-potato-salad.adoc)
 A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
 ### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
