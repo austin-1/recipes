@@ -14,6 +14,8 @@ A healthy and flavorful twist on the classic egg roll, without the deep-fried wr
 ### [Lebanese Cabbage Rolls](lebanese-cabbage-rolls.adoc)
 Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a lightly spiced lentil and rice mixture. Cooked with mint, lemon, and garlic, these rolls offer a healthy, gluten-free meal. This recipe makes a large batch, perfect for filling your freezer!
 
-## &#127834; Rice
+## &#127834; Rice &amp; Grains
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
+### [Rice Cooker Couscous](rice-cooker-couscous.adoc)
+Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
