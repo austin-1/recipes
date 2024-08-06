@@ -1,4 +1,5 @@
 = Quinoa Vegetable Stuffed Mushrooms
+
 A healthy and flavorful dish featuring quinoa and vegetables stuffed in mushrooms, perfect for a hearty appetizer or side dish.
 
 == Ingredients
