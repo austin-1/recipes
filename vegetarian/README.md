@@ -1,10 +1,12 @@
 # &#127813; Vegetarian
-## [Apple &amp; Brie Grilled Cheese](apple-brie-grilled-cheese.adoc)
+### [Apple &amp; Brie Grilled Cheese](apple-brie-grilled-cheese.adoc)
 A delightful twist on the classic grilled cheese, featuring creamy Brie and crisp apple slices for a gourmet touch.
-## [Avocado Gazpacho](avocado-gazpacho.adoc)
+### [Avocado Gazpacho](avocado-gazpacho.adoc)
 A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
-## [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
+### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
+### [Olive Collard Greens](olive-collard-greens)
+Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
 
 ## &#129388; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
