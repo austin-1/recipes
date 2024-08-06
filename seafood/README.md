@@ -47,7 +47,7 @@ Shrimp Ceviche is a refreshing and zesty dish featuring fresh shrimp marinated w
 Healthy zucchini noodles "zucchini pasta" are tossed with lemon garlic shrimp for an easy, family favorite dinner recipe. It's naturally gluten-free, low carb, and can easily be made Whole30 by replacing the white wine with chicken broth.
 ### [Thai Shrimp Cakes](thai-shrimp-cakes.adoc)
 Pan-seared, tender Thai Shrimp Cakes with a golden panko crust served with creamy Chili Aioli. Simple, yet wildly flavorful, these shrimp cakes can be enjoyed as an appetizer or entree.
-### [Thai Shrimp Curry[(thai-shrimp-curry.adoc)
+### [Thai Shrimp Curry](thai-shrimp-curry.adoc)
 A flavorful Thai shrimp curry made with a homemade spice blend, perfect for a cozy meal.
 ## &#129408; Shellfish
 ### [Baked Crawfish Cavatappi](baked-crawfish-cavatappi.adoc)
