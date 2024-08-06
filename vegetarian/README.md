@@ -7,16 +7,20 @@ A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup 
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 ### [Garlic Bombs](garlic-bombs.adoc)
 Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
-### [Olive Collard Greens](olive-collard-greens.adoc)
-Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
 ### [Pear &amp; Gourde Gratin](pear-gourde-gratin.adoc)
 Pear and Gourde Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
 
-## &#129388; Cabbage
+## &#129367; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
 A healthy and flavorful twist on the classic egg roll, without the deep-fried wrapper. This dish is naturally vegan, nut-free, gluten-free, paleo, low-carb, and keto-friendly.
 ### [Lebanese Cabbage Rolls](lebanese-cabbage-rolls.adoc)
 Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a lightly spiced lentil and rice mixture. Cooked with mint, lemon, and garlic, these rolls offer a healthy, gluten-free meal. This recipe makes a large batch, perfect for filling your freezer!
+
+## &#129388; Leafy Greens
+### [Olive Collard Greens](olive-collard-greens.adoc)
+Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
+### [Rice Cooker Collard Greens](rice-cooker-collard-greens.adoc)
+Rice Cooker Collard Greens, Walterboro Style, is a Southern-inspired dish that uses a rice cooker for convenience. Optional replacements for the ham hock include diced ham or bacon for added flavor.
 
 ## &#127812; Mushrooms
 ### [Goat Cheese Stuffed Mushrooms](goat-cheese-mushrooms.adoc)
