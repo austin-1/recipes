@@ -11,6 +11,8 @@ Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor t
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
 ### [Olive Collard Greens](olive-collard-greens)
 Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
+### [Mozzarella Stuffed Portobellos](mozzarella-stuffed-portobellos.adoc)
+Mozzarella Stuffed Portobellos are a delicious and savory appetizer, perfect for serving hot or at room temperature. The combination of roasted mushrooms, melted mozzarella, and a crispy herb topping makes this dish a crowd-pleaser.
 
 ## &#129388; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
