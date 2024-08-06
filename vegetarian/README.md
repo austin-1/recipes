@@ -21,5 +21,7 @@ Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a 
 ## &#127834; Rice &amp; Grains
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
+### [Kashmiri Chili &amp; Lime Basmati Rice](kashmiri-lime-rice.adoc)
+Kashmiri Chili Lime Basmati Rice is a fragrant and spicy dish that combines the heat of Kashmiri chili with the zesty flavor of lime. This vibrant rice dish pairs well with a variety of main courses, particularly those with coastal or Thai-inspired flavors.
 ### [Rice Cooker Couscous](rice-cooker-couscous.adoc)
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
