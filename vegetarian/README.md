@@ -37,6 +37,8 @@ Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory he
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
 ### [Greek Lemon Potatoes](greek-lemon-potatoes.adoc)
 Greek Lemon Potatoes are a classic Mediterranean side dish, featuring tender, lemon-infused potatoes that are crispy on the outside and soft on the inside. Perfect for accompanying any main dish.
+### [Rosemary Roasted Potatoes](rosemary-roasted-potatoes.adoc)
+These Air Fryer Rosemary Roasted Potatoes offer a quick and flavorful way to enjoy crispy, herb-infused potatoes as a side dish to complement any meal.
 
 ## &#127834; Rice &amp; Grains
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
