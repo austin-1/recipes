@@ -1,4 +1,5 @@
 = Avocado Gazpacho
+
 A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
 
 == Ingredients
