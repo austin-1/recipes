@@ -7,7 +7,7 @@ A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup 
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 ### [Garlic Bombs](garlic-bombs.adoc)
 Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
-### [Fenugreek Potatoes](fenugreek-potatoes)
+### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
 ### [Olive Collard Greens](olive-collard-greens)
 Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
