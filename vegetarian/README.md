@@ -17,6 +17,8 @@ Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-insp
 Make-Ahead Stuffed Mushrooms with Goat Cheese and Pine Nuts are a great Thanksgiving appetizer that you can make the day before!
 ### [Mozzarella Stuffed Portobellos](mozzarella-stuffed-portobellos.adoc)
 Mozzarella Stuffed Portobellos are a delicious and savory appetizer, perfect for serving hot or at room temperature. The combination of roasted mushrooms, melted mozzarella, and a crispy herb topping makes this dish a crowd-pleaser.
+### [Quinoa Stuffed Mushrooms](quinoa-stuffed-mushrooms.adoc)
+Quinoa Vegetable Stuffed Mushrooms are a healthy and flavorful dish, perfect for a hearty appetizer or side dish, combining the goodness of quinoa and fresh vegetables.
 
 ## &#129388; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
