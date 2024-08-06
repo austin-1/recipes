@@ -35,6 +35,8 @@ A bright yellow, creamy, and tangy potato salad inspired by the traditional Amis
 Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
 ### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
+### [Greek Lemon Potatoes](greek-lemon-potatoes.adoc)
+Greek Lemon Potatoes are a classic Mediterranean side dish, featuring tender, lemon-infused potatoes that are crispy on the outside and soft on the inside. Perfect for accompanying any main dish.
 
 ## &#127834; Rice &amp; Grains
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
