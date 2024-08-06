@@ -19,6 +19,8 @@ Make-Ahead Stuffed Mushrooms with Goat Cheese and Pine Nuts are a great Thanksgi
 Mozzarella Stuffed Portobellos are a delicious and savory appetizer, perfect for serving hot or at room temperature. The combination of roasted mushrooms, melted mozzarella, and a crispy herb topping makes this dish a crowd-pleaser.
 ### [Quinoa Stuffed Mushrooms](quinoa-stuffed-mushrooms.adoc)
 Quinoa Vegetable Stuffed Mushrooms are a healthy and flavorful dish, perfect for a hearty appetizer or side dish, combining the goodness of quinoa and fresh vegetables.
+### [Ricotta Stuffed Mushrooms](ricotta-stuffed-mushrooms.adoc)
+Herbed Ricotta Stuffed Mushrooms are tender mushroom caps filled with a creamy herb and ricotta mixture, perfect for an appetizer or side dish, with both air fryer and oven methods provided for easy preparation.
 
 ## &#129388; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
