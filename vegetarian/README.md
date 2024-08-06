@@ -13,6 +13,8 @@ Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a sid
 Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
 
 ## &#127812; Mushrooms
+### [Goat Cheese Stuffed Mushrooms](goat-cheese-mushrooms.adoc)
+Make-Ahead Stuffed Mushrooms with Goat Cheese and Pine Nuts are a great Thanksgiving appetizer that you can make the day before!
 ### [Mozzarella Stuffed Portobellos](mozzarella-stuffed-portobellos.adoc)
 Mozzarella Stuffed Portobellos are a delicious and savory appetizer, perfect for serving hot or at room temperature. The combination of roasted mushrooms, melted mozzarella, and a crispy herb topping makes this dish a crowd-pleaser.
 
