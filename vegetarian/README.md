@@ -31,6 +31,8 @@ Herbed Ricotta Stuffed Mushrooms are tender mushroom caps filled with a creamy h
 ## &#129364; Potatoes
 ### [Amish Potato Salad](amish-potato-salad.adoc)
 A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
+### [Bada Bing Potatoes](bada-bing-potatoes.adoc)
+Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
 ### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
 
