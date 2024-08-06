@@ -6,7 +6,7 @@ A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup 
 ## [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 
-## Cabbage
+## &#129388; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
 A healthy and flavorful twist on the classic egg roll, without the deep-fried wrapper. This dish is naturally vegan, nut-free, gluten-free, paleo, low-carb, and keto-friendly.
 ### [Lebanese Cabbage Rolls](lebanese-cabbage-rolls.adoc)
