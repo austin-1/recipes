@@ -47,5 +47,7 @@ This light and aromatic basmati rice dish pairs perfectly with seafood curries, 
 Kashmiri Chili Lime Basmati Rice is a fragrant and spicy dish that combines the heat of Kashmiri chili with the zesty flavor of lime. This vibrant rice dish pairs well with a variety of main courses, particularly those with coastal or Thai-inspired flavors.
 ### [Lemon Herb Quinoa](lemon-herb-quinoa.adoc)
 A light and refreshing side dish featuring quinoa infused with lemon and fresh herbs, perfect for any meal.
+### [Pigeon Pea Rice](pigeon-pea-rice.adoc)
+Arroz con Gandules, also known as Puerto Rican Rice with Pigeon Peas, is a traditional and flavorful dish often served during special occasions. If pigeon peas are unavailable, regular peas can be used as a substitute.
 ### [Rice Cooker Couscous](rice-cooker-couscous.adoc)
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
