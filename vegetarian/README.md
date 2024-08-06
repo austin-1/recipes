@@ -9,8 +9,10 @@ A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
 ### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
-### [Olive Collard Greens](olive-collard-greens)
+### [Olive Collard Greens](olive-collard-greens.adoc)
 Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
+### [Pear &amp; Gourde Gratin](pear-gourde-gratin.adoc)
+Pear and Gourde Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
 
 ## &#127812; Mushrooms
 ### [Goat Cheese Stuffed Mushrooms](goat-cheese-mushrooms.adoc)
