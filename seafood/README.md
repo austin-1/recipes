@@ -59,5 +59,5 @@ Gluten-free and keto-friendly crab cakes made with almond flour instead of bread
 ## &#129425; Mollusks
 ### [Garlic Clams](garlic-clams.adoc)
 This flavorful Portuguese-inspired recipe for Garlic Clams is perfect for serving with rolls and butter, making it an excellent choice for dunking in the delicious clam juice.
-### [Greek Stuffed Calamari)(greek-stuffed-calamari.adoc)
+### [Greek Stuffed Calamari](greek-stuffed-calamari.adoc)
 Baked squid stuffed with rice and herbs, baked in a tomato sauce for a traditional Greek dish.
