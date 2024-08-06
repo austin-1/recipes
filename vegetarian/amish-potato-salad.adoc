@@ -1,4 +1,5 @@
 = Shipshewana Amish Potato Salad
+
 A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
 
 == Ingredients
