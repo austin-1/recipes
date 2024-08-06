@@ -9,6 +9,8 @@ Mango Habanero Salsa balances the sweetness of ripe mangoes with a touch of heat
 ### [Roasted Tomato Salsa](roasted-tomato-salsa.adoc)
 Roasted Tomato Salsa is a flavorful, spicy salsa that combines the smoky taste of roasted tomatoes and tomatillos with the heat of árbol chilies. Perfect with tortilla chips, tacos, burrito bowls, and more!
 ## &#129476; Seasoning Blends
+### [Blackened Seasoning](blackened-seasoning.adoc)
+This blackened seasoning blend captures the bold and spicy flavors typical of Cajun cuisine, similar to what you would find in a Zatarain’s product. It’s perfect for adding a robust kick to your dishes.
 ### [Durban Masala](durban-masala-blend.adoc)
 Durban Masala is a vibrant and aromatic spice blend, integral to South African Indian cuisine, especially in dishes like curries and biryanis. This homemade version captures the authentic flavors of Durban.
 ### [Jamaican Jerk](jamaican-jerk.adoc)
