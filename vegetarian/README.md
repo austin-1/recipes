@@ -6,11 +6,13 @@ A healthy and flavorful twist on the classic egg roll, without the deep-fried wr
 ### [Lebanese Cabbage Rolls](lebanese-cabbage-rolls.adoc)
 Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a lightly spiced lentil and rice mixture. Cooked with mint, lemon, and garlic, these rolls offer a healthy, gluten-free meal. This recipe makes a large batch, perfect for filling your freezer!
 
-## Gourds
+## &#127875; Gourds
 ### [Pear &amp; Gourd Gratin](pear-gourd-gratin.adoc)
 Pear and Gourd Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
 ### [Zucchini Fritters](zucchini-fritters.adoc)
 These Air Fryer Zucchini Fritters are crispy on the outside and tender on the inside, making them a delicious way to enjoy zucchini in a fun and flavorful form.
+### [Zucchini Lasagna](zucchini-lasagna.adoc)
+This Zucchini Lasagna offers a delicious and healthier alternative to traditional lasagna, using zucchini slices instead of pasta to create a satisfying, low-carb dish.
 
 ## &#129388; Leafy Greens
 ### [Olive Collard Greens](olive-collard-greens.adoc)
