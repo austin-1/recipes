@@ -34,18 +34,6 @@ Herbed Ricotta Stuffed Mushrooms are tender mushroom caps filled with a creamy h
 ### [Spinach &amp; Mushroom Khinkali](spinach-mushroom-khinkali.adoc)
 Khinkali are a popular Georgian dish, and this vegetarian version with spinach, mushrooms, and cheese provides a fresh and flavorful alternative to the traditional meat-filled dumplings.
 
-## &#129364; Potatoes
-### [Amish Potato Salad](amish-potato-salad.adoc)
-A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
-### [Bada Bing Potatoes](bada-bing-potatoes.adoc)
-Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
-### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
-Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
-### [Greek Lemon Potatoes](greek-lemon-potatoes.adoc)
-Greek Lemon Potatoes are a classic Mediterranean side dish, featuring tender, lemon-infused potatoes that are crispy on the outside and soft on the inside. Perfect for accompanying any main dish.
-### [Rosemary Roasted Potatoes](rosemary-roasted-potatoes.adoc)
-These Air Fryer Rosemary Roasted Potatoes offer a quick and flavorful way to enjoy crispy, herb-infused potatoes as a side dish to complement any meal.
-
 ## &#127834; Rice &amp; Grains
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
@@ -60,11 +48,21 @@ Arroz con Gandules, also known as Puerto Rican Rice with Pigeon Peas, is a tradi
 ### [Rice Cooker Couscous](rice-cooker-couscous.adoc)
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
 
-## &#129365; Roots &amp; Bulbs
+## &#129364; Roots &amp; Bulbs
+### [Amish Potato Salad](amish-potato-salad.adoc)
+A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
+### [Bada Bing Potatoes](bada-bing-potatoes.adoc)
+Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
 ### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
+### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
+Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
 ### [Garlic Bombs](garlic-bombs.adoc)
 Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
+### [Greek Lemon Potatoes](greek-lemon-potatoes.adoc)
+Greek Lemon Potatoes are a classic Mediterranean side dish, featuring tender, lemon-infused potatoes that are crispy on the outside and soft on the inside. Perfect for accompanying any main dish.
+### [Rosemary Roasted Potatoes](rosemary-roasted-potatoes.adoc)
+These Air Fryer Rosemary Roasted Potatoes offer a quick and flavorful way to enjoy crispy, herb-infused potatoes as a side dish to complement any meal.
 ### [Vegetable Tikka Masala](vegetable-tikka-masala.adoc)
 This Vegetable Tikka Masala Curry is a flavorful dish that blends marinated vegetables with a rich and creamy sauce, perfectly cooked in a traditional Handi pot.
 
