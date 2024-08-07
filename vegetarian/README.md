@@ -47,6 +47,8 @@ These Air Fryer Rosemary Roasted Potatoes offer a quick and flavorful way to enj
 ## &#127834; Rice &amp; Grains
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
+### [Javaher Polow](javaher-polow.adoc)
+Iranian Jeweled Rice, or Javaher Polow, is a traditional Persian dish that combines basmati rice with a mix of dried fruits, nuts, and aromatic spices. It's known for its beautiful presentation and vibrant flavors, making it a perfect side dish for special occasions.
 ### [Kashmiri Chili &amp; Lime Basmati Rice](kashmiri-lime-rice.adoc)
 Kashmiri Chili Lime Basmati Rice is a fragrant and spicy dish that combines the heat of Kashmiri chili with the zesty flavor of lime. This vibrant rice dish pairs well with a variety of main courses, particularly those with coastal or Thai-inspired flavors.
 ### [Lemon Herb Quinoa](lemon-herb-quinoa.adoc)
