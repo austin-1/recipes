@@ -33,6 +33,8 @@ Mozzarella Stuffed Portobellos are a delicious and savory appetizer, perfect for
 Quinoa Vegetable Stuffed Mushrooms are a healthy and flavorful dish, perfect for a hearty appetizer or side dish, combining the goodness of quinoa and fresh vegetables.
 ### [Ricotta Stuffed Mushrooms](ricotta-stuffed-mushrooms.adoc)
 Herbed Ricotta Stuffed Mushrooms are tender mushroom caps filled with a creamy herb and ricotta mixture, perfect for an appetizer or side dish, with both air fryer and oven methods provided for easy preparation.
+### [Spinach &amp; Mushroom Khinkali](spinach-mushroom-khinkali.adoc)
+Khinkali are a popular Georgian dish, and this vegetarian version with spinach, mushrooms, and cheese provides a fresh and flavorful alternative to the traditional meat-filled dumplings.
 
 ## &#129364; Potatoes
 ### [Amish Potato Salad](amish-potato-salad.adoc)
