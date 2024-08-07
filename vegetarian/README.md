@@ -65,3 +65,5 @@ Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortl
 A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
 ### [Fried Green Tomatoes](fried-green-tomatoes.adoc)
 This recipe offers a healthier take on the classic Southern fried green tomatoes by using an air fryer, resulting in a crispy, golden coating with minimal oil.
+### [Ropa Vieja](ropa-vieja.adoc)
+This vegetarian Cuban Ropa Vieja stew replaces the traditional flank steak with jackfruit, retaining the rich flavors and textures of the classic dish while offering a plant-based alternative.
