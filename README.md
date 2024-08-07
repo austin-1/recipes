@@ -1,5 +1,7 @@
 # &#129368; Recipe Repository
 Welcome to my repository of recipes. Click on a category below to browse recipes.
+![Made with AsciiDoc](https://badgen.net/badge/made%20with/asciidoc/1f8197)
+
 ## [&#127838; Bread](bread/README.md)
 ## [&#129383; Desserts](desserts/README.md)
 ## [&#127859; Eggs &amp; Ham](eggs-ham/README.md)
