@@ -1,5 +1,5 @@
 # &#129368; Recipe Repository
-Welcome to my repository of recipes. Click on a category below to browse recipes.
+Welcome to my recipe repository! As someone who loves both coding and cooking, I’m excited to explore the benefits of using AsciiDoc for recipes and Markdown for index pages. Below you’ll find my favorite recipes categories to explore further. Dive in and enjoy!
 
 ![Made with AsciiDoc](https://badgen.net/badge/made%20with/asciidoc/1f8197)
 
