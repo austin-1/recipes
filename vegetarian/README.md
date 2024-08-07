@@ -21,6 +21,8 @@ Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a 
 Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
 ### [Rice Cooker Collard Greens](rice-cooker-collard-greens.adoc)
 Rice Cooker Collard Greens, Walterboro Style, is a Southern-inspired dish that uses a rice cooker for convenience. Optional replacements for the ham hock include diced ham or bacon for added flavor.
+### [Spinach Gratin](spinach-gratin.adoc)
+Creamy Spinach Gratin is a classic dish featuring fresh spinach in a rich, cheesy cream sauce. This gratin is perfect for adding a touch of indulgence to your meal, whether it's a holiday feast or a cozy family dinner.
 
 ## &#127812; Mushrooms
 ### [Goat Cheese Stuffed Mushrooms](goat-cheese-mushrooms.adoc)
