@@ -7,6 +7,8 @@ A healthy and flavorful twist on the classic egg roll, without the deep-fried wr
 Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a lightly spiced lentil and rice mixture. Cooked with mint, lemon, and garlic, these rolls offer a healthy, gluten-free meal. This recipe makes a large batch, perfect for filling your freezer!
 
 ## &#127875; Gourds
+### [Boureki](boureki.adoc)
+Boureki is a traditional Cretan dish that layers thinly sliced zucchini, potatoes, and onions with a savory blend of cheeses, garlic, and mint, then bakes them to perfection. 
 ### [Pear &amp; Gourd Gratin](pear-gourd-gratin.adoc)
 Pear and Gourd Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
 ### [Zucchini Fritters](zucchini-fritters.adoc)
