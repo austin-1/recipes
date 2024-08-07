@@ -1,8 +1,6 @@
 # &#127813; Vegetarian
 ### [Apple &amp; Brie Grilled Cheese](apple-brie-grilled-cheese.adoc)
 A delightful twist on the classic grilled cheese, featuring creamy Brie and crisp apple slices for a gourmet touch.
-### [Avocado Gazpacho](avocado-gazpacho.adoc)
-A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
 ### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 ### [Garlic Bombs](garlic-bombs.adoc)
@@ -61,3 +59,9 @@ A light and refreshing side dish featuring quinoa infused with lemon and fresh h
 Arroz con Gandules, also known as Puerto Rican Rice with Pigeon Peas, is a traditional and flavorful dish often served during special occasions. If pigeon peas are unavailable, regular peas can be used as a substitute.
 ### [Rice Cooker Couscous](rice-cooker-couscous.adoc)
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
+
+## &#127813; Tomatoes
+### [Avocado Gazpacho](avocado-gazpacho.adoc)
+A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
+### [Fried Green Tomatoes](fried-green-tomatoes.adoc)
+This recipe offers a healthier take on the classic Southern fried green tomatoes by using an air fryer, resulting in a crispy, golden coating with minimal oil.
