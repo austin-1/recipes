@@ -1,20 +1,16 @@
 # &#127813; Vegetarian
-### [Apple &amp; Brie Grilled Cheese](apple-brie-grilled-cheese.adoc)
-A delightful twist on the classic grilled cheese, featuring creamy Brie and crisp apple slices for a gourmet touch.
-### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
-A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
-### [Garlic Bombs](garlic-bombs.adoc)
-Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
-### [Pear &amp; Gourde Gratin](pear-gourde-gratin.adoc)
-Pear and Gourde Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
-### [Vegetable Tikka Masala](vegetable-tikka-masala.adoc)
-This Vegetable Tikka Masala Curry is a flavorful dish that blends marinated vegetables with a rich and creamy sauce, perfectly cooked in a traditional Handi pot.
 
 ## &#129367; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
 A healthy and flavorful twist on the classic egg roll, without the deep-fried wrapper. This dish is naturally vegan, nut-free, gluten-free, paleo, low-carb, and keto-friendly.
 ### [Lebanese Cabbage Rolls](lebanese-cabbage-rolls.adoc)
 Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a lightly spiced lentil and rice mixture. Cooked with mint, lemon, and garlic, these rolls offer a healthy, gluten-free meal. This recipe makes a large batch, perfect for filling your freezer!
+
+## Gourds
+### [Pear &amp; Gourd Gratin](pear-gourd-gratin.adoc)
+Pear and Gourd Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
+### [Zucchini Fritters](zucchini-fritters.adoc)
+These Air Fryer Zucchini Fritters are crispy on the outside and tender on the inside, making them a delicious way to enjoy zucchini in a fun and flavorful form.
 
 ## &#129388; Leafy Greens
 ### [Olive Collard Greens](olive-collard-greens.adoc)
@@ -61,6 +57,14 @@ A light and refreshing side dish featuring quinoa infused with lemon and fresh h
 Arroz con Gandules, also known as Puerto Rican Rice with Pigeon Peas, is a traditional and flavorful dish often served during special occasions. If pigeon peas are unavailable, regular peas can be used as a substitute.
 ### [Rice Cooker Couscous](rice-cooker-couscous.adoc)
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
+
+## &#129365; Roots &amp; Bulbs
+### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
+A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
+### [Garlic Bombs](garlic-bombs.adoc)
+Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
+### [Vegetable Tikka Masala](vegetable-tikka-masala.adoc)
+This Vegetable Tikka Masala Curry is a flavorful dish that blends marinated vegetables with a rich and creamy sauce, perfectly cooked in a traditional Handi pot.
 
 ## &#127813; Tomatoes
 ### [Avocado Gazpacho](avocado-gazpacho.adoc)
