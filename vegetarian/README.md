@@ -13,6 +13,8 @@ Pear and Gourd Gratin is a savory-sweet dish featuring layers of pear, pumpkin, 
 These Air Fryer Zucchini Fritters are crispy on the outside and tender on the inside, making them a delicious way to enjoy zucchini in a fun and flavorful form.
 ### [Zucchini Lasagna](zucchini-lasagna.adoc)
 This Zucchini Lasagna offers a delicious and healthier alternative to traditional lasagna, using zucchini slices instead of pasta to create a satisfying, low-carb dish.
+### [Zucchini Parmesan Skillet](zucchini-parmesan-skillet.adoc)
+This easy Zucchini Parmesan Skillet is a delightful combination of tender zucchini, savory onion-infused tomato sauce, and melted cheeses, making it a perfect side dish or vegetarian main course.
 
 ## &#129388; Leafy Greens
 ### [Olive Collard Greens](olive-collard-greens.adoc)
