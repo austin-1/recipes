@@ -7,6 +7,8 @@ A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
 ### [Pear &amp; Gourde Gratin](pear-gourde-gratin.adoc)
 Pear and Gourde Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
+### [Vegetable Tikka Masala](vegetable-tikka-masala.adoc)
+This Vegetable Tikka Masala Curry is a flavorful dish that blends marinated vegetables with a rich and creamy sauce, perfectly cooked in a traditional Handi pot.
 
 ## &#129367; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
