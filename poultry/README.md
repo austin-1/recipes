@@ -39,6 +39,7 @@ This one-pan Pesto Chicken and Cauliflower dish is a fast and healthy option for
 Lemon Tarragon Chicken Salad Lettuce Wraps are low fat, low carb, and made with no mayo! These refreshing wraps are perfect for summer entertaining and are quick to prepare.
 #### [Tomato Chicken Breasts](tomato-chicken-breasts.adoc)
 This easy and juicy Dutch oven chicken breast with tomatoes is a must-try! Tender and flavorful boneless chicken breasts are cooked in a rich tomato sauce with simple everyday spices and vegetables. It's the perfect comfort food for the whole family.
+
 ### Chicken Legs &amp; Thighs
 #### [Berbere Chicken](berbere-chicken.adoc)
 Berbere Chicken is a flavorful and spicy dish from Ethiopian cuisine, featuring chicken thighs seasoned with a homemade Berbere spice mix, served over a bed of lentils cooked with aromatic vegetables and spices.
@@ -58,6 +59,7 @@ Pollo Sabroso is a traditional Peruvian dish known for its comforting flavors an
 This hearty dish features tender chicken drumsticks cooked in a rich red wine sauce with vegetables. It's perfect for a comforting meal, especially when served over mashed potatoes, grits, or rice.
 #### [Salvadoran Stewed Chicken](salvadoran-stewed-chicken.adoc)
 Salvadoran Stewed Chicken is a flavorful and hearty dish made with tender chicken drumsticks cooked in a rich tomato and vegetable sauce. This comforting stew is perfect served over rice or with tortillas for a satisfying meal.
+
 ### Chicken Wings
 #### [Air Fryer Buffalo Wings](air-fryer-buffalo-wings.adoc)
 Air Fryer Chicken Wings deliver the perfect combination of crispy skin and tender, juicy meat. This method ensures an easy clean-up and is an excellent alternative for those who love the classic taste of fried wings but prefer a healthier approach.
@@ -65,9 +67,12 @@ Air Fryer Chicken Wings deliver the perfect combination of crispy skin and tende
 Crispy Baked Chicken Wings offer a delightful crunch without the hassle of deep frying. Prepare the flavorful Buffalo sauce first for a seamless cooking process that results in perfectly seasoned wings.
 #### [Garlic Parmesan Wings](garlic-parmesan-wings.adoc)
 Air Fryer Garlic and Parmesan Wings are crispy and packed with flavor, making them the perfect snack for any gathering. They pair wonderfully with a bitter IPA, balancing the robust flavors of garlic and Parmesan.
+
 ### Whole Chicken
 #### [Chicken Aji Verde](chicken-aji-verde.adoc)
 Chicken Aji Verde is a Peruvian-inspired dish that features a whole chicken marinated in a tangy, spiced blend and roasted atop a bed of potatoes. The dish is known for its rich, zesty flavors and tender, juicy meat, making it a perfect centerpiece for a flavorful meal.
+#### [Chicken Korma](chicken-korma.md)
+This Chicken Korma is a flavorful and creamy dish with tender chicken pieces simmered in a rich sauce made from spices, tomatoes, and cream. Perfect for a comforting meal, it can be prepared ahead of time and reheats well.
 #### [Dutch Oven Roasted Chicken](dutch-oven-chicken.adoc)
 A simple yet flavorful recipe, this Dutch Oven Whole Roast Chicken is smothered in a lemon, garlic, and rosemary butter, making it the perfect centerpiece for a hearty dinner. Traditionally served with potatoes, this dish combines convenience and gourmet cooking in one pot.
 #### [Greek Chicken](greek-chicken.adoc)
