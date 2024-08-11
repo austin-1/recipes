@@ -59,5 +59,3 @@
 4. **Bake**: Bake in the preheated oven for 15-18 minutes, or until the cookie tops are golden brown and a toothpick inserted into the center comes out with a few moist crumbs.
 
 5. **Cool and Finish**: Let the cookie brownies cool in the muffin tin for about 10 minutes before removing. Drizzle with any remaining caramel sauce and sprinkle with sea salt before serving.
-
-### Enjoy your Salted Caramel Muffin Tin Cookie Brownies!
