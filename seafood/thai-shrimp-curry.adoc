@@ -8,7 +8,7 @@ This recipe takes the traditional Thai shrimp curry and enhances it by using a p
 * 1 small onion, finely chopped
 * 1 clove garlic, minced
 * 1 teaspoon ginger, minced
-* 1-2 tablespoons Summer Thai Coastal Curry Spice Blend (made ahead of time)
+* 1-2 tablespoons [Summer Thai Coastal Curry Spice Blend](../sauces-seasonings/thai-summer-curry.adoc) (made ahead of time)
 * 1 cup coconut milk
 * 1/4 cup chicken or vegetable broth
 * 1 tablespoon fish sauce
