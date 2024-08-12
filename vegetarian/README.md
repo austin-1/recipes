@@ -59,6 +59,10 @@ A bright yellow, creamy, and tangy potato salad inspired by the traditional Amis
 Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
 ### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
+
+### [Fennel Potatoes](fennel-potatoes.adoc)
+Stovetop fennel seed garlic mini potatoes are a quick and delicious side dish that pairs well with a variety of main courses. The combination of fennel seeds and garlic gives the potatoes a savory and slightly sweet flavor.
+
 ### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
 ### [Garlic Bombs](garlic-bombs.adoc)
