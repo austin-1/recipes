@@ -11,6 +11,9 @@ Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a 
 Boureki is a traditional Cretan dish that layers thinly sliced zucchini, potatoes, and onions with a savory blend of cheeses, garlic, and mint, then bakes them to perfection. 
 ### [Pear &amp; Gourd Gratin](pear-gourd-gratin.adoc)
 Pear and Gourd Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
+
+### [Stuffed Zucchini](stuffed-zucchini.adoc)
+This stuffed zucchini recipe combines white and garbanzo beans with a blend of herbs and vegetables for a flavorful and satisfying dish. Perfect as a main course or a side dish.
 ### [Zucchini Fritters](zucchini-fritters.adoc)
 These Air Fryer Zucchini Fritters are crispy on the outside and tender on the inside, making them a delicious way to enjoy zucchini in a fun and flavorful form.
 ### [Zucchini Lasagna](zucchini-lasagna.adoc)
