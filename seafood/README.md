@@ -1,9 +1,12 @@
 # &#129424; Seafood
+
 ## &#128031; Fish
 ### [Blackened Cod](blackened-cod.adoc)
 This dish blends the bold flavors of blackened seasoning with tender cod and savory vegetables, cooked to perfection in a slow cooker. It's a comforting and flavorful meal perfect for any day of the week.
+
 ### [Blackened Tilapia](blackened-tilapia.adoc)
 An array of savory spices coat this easy blackened tilapia, served on white bread to soak up the delicious juices.
+
 ### [Cajun Cod](cajun-cod.adoc)
 Baked Cajun Garlic Butter Cod is a tender and juicy cod fillet baked in a buttery Cajun seasoning with garlic and olive oil, making this cod a flavorful and delicious dinner. Baked to perfection in just 15 minutes!
 ### [Cajun Red Snapper](cajun-red-snapper.adoc)
@@ -18,6 +21,7 @@ Thick-cut cod is pan-seared in a mixture of olive oil and butter to produce a go
 This Lemon Soy Roasted Branzino is a fusion dish that brings together the freshness of Mediterranean flavors with a touch of Asian influence. Inspired by a memorable dish from an Italian restaurant in New York City, it's a flavorful and elegant option for a seafood dinner.
 ### [Parmesan Catfish](parmesan-catfish.adoc)
 This moist baked catfish has a slightly crunchy coating with a mild Parmesan flavor. It's an easy-to-fix recipe that's sure to be a hit, even with kids.
+
 ### [Pomegranate Glazed Salmon](pomegranate-glazed-salmon.adoc)
 This dish combines perfectly cooked salmon with a bright and refreshing asparagus salad, topped with a sweet and tangy pomegranate glaze. It's an easy and elegant meal that's sure to impress!
 ### [Roasted Dill Salmon](roasted-dill-salmon.adoc)
@@ -32,6 +36,7 @@ These refreshing salmon stuffed cucumber appetizers are quick and easy to make w
 This Sous Vide Dill Salmon is perfectly cooked and infused with the flavors of fresh dill, garlic, and lemon. A simple yet elegant dish that's sure to impress.
 ### [Soy Ginger Salmon Collars](soy-ginger-salmon-collars.adoc)
 The collar of salmon is full of flavorful meat that stays succulent when broiled. This dish pairs the rich taste of salmon collars with a bold soy-ginger sauce, making it a delicious and easy meal.
+
 ## &#127844; Shrimp
 ### [Baked Frogmore Stew](baked-frogmore-stew.adoc)
 Oven-Baked Frogmore Stew is a delightful and easy twist on the traditional Lowcountry boil, featuring shrimp, sausage, potatoes, and corn all baked to perfection.
@@ -49,6 +54,7 @@ Healthy zucchini noodles "zucchini pasta" are tossed with lemon garlic shrimp fo
 Pan-seared, tender Thai Shrimp Cakes with a golden panko crust served with creamy Chili Aioli. Simple, yet wildly flavorful, these shrimp cakes can be enjoyed as an appetizer or entree.
 ### [Thai Shrimp Curry](thai-shrimp-curry.adoc)
 A flavorful Thai shrimp curry made with a homemade spice blend, perfect for a cozy meal.
+
 ## &#129408; Shellfish
 ### [Baked Crawfish Cavatappi](baked-crawfish-cavatappi.adoc)
 This rich and indulgent baked mac and cheese combines cavatappi pasta with succulent crawfish tails and a savory lobster base, making it a perfect main course or side dish.
@@ -56,8 +62,14 @@ This rich and indulgent baked mac and cheese combines cavatappi pasta with succu
 This Summer-Inspired Crawfish Corn Chowder is a creamy, flavorful dish that combines sweet corn, tender crawfish, and vibrant vegetables. It's the perfect comfort food with a hint of spice for a warm day.
 ### [Low Carb Crab Cakes](low-carb-crab-cakes.adoc)
 Gluten-free and keto-friendly crab cakes made with almond flour instead of breadcrumbs. These crab cakes are wonderfully crispy and delicious, perfect as an appetizer or main course.
+
 ## &#129425; Mollusks
+
 ### [Garlic Clams](garlic-clams.adoc)
 This flavorful Portuguese-inspired recipe for Garlic Clams is perfect for serving with rolls and butter, making it an excellent choice for dunking in the delicious clam juice.
+
 ### [Greek Stuffed Calamari](greek-stuffed-calamari.adoc)
 Baked squid stuffed with rice and herbs, baked in a tomato sauce for a traditional Greek dish.
+
+### [Squid Gilroy](squid-gilroy.adoc)
+Squid Gilroy for Two is a flavorful seafood dish that combines tender squid with a rich tomato and red wine sauce, making it perfect for an intimate dinner.
