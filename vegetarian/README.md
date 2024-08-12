@@ -58,6 +58,10 @@ Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortl
 ## &#129364; Roots &amp; Bulbs
 ### [Amish Potato Salad](amish-potato-salad.adoc)
 A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
+
+### [Artichoke &amp; Garlic Frittata](artichoke-garlic-frittata.adoc)
+This Artichoke and Garlic Frittata is a savory and satisfying dish, rich with Mediterranean flavors and perfect for brunch or a light dinner.
+
 ### [Bada Bing Potatoes](bada-bing-potatoes.adoc)
 Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
 ### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
