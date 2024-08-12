@@ -26,6 +26,7 @@ This recipe takes the traditional Thai shrimp curry and enhances it by using a p
 
 2. **Prepare Ingredients on the Stove:**
    * In a separate skillet, heat the oil over medium heat.
+   * Brown the zucchini slices to remove excess moisture, then set aside.
    * Sauté the onion, garlic, and ginger until the onion is translucent.
    * Add the spice blend and cook until fragrant, about 1-2 minutes.
    * Pour in the coconut milk and broth, add the fish sauce and sugar, and bring to a simmer.
