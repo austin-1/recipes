@@ -1,4 +1,7 @@
 = Egg Roll in a Bowl
+
+link:../README.md[&larrhk; Back to Vegetarian Recipes]
+
 A healthy and flavorful twist on the classic egg roll, without the deep-fried wrapper. This dish is naturally vegan, nut-free, gluten-free, paleo, low-carb, and keto-friendly.
 
 == Ingredients
