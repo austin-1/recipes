@@ -1,14 +1,24 @@
 # &#128020; Poultry
+
+[&larrhk; Back to All Recipes](../README.md)
+
 ## &#128019; Chicken
+
 ### Chicken Breasts
+
 #### [Aji de Gallina](aji-gallina.adoc)
+
 Ají de Gallina is a traditional Peruvian dish made with shredded chicken in a creamy, spicy sauce. This flavorful dish is typically served over boiled potatoes with a side of white rice, and garnished with hard-boiled eggs and olives.
+
 #### [Caprese Chicken Breasts](caprese-chicken-breasts.adoc)
 This Caprese Stuffed Chicken Breast recipe is an easy and healthy dinner that combines the classic flavors of mozzarella, basil, and sun-dried tomatoes. It's a delicious dish that is sure to impress your dinner guests.
+
 #### [Chicken Anticuchos](chicken-anticuchos.adoc)
 Anticuchos, or brochettes, hold a special place in Peruvian cuisine. These flavorful skewers of marinated chicken are grilled to perfection and served with golden potatoes, making them a satisfying and delicious dish to enjoy all year round.
+
 #### [Chicken Durban Masala](chicken-durban-masala.adoc)
 Chicken Durban Masala is a flavorful and spicy South African curry dish, made with a blend of aromatic spices, tender chicken, and hearty potatoes. Traditionally served in a bread bowl known as Bunny Chow, this version is cooked in Handi clay pots for a rich and authentic taste.
+
 #### [Chicken Escabeche](chicken-escabeche.adoc)
 Chicken Escabeche is a flavorful dish where chicken breasts are marinated and served with a spicy, tangy escabeche sauce made from red onions, garlic, and ají panca paste. This versatile sauce can also be used with beans, fried fish, and other meats, making it a delicious and adaptable dish.
 #### [Chicken Florentine](chicken-florentine.adoc)
