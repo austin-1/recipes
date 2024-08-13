@@ -1,9 +1,15 @@
 # &#129474; Sauces &amp; Seasonings
+
+[&larrhk; Back to All Recipes](../README.md)
+
 ## &#129387; Salsas
+
 ### [Corn &amp; Onion Salsa](corn-onion-salsa.adoc)
 This Corn and Onion Salsa is a fresh and zesty topping that's perfect for tacos, burritos, bowls, or as a dip with tortilla chips. It's a versatile dish that brings a burst of flavor to any meal.
+
 ### [Green Chili Tomatillo Salsa](green-chili-tomatillo-salsa.adoc)
 Green Chili Tomatillo Salsa is a smoky and spicy salsa with a burst of citrus and fresh cilantro. This homemade version is perfect for adding a kick to your favorite Mexican dishes.
+
 ### [Mango Habanero Salsa](mango-habanero-salsa.adoc)
 Mango Habanero Salsa balances the sweetness of ripe mangoes with a touch of heat from habanero, creating a perfect summer treat. It's versatile enough to be enjoyed with tortilla chips, as a topping for grilled meats, or on tacos.
 ### [Roasted Tomato Salsa](roasted-tomato-salsa.adoc)
