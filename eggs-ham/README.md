@@ -1,5 +1,7 @@
 # &#127859; Eggs &amp; Ham
 
+[&larrhk; Back to All Recipes](../README.md)
+
 ## [Artichoke &amp; Garlic Frittata](artichoke-garlic-frittata.adoc)
 This Artichoke and Garlic Frittata is a savory and satisfying dish, rich with Mediterranean flavors and perfect for brunch or a light dinner.
 
