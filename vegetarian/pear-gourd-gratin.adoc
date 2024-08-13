@@ -1,5 +1,7 @@
 = Pear and Gourd Gratin
 
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
+
 A savory-sweet gratin made with pears, acorn squash, and pumpkin, layered with a spiced honey mixture and baked to perfection.
 
 == Ingredients
