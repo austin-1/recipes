@@ -1,5 +1,7 @@
 # &#129424; Seafood
 
+[&larrhk; Back to All Recipes](../README.md)
+
 ## &#128031; Fish
 ### [Blackened Cod](blackened-cod.adoc)
 This dish blends the bold flavors of blackened seasoning with tender cod and savory vegetables, cooked to perfection in a slow cooker. It's a comforting and flavorful meal perfect for any day of the week.
