@@ -1,5 +1,7 @@
 # &#127813; Vegetarian
 
+[&larrhk; Back to All Recipes](../README.md)
+
 ## &#129367; Cabbage
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
 A healthy and flavorful twist on the classic egg roll, without the deep-fried wrapper. This dish is naturally vegan, nut-free, gluten-free, paleo, low-carb, and keto-friendly.
