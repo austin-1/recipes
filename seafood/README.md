@@ -3,40 +3,46 @@
 [&larrhk; Back to All Recipes](../README.md)
 
 ## &#128031; Fish
-### [Blackened Cod](blackened-cod.adoc)
+
+### White Fish
+
+#### [Blackened Cod](blackened-cod.adoc)
 This dish blends the bold flavors of blackened seasoning with tender cod and savory vegetables, cooked to perfection in a slow cooker. It's a comforting and flavorful meal perfect for any day of the week.
 
-### [Blackened Tilapia](blackened-tilapia.adoc)
+#### [Blackened Tilapia](blackened-tilapia.adoc)
 An array of savory spices coat this easy blackened tilapia, served on white bread to soak up the delicious juices.
 
-### [Cajun Cod](cajun-cod.adoc)
+#### [Cajun Cod](cajun-cod.adoc)
 Baked Cajun Garlic Butter Cod is a tender and juicy cod fillet baked in a buttery Cajun seasoning with garlic and olive oil, making this cod a flavorful and delicious dinner. Baked to perfection in just 15 minutes!
-### [Cajun Red Snapper](cajun-red-snapper.adoc)
-This spicy Cajun Red Snapper dish is quick to prepare and full of bold flavors, making it a perfect weeknight meal.
-### [Cod Puttanesca](cod-puttanesca.adoc)
+#### [Cod Puttanesca](cod-puttanesca.adoc)
 This Cod and Potatoes Puttanesca is a savory, Mediterranean-inspired dish combining the rich flavors of garlic, anchovies, olives, and capers with tender cod and potatoes. It's a comforting yet elegant meal perfect for any occasion.
-### [Fried Tilapia &amp; Plantains](fried-tilapia-plantains.adoc)
+#### [Fried Tilapia &amp; Plantains](fried-tilapia-plantains.adoc)
 A delicious combination of fish fillets and crispy plantains, marinated in a flavorful spice blend and fried to perfection.
-### [Lemon Caper Cod](lemon-caper-cod.adoc)
+#### [Lemon Caper Cod](lemon-caper-cod.adoc)
 Thick-cut cod is pan-seared in a mixture of olive oil and butter to produce a golden brown crust, then served with a lemon, parsley, and caper sauce. This simple and healthy dish makes for a perfect weeknight meal.
-### [Lemon Soy Branzino](lemon-soy-branzino.adoc)
+#### [Lemon Soy Branzino](lemon-soy-branzino.adoc)
 This Lemon Soy Roasted Branzino is a fusion dish that brings together the freshness of Mediterranean flavors with a touch of Asian influence. Inspired by a memorable dish from an Italian restaurant in New York City, it's a flavorful and elegant option for a seafood dinner.
-### [Parmesan Catfish](parmesan-catfish.adoc)
+#### [Parmesan Catfish](parmesan-catfish.adoc)
 This moist baked catfish has a slightly crunchy coating with a mild Parmesan flavor. It's an easy-to-fix recipe that's sure to be a hit, even with kids.
 
-### [Pomegranate Glazed Salmon](pomegranate-glazed-salmon.adoc)
+### Pink Fish
+
+#### [Cajun Red Snapper](cajun-red-snapper.adoc)
+This spicy Cajun Red Snapper dish is quick to prepare and full of bold flavors, making it a perfect weeknight meal.
+
+#### [Pomegranate Glazed Salmon](pomegranate-glazed-salmon.adoc)
 This dish combines perfectly cooked salmon with a bright and refreshing asparagus salad, topped with a sweet and tangy pomegranate glaze. It's an easy and elegant meal that's sure to impress!
-### [Roasted Dill Salmon](roasted-dill-salmon.adoc)
+#### [Roasted Dill Salmon](roasted-dill-salmon.adoc)
 This easy and flavorful Roasted Dill Salmon pairs perfectly with a creamy dill sauce, making it a delicious and healthy meal option.
-### [Rosemary Red Snapper](lemon-red-snapper.adoc)
+#### [Rosemary Red Snapper](lemon-red-snapper.adoc)
 This easy and flavorful baked red snapper is infused with fresh herbs, fennel, and a zesty lemon sauce, making it a perfect dish for a special meal.
-### [Salmon Dijon Tarragon](salmon-dijon-tarragon.adoc)
+#### [Salmon Dijon Tarragon](salmon-dijon-tarragon.adoc)
 This baked salmon dish is served with a tangy tarragon Dijon sauce, making it a flavorful and easy main course perfect for any occasion.
-### [Salmon Stuffed Cucumbers](salmon-stuffed-cucumbers.adoc)
+#### [Salmon Stuffed Cucumbers](salmon-stuffed-cucumbers.adoc)
 These refreshing salmon stuffed cucumber appetizers are quick and easy to make with just six common ingredients. Perfect for a healthy snack or party appetizer!
-### [Sous Vide Dill Salmon](sous-vide-dill-salmon.adoc)
+#### [Sous Vide Dill Salmon](sous-vide-dill-salmon.adoc)
 This Sous Vide Dill Salmon is perfectly cooked and infused with the flavors of fresh dill, garlic, and lemon. A simple yet elegant dish that's sure to impress.
-### [Soy Ginger Salmon Collars](soy-ginger-salmon-collars.adoc)
+#### [Soy Ginger Salmon Collars](soy-ginger-salmon-collars.adoc)
 The collar of salmon is full of flavorful meat that stays succulent when broiled. This dish pairs the rich taste of salmon collars with a bold soy-ginger sauce, making it a delicious and easy meal.
 
 ## &#127844; Shrimp
