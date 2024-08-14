@@ -33,7 +33,7 @@ Though at first it seems an odd tip of the hat to familiar Beef Wellington, this
 
 ### Ingredients
 
-- 1/2 pound medium bay scallops, removed from shell (with coral removed), drained
+- 1.5 pounds medium bay scallops, removed from shell (with coral removed), drained
 - 4 eggs
 - 1 cup heavy cream
 - Salt and white pepper
