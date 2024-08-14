@@ -46,6 +46,10 @@ Oven-Baked Frogmore Stew is a delightful and easy twist on the traditional Lowco
 A delightful blend of shrimp, bell peppers, and onions seasoned and baked to perfection with a crispy cheese fondue topping. This easy recipe is perfect for a flavorful appetizer or main course.
 ### [Cajun Shrimp &amp; Cod Stew](cajun-shrimp-cod-stew.adoc)
 This hearty Cajun stew features tender shrimp and cod in a flavorful broth with vegetables and spices, making it a perfect dish for a comforting meal.
+
+### [Edisto Island Strata](edisto-island-strata.md)
+This strata captures the essence of Edisto Island with fresh seafood and summer vegetables, perfect for a light and flavorful brunch or dinner.
+
 ### [Shrimp Campechana](shrimp-campechana.adoc)
 This Shrimp Campechana is a vibrant appetizer featuring fresh Gulf shrimp and a medley of flavorful ingredients, perfect for any gathering.
 ### [Shrimp Ceviche](shrimp-ceviche.adoc)
