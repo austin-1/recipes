@@ -48,3 +48,25 @@ Though at first it seems an odd tip of the hat to familiar Beef Wellington, this
 1. Place the scallops in a blender and blend until light and smooth.
 2. Add the eggs and heavy cream, then season to taste with salt and white pepper. Blend for 2 minutes more at high speed.
 3. While continuing to blend, add the carrots, leeks, parsley, and cayenne. Blend until a smooth mousse is achieved, thickening as needed with the breadcrumbs.
+
+## White Butter Sauce
+
+**Yields 2 cups**
+
+### Ingredients
+
+- 1/8 cup chopped shallots
+- 1/4 teaspoon coarse white pepper
+- 1 1/2 cups dry white wine
+- 1/4 cup heavy cream
+- 1/2 cup (1 stick) butter
+- Salt
+
+### Instructions
+
+1. Combine the shallots, white pepper, and wine in a pot. Bring to a boil over high heat, then reduce the heat and simmer until the liquid has almost evaporated.
+2. Add the cream and reduce to one-third of its original volume.
+3. Remove from the heat and add the butter, small amounts at a time, whipping with a whisk until the butter is completely mixed with the cream. (The sauce will separate if this is done over heat.)
+4. Season to taste with salt.
+
+**Note:** White butter sauce cannot be stored, but any leftovers are good over a sophisticated salad.
