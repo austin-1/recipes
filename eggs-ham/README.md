@@ -14,6 +14,9 @@ Cajun Pickled Eggs are a Southern delicacy that combines hard-cooked eggs with b
 ## [Crustless Spinach Pie](crustless-spinach-pie.adoc)
 This easy crustless spinach pie is cheesy and full of spinach, making it a keto-friendly option for breakfast or a delicious, veggie-packed dinner.
 
+## [Everything Bagel Cream Cheese Breakfast Bake](everything-bagel-bake.md)
+This breakfast bake combines savory ingredients like sausage, eggs, cheese, and everything bagels into a flavorful and hearty dish, ideal for serving at a brunch or as a special morning meal.
+
 ## [Ham, Tomato, Spinach, &amp; Onion Frittata](ham-tomato-spinach-frittata.adoc)
 This Ham, Tomato, Spinach, and Onion Frittata is a delicious and versatile dish that's perfect for breakfast, brunch, or even a light dinner. Packed with protein and fresh vegetables, it's a healthy and satisfying meal.
 
