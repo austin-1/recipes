@@ -33,5 +33,3 @@ This traditional dish combines tender chicken with a flavorful blend of tiger li
 7. Add another dash of pepper and the cornstarch mixture to the sauce. Stir well for 1 minute until the sauce thickens.
 8. Add a dash of sesame oil and stir for a few seconds.
 9. Pour the sauce over the chicken and serve hot.
-
-Serves 4 to 6.
