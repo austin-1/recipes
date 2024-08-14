@@ -1,5 +1,7 @@
 # Pan-Fried Chicken (Dan Noon Gai)
 
+[&larrhk; Back to Poultry Recipes](./README.md)
+
 This traditional dish combines tender chicken with a flavorful blend of tiger lily buds, mushrooms, and red dates, all simmered in a savory sauce.
 
 ### Ingredients
