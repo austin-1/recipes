@@ -1,5 +1,7 @@
 # Everything Bagel Cream Cheese Breakfast Bake
 
+[&larrhk; Back to Eggs &amp; Ham Recipes](./README.md)
+
 This breakfast bake combines the flavors of everything bagels with sausage, eggs, and cheese, creating a hearty and satisfying dish. It's perfect for brunch or a special morning meal, bringing together a variety of ingredients into a flavorful casserole.
 
 ## Ingredients
