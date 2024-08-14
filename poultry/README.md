@@ -89,6 +89,10 @@ A simple yet flavorful recipe, this Dutch Oven Whole Roast Chicken is smothered 
 This Greek-inspired dish features a whole chicken roasted to perfection in a Dutch oven with a medley of vegetables. The chicken is seasoned with a blend of herbs and spices, and the dish is finished with a touch of lemon for a burst of fresh flavor.
 #### [Lemon Basil Chicken](lemon-basil-chicken.adoc)
 This tender and fragrant chicken dish is perfect for Sunday dinner or any special occasion. The lemon and basil infuse the chicken with fresh, vibrant flavors.
+
+#### [Pan-Fried Chicken](pan-fried-chicken.md)
+This traditional dish combines tender chicken with a flavorful blend of tiger lily buds, mushrooms, and red dates, all simmered in a savory sauce.
+
 #### [Roasted Chicken with Wild Rice](roasted-chicken-wild-rice.adoc)
 This Dutch Oven Roasted Chicken with Wild Rice combines tender chicken with the nutty flavors of wild rice, seasoned with a blend of spices for a comforting and delicious meal perfect for a Sunday dinner.
 #### [Rosemary Roasted Chicken](rosemary-roasted-chicken.adoc)
