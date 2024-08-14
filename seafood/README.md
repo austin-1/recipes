@@ -62,6 +62,8 @@ A flavorful Thai shrimp curry made with a homemade spice blend, perfect for a co
 This rich and indulgent baked mac and cheese combines cavatappi pasta with succulent crawfish tails and a savory lobster base, making it a perfect main course or side dish.
 ### [Crawfish Corn Chowder](crawfish-corn-chowder.adoc)
 This Summer-Inspired Crawfish Corn Chowder is a creamy, flavorful dish that combines sweet corn, tender crawfish, and vibrant vegetables. It's the perfect comfort food with a hint of spice for a warm day.
+### [Crawfish Wellington](crawfish-wellington.md)
+Though at first it seems an odd tip of the hat to familiar Beef Wellington, this dish is a wonderful variation spotlighting Louisiana's most versatile shellfish. A filling of crawfish tails, mushrooms, and scallop mousse is sealed in puff pastry and served in a pool of White Butter Sauce.
 ### [Low Carb Crab Cakes](low-carb-crab-cakes.adoc)
 Gluten-free and keto-friendly crab cakes made with almond flour instead of breadcrumbs. These crab cakes are wonderfully crispy and delicious, perfect as an appetizer or main course.
 
