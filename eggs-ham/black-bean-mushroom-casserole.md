@@ -1,5 +1,7 @@
 # Black Bean & Mushroom Enchilada Casserole
 
+[&larrhk; Back to Eggs &amp; Ham Recipes](./README.md)
+
 This casserole combines the flavors of black beans, mushrooms, and spices into a hearty dish, perfect for any meal. It's a versatile and group-friendly recipe, ideal for brunch or dinner.
 
 ## Ingredients
