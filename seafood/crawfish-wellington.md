@@ -1,5 +1,7 @@
 # Crawfish Wellington
 
+[&larrhk; Back to Seafood Recipes](./README.md)
+
 Though at first it seems an odd tip of the hat to familiar Beef Wellington, this dish is a wonderful variation spotlighting Louisiana's most versatile shellfish. A filling of crawfish tails, mushrooms, and scallop mousse is sealed in puff pastry and served in a pool of White Butter Sauce.
 
 ## Ingredients
