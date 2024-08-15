@@ -1,5 +1,11 @@
 = Qutab with Cheese and Herbs
 
+link:./README.md[&larrhk; Back to Bread Recipes]
+
+Qutab with Cheese and Herbs is a savory Azerbaijani flatbread filled with a flavorful mixture of cheese, spinach, and herbs, perfect for a delicious snack or appetizer.
+
+Adapted from _Cooking 4 All Seasons_, Srivalli Jetti
+
 == Ingredients
 
 === For the Outer Layer
