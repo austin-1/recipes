@@ -16,6 +16,10 @@ Pear and Gourd Gratin is a savory-sweet dish featuring layers of pear, pumpkin, 
 
 ### [Stuffed Zucchini](stuffed-zucchini.adoc)
 This stuffed zucchini recipe combines white and garbanzo beans with a blend of herbs and vegetables for a flavorful and satisfying dish. Perfect as a main course or a side dish.
+
+### [Vegetable Cobbler](vegetable-cobbler.md)
+This savory cobbler pairs roasted vegetables with fluffy herb drop biscuits, making it a satisfying and versatile main dish that's perfect for showcasing seasonal produce.
+
 ### [Zucchini Fritters](zucchini-fritters.adoc)
 These Air Fryer Zucchini Fritters are crispy on the outside and tender on the inside, making them a delicious way to enjoy zucchini in a fun and flavorful form.
 ### [Zucchini Lasagna](zucchini-lasagna.adoc)
