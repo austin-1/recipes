@@ -1,5 +1,7 @@
 # Sweet Potato, Feta & Chive Muffins
 
+[&larrhk; Back to Vegetarian Recipes](./README.md)
+
 These savory muffins combine the earthy sweetness of sweet potatoes with the salty tang of feta and Parmesan, making them a delicious grab-and-go breakfast or a perfect side to soups.
 
 ## Ingredients
