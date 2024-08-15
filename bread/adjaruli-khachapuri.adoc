@@ -2,6 +2,10 @@
 
 link:./README.md[&larrhk; Back to Bread Recipes]
 
+Adjaruli Khachapuri is a traditional Georgian cheese-filled bread shaped like a boat, topped with a perfectly baked egg, and often served with a pat of butter for added richness.
+
+Adapted from _Curious Cuisinière_, Sarah Ozimek
+
 == Ingredients
 
 === For the Dough
