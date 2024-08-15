@@ -1,5 +1,7 @@
 = Dutch Oven French Toast Casserole
 
+link:./README.md[&larrhk; Back to Bread Recipes]
+
 == Ingredients
 
 * 1 loaf day-old French bread
