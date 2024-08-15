@@ -1,6 +1,10 @@
-# Savory Vegetable Cobbler with Herb Drop Biscuits
+# Vegetable Cobbler with Herb Drop Biscuits
+
+[&larrhk; Back to Vegetarian Recipes](./README.md)
 
 This hearty vegetable cobbler, topped with tender herb drop biscuits, is a comforting and adaptable dish that showcases the flavors of roasted vegetables in a savory crumble.
+
+Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Westerhausen
 
 ## Ingredients
 
