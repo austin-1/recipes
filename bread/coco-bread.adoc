@@ -1,5 +1,11 @@
 = Coco Bread
 
+link:./README.md[&larrhk; Back to Bread Recipes]
+
+Coco Bread is a soft, buttery Jamaican bread made with coconut milk, perfect for pairing with savory fillings or enjoying on its own.
+
+Adapted from _Immaculate Bites_, Imma Adamu
+
 == Ingredients
 
 * 1/2 cup coconut milk
