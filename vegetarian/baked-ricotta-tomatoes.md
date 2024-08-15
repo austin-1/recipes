@@ -1,6 +1,10 @@
 # Baked Ricotta & Tomatoes with Thyme Butter
 
+[&larrhk; Back to Vegetarian Recipes](./README.md)
+
 This simple and addictive baked ricotta dip is best enjoyed warm with crackers, toast, or veggies, making it a perfect appetizer for any gathering.
+
+Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Westerhausen
 
 ## Ingredients
 
