@@ -1,5 +1,11 @@
 = Lachuch (Yemenite Flatbread)
 
+link:./README.md[&larrhk; Back to Bread Recipes]
+
+Lachuch is a traditional Yemenite flatbread with a spongy texture, made from a simple batter and cooked on a stovetop until golden with characteristic air pockets.
+
+Adapted from _Cook with Renu_, Renu Agrawal-Dongre
+
 == Ingredients
 
 * 3/4-1 teaspoon active dry yeast
@@ -20,3 +26,6 @@
 5. Pour a ladle full of batter onto the pan and let it cook on medium heat for 3-4 minutes.
 6. You will notice air pockets forming, and the bread will start leaving the edges once cooked. The top should be cooked and not wet.
 7. Remove and let it rest on a clean kitchen towel.
+
+
+Lachuch is a traditional Yemenite flatbread with a spongy texture, made from a simple batter and cooked on a stovetop until golden with characteristic air pockets.
