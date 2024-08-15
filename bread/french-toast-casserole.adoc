@@ -2,6 +2,10 @@
 
 link:./README.md[&larrhk; Back to Bread Recipes]
 
+Dutch Oven French Toast Casserole is a comforting, baked breakfast dish made with cubes of French bread soaked in a rich, cinnamon-spiced egg mixture and baked to golden perfection.
+
+Adapted from _Let's Camp S'more_, Diana Hansen
+
 == Ingredients
 
 * 1 loaf day-old French bread
