@@ -85,8 +85,13 @@ These savory muffins are a delightful blend of sweet and salty flavors, perfect 
 This Vegetable Tikka Masala Curry is a flavorful dish that blends marinated vegetables with a rich and creamy sauce, perfectly cooked in a traditional Handi pot.
 
 ## &#127813; Tomatoes
+
 ### [Avocado Gazpacho](avocado-gazpacho.adoc)
 A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
+
+### [Baked Ricotta &amp; Tomatoes with Thyme Butter](baked-ricotta-tomatoes.md)
+This creamy baked ricotta dish, enhanced with the sweetness of cherry tomatoes and the aromatic touch of thyme, is a crowd-pleasing appetizer that's simple yet full of flavor.
+
 ### [Fried Green Tomatoes](fried-green-tomatoes.adoc)
 This recipe offers a healthier take on the classic Southern fried green tomatoes by using an air fryer, resulting in a crispy, golden coating with minimal oil.
 ### [Rice Stuffed Tomatoes](rice-stuffed-tomatoes.adoc)
