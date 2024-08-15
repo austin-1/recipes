@@ -77,6 +77,10 @@ Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor t
 Greek Lemon Potatoes are a classic Mediterranean side dish, featuring tender, lemon-infused potatoes that are crispy on the outside and soft on the inside. Perfect for accompanying any main dish.
 ### [Rosemary Roasted Potatoes](rosemary-roasted-potatoes.adoc)
 These Air Fryer Rosemary Roasted Potatoes offer a quick and flavorful way to enjoy crispy, herb-infused potatoes as a side dish to complement any meal.
+
+### [Sweet Potato, Feta &amp; Chive Muffins](sweet-potato-feta-muffins.md)
+These savory muffins are a delightful blend of sweet and salty flavors, perfect for a quick breakfast or as a side to complement your favorite soup.
+
 ### [Vegetable Tikka Masala](vegetable-tikka-masala.adoc)
 This Vegetable Tikka Masala Curry is a flavorful dish that blends marinated vegetables with a rich and creamy sauce, perfectly cooked in a traditional Handi pot.
 
