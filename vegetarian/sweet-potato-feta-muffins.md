@@ -4,6 +4,8 @@
 
 These savory muffins combine the earthy sweetness of sweet potatoes with the salty tang of feta and Parmesan, making them a delicious grab-and-go breakfast or a perfect side to soups.
 
+Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Westerhausen
+
 ## Ingredients
 
 - 1 Tbsp unsalted butter
