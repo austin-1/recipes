@@ -1,6 +1,6 @@
 = Adjaruli Khachapuri (Georgian Cheese Bread)
 
-link:./README.md[&larrk; Back to Bread Recipes]
+link:./README.md[&larrhk; Back to Bread Recipes]
 
 == Ingredients
 
