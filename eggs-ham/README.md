@@ -32,6 +32,9 @@ Baked Kashkaval with Sweet Tomato Relish and Egg Yolks is a savory dish that com
 ## [Mediterranean Deviled Eggs](mediterranean-deviled-eggs.adoc)
 All your favorite flavors of Kalamata olives, feta cheese, capers, and red onion shine in these Mediterranean Deviled Eggs. This recipe offers a tart and briny twist on the classic deviled eggs, perfect for a flavorful appetizer.
 
+## [Mushroom &amp; Artichoke Strata](mushroom-artichoke-strata.md)
+This strata takes inspiration from the vibrant flavors of Tucson, blending earthy mushrooms, tangy artichokes, and Southwestern spices. It's a perfect make-ahead dish for brunch or a light dinner.
+
 ## [Shakshouka](shakshouka.adoc)
 Shakshouka is a traditional North African and Middle Eastern dish made by poaching eggs in a spiced tomato and pepper sauce. This savory and hearty dish is perfect for breakfast, brunch, or even dinner, offering a burst of flavors in every bite.
 
