@@ -4,6 +4,8 @@
 
 Madras curry powder is a vibrant and aromatic spice mix that originates from South India, particularly the region around Chennai (formerly known as Madras). It is typically spicier and more complex than regular curry powder.
 
+Adapted from _ChatGPT_
+
 ## Ingredients 
 
 1. 1 tablespoon ground coriander
