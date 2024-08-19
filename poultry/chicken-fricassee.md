@@ -1,6 +1,10 @@
 # Tucson-Inspired Chicken Fricassee
 
+[&larrhk; Back to Poultry Recipes](./README.md)
+
 This Tucson-inspired twist on the classic French chicken fricassee incorporates Southwestern flavors, adding a vibrant, spicy kick to the creamy dish. Perfect for a comforting yet adventurous meal.
+
+Adapted from _Purple Sage and Other Pleasures_, Junior League of Tucson
 
 ## Ingredients
 
