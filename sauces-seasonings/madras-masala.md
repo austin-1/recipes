@@ -1,4 +1,4 @@
-= Madras Curry Spice Blend
+# Madras Curry Spice Blend
 
 [&larrhk; Back to Sauces &amp; Seasonings](./README.md)
 
