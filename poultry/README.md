@@ -51,12 +51,19 @@ Lemon Tarragon Chicken Salad Lettuce Wraps are low fat, low carb, and made with 
 This easy and juicy Dutch oven chicken breast with tomatoes is a must-try! Tender and flavorful boneless chicken breasts are cooked in a rich tomato sauce with simple everyday spices and vegetables. It's the perfect comfort food for the whole family.
 
 ### Chicken Legs &amp; Thighs
+
 #### [Berbere Chicken](berbere-chicken.adoc)
 Berbere Chicken is a flavorful and spicy dish from Ethiopian cuisine, featuring chicken thighs seasoned with a homemade Berbere spice mix, served over a bed of lentils cooked with aromatic vegetables and spices.
+
 #### [Chicken Cacciatore](chicken-cacciatore.adoc)
 Chicken Cacciatore is a classic Italian dish that features tender chicken braised with vegetables, herbs, and tomatoes. This hearty and flavorful meal is perfect served over pasta, polenta, or with crusty bread.
+
+#### [Chicken Fricassee](chicken-fricassee.md)
+This recipe blends the rich, creamy elements of a traditional chicken fricassee with the spicy, tangy notes typical of Southwestern cuisine, creating a unique and satisfying meal.
+
 #### [Chicken &amp; Rice Casserole](chicken-rice-casserole.adoc)
 This Herbed Chicken and Rice Casserole is a hearty and flavorful dish made with marinated chicken thighs, pancetta, cauliflower rice, and fresh herbs. It's baked to perfection in a Dutch oven for a comforting meal.
+
 #### [Coconut Chicken &amp; Rice](coconut-chicken-rice.adoc)
 This delicious one-pot meal is a Southeast Asian spin on chicken and rice, combining tender chicken thighs with fragrant rice cooked in coconut milk. It's a satisfying and flavorful dinner that's easy to prepare.
 #### [Juane de Gallina](juane-gallina.adoc)
