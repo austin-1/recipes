@@ -4,6 +4,8 @@
 
 A delightful summer strata inspired by the flavors of Edisto Island, featuring fresh shrimp, sweet corn, and ripe tomatoes layered with crusty bread and creamy eggs.
 
+Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
+
 ## Ingredients
 - 6 cups crusty bread, cubed
 - 1 lb fresh shrimp, peeled and deveined
