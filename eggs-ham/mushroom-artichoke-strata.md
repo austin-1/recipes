@@ -47,7 +47,7 @@ Adapted from _Purple Sage and Other Pleasures_, Junior League of Tucson
    - In a large mixing bowl, beat the eggs, then gradually add the Dijon mustard, heavy cream, and milk.
    - Pour the custard evenly over the bread and vegetable layers in the baking dish.
 
-4. **Chill and Bake:**
+4. **Bake:**
    - Bake the strata for 55 minutes, or until the top is golden brown and the center is set.
    - Let the strata cool for 10 minutes before serving.
 
