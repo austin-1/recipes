@@ -1,6 +1,6 @@
 = Very Strawberry Cupcakes
 
-[&larrhk; Back to Desserts](./README.md)
+link:./README.me[&larrhk; Back to Dessert Recipes]
 
 These Very Strawberry Cupcakes are adorned with a tangy and delicious strawberry cream cheese frosting. Packed with flavor from both fresh and freeze-dried strawberries, they deliver a natural and vibrant strawberry taste without any artificial flavor or coloring.
 
