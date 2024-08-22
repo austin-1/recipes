@@ -14,6 +14,9 @@ This Black Bean Paté incorporates bold, smoky flavors from spices like smoked p
 ## [Cajun Pickled Eggs](cajun-pickled-eggs.adoc)
 Cajun Pickled Eggs are a Southern delicacy that combines hard-cooked eggs with bold Cajun seasoning, hot sauce, and vinegar. Over time, the eggs absorb the spicy, tangy flavors, making them a unique and flavorful snack or appetizer.
 
+## [Corn Pudding](corn-pudding.md)
+A modern take on the traditional Southern corn pudding, this version enhances the dish with fresh herbs, a hint of spice, and mascarpone for a richer, creamier texture while maintaining the classic flavors that make this dish a Southern favorite.
+
 ## [Crustless Spinach Pie](crustless-spinach-pie.adoc)
 This easy crustless spinach pie is cheesy and full of spinach, making it a keto-friendly option for breakfast or a delicious, veggie-packed dinner.
 
