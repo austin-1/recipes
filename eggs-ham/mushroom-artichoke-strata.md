@@ -22,13 +22,14 @@ Adapted from _Purple Sage and Other Pleasures_, Junior League of Tucson
 - 2 cups milk
 - 1/2 cup heavy cream
 - 1 teaspoon Dijon mustard
-- 1/2 teaspoon hot sauce (optional)
+- 1/3 cup salsa macha
 - 2 green onions, sliced (for garnish)
 - Fresh cilantro, chopped (for garnish)
 
 ## Instructions
 
 1. **Prepare the Filling:**
+   - Pour the salsa macha over the cubed bread, toss to coat evenly and set aside.
    - Heat the olive oil in a large skillet over medium heat.
    - Add the diced onion and cook until softened, about 5 minutes.
    - Stir in the sliced mushrooms and cook until they release their moisture and begin to brown, about 8 minutes.
