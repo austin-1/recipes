@@ -29,6 +29,7 @@ Adapted from _Purple Sage and Other Pleasures_, Junior League of Tucson
 ## Instructions
 
 1. **Prepare the Filling:**
+   - Preheat the oven to 350°F (175°C).
    - Pour the salsa macha over the cubed bread, toss to coat evenly and set aside.
    - Heat the olive oil in a large skillet over medium heat.
    - Add the diced onion and cook until softened, about 5 minutes.
@@ -43,13 +44,11 @@ Adapted from _Purple Sage and Other Pleasures_, Junior League of Tucson
    - Repeat with the remaining bread, mushroom-artichoke mixture, and cheese.
 
 3. **Prepare the Custard:**
-   - In a large mixing bowl, whisk together the eggs, milk, heavy cream, Dijon mustard, and hot sauce (if using).
+   - In a large mixing bowl, beat the eggs, then gradually add the Dijon mustard, heavy cream, and milk.
    - Pour the custard evenly over the bread and vegetable layers in the baking dish.
 
 4. **Chill and Bake:**
-   - Cover the dish with plastic wrap and refrigerate for at least 2 hours or overnight, allowing the bread to soak up the custard.
-   - Preheat the oven to 350°F (175°C).
-   - Remove the plastic wrap and bake the strata for 45-55 minutes, or until the top is golden brown and the center is set.
+   - Bake the strata for 55 minutes, or until the top is golden brown and the center is set.
    - Let the strata cool for 10 minutes before serving.
 
 5. **Garnish and Serve:**
