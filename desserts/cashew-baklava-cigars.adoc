@@ -1,6 +1,10 @@
 = Cashew Baklava Cigars
 
+link:./README.me[&larrhk; Back to Dessert Recipes]
+
 Cashew Baklava Cigars are a delightful twist on the traditional Middle Eastern pastry, combining the richness of buttery phyllo dough with a spiced cashew filling, all topped with a refreshing lemon syrup. This version offers a unique blend of sweet and savory flavors, perfect for a special dessert.
+
+Adapted from _Zahav: A World of Israeli Cooking_, Michael Solomonov and Steven Cook
 
 == Ingredients
 

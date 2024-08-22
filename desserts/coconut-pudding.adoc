@@ -1,6 +1,10 @@
 = Thai Coconut Pudding
 
+link:./README.me[&larrhk; Back to Dessert Recipes]
+
 This traditional Thai coconut pudding is rich and creamy, offering a soothing contrast to the bold and spicy flavors of Thai cuisine. Made with coconut milk and egg yolks, it delivers a smooth and velvety texture that makes it a perfect dessert for any Thai meal.
+
+Adapted from _Thai Kitchen by McCormick_
 
 == Ingredients
 
@@ -8,7 +12,7 @@ This traditional Thai coconut pudding is rich and creamy, offering a soothing co
 * 1/2 cup sugar
 * Pinch of salt
 * 6 egg yolks
-* 3 cans (13.66 ounces each) Thai Kitchen® Gluten Free Unsweetened Coconut Milk
+* 3 cans coconut milk
 
 == Instructions
 

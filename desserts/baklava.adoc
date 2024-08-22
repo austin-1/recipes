@@ -1,6 +1,10 @@
 = Baklava
 
+link:./README.me[&larrhk; Back to Dessert Recipes]
+
 Baklava is a traditional Middle Eastern dessert made with layers of flaky Fillo dough, butter, and a sweet nut filling, all soaked in a rich honey syrup. This version is cooked in a Dutch oven, giving it a unique twist on the classic preparation method.
+
+Adapted from _Three Guys Outside_, Lyle Cooper
 
 == Ingredients
 
@@ -18,11 +22,12 @@ Baklava is a traditional Middle Eastern dessert made with layers of flaky Fillo 
 
 == Instructions
 
-1. Prepare honey syrup by combining all syrup ingredients and bringing to a boil. Boil for 1 minute, then chill.
-2. Melt butter. Mix pecans, sugar, and cinnamon; set aside.
-3. Butter the bottom of a 12-inch Dutch oven generously. Lay 1 sheet of Fillo dough in the bottom of the Dutch oven, keeping the remaining dough covered with a damp cloth. Using a pastry brush, butter the top, beginning at the edges and working towards the center. Repeat this step until 8 sheets of Fillo dough are layered in the Dutch oven, buttering each layer.
-4. Sprinkle 1/2 of the nut mixture evenly over the Fillo dough.
-5. Place 8 more sheets of Fillo dough on top of the nut mixture, buttering between each layer. Sprinkle the remaining nut mixture on top.
-6. Repeat with 8 more sheets of Fillo dough, buttering each layer. Drizzle any remaining butter on the top. Fold down excess Fillo dough from around the edge of the Dutch oven.
-7. Cut into diamond-shaped pieces without cutting through the bottom layer of Fillo dough. Place the lid on the Dutch oven.
-8. Bake at 350°F for 35-40 minutes or until lightly golden. Remove from heat and pour chilled syrup over the Baklava. Finish cutting through the bottom layer of Fillo. Serve.
+. Preheat oven to 350°F.
+. Prepare honey syrup by combining all syrup ingredients and bringing to a boil. Boil for 1 minute, then chill.
+. Melt butter. Mix pecans, sugar, and cinnamon; set aside.
+. Butter the bottom of a 12-inch Dutch oven generously. Lay 1 sheet of Fillo dough in the bottom of the Dutch oven, keeping the remaining dough covered with a damp cloth. Using a pastry brush, butter the top, beginning at the edges and working towards the center. Repeat this step until 8 sheets of Fillo dough are layered in the Dutch oven, buttering each layer.
+. Sprinkle 1/2 of the nut mixture evenly over the Fillo dough.
+. Place 8 more sheets of Fillo dough on top of the nut mixture, buttering between each layer. Sprinkle the remaining nut mixture on top.
+. Repeat with 8 more sheets of Fillo dough, buttering each layer. Drizzle any remaining butter on the top. Fold down excess Fillo dough from around the edge of the Dutch oven.
+. Cut into diamond-shaped pieces without cutting through the bottom layer of Fillo dough. Place the lid on the Dutch oven.
+. Bake at 350°F for 35-40 minutes or until lightly golden. Remove from heat and pour chilled syrup over the Baklava. Finish cutting through the bottom layer of Fillo. Serve.

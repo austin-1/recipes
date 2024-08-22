@@ -1,34 +1,38 @@
 = Pumpkin Cupcakes with Cream Cheese Frosting
 
+[&larrhk; Back to Desserts](./README.md)
+
 Melt-in-your-mouth soft pumpkin cupcakes topped with a rich and creamy homemade cream cheese frosting. These cupcakes bring together the warm flavors of pumpkin and cinnamon, making them a perfect treat for the fall season.
+
+Adapted from _Cooked by Julie_, Julie Maestre
 
 == Ingredients
 
 === Cupcakes
-* 0.53 cups all-purpose flour
-* 0.4 cups sugar
-* 0.4 teaspoon baking powder
-* 0.27 teaspoon baking soda
-* 0.27 teaspoon cinnamon
-* 0.27 teaspoon vanilla extract
+* 1/2 cup all-purpose flour
+* 1/3 cup sugar
+* 1/2 teaspoon baking powder
+* 1/4 teaspoon baking soda
+* 1/4 teaspoon cinnamon
+* 1/4 teaspoon vanilla extract
 * Pinch of salt
-* 0.27 cup pumpkin puree
-* 0.27 cup vegetable oil
-* 0.8 eggs
+* 1/4 cup pumpkin puree
+* 1/4 cup vegetable oil
+* 1 large egg
 
 === Cream Cheese Frosting
-* 2.13 ounces cream cheese
-* 1.07 ounces unsalted butter
-* 0.8 cups powdered sugar
-* 0.27 teaspoon vanilla extract
-* 0.27 tablespoon whole milk
+* 2 ounces cream cheese (1/4 of a standard 8-ounce package)
+* 1 ounce unsalted butter (2 tablespoons)
+* 3/4 cup powdered sugar
+* 1/4 teaspoon vanilla extract
+* 1/2 tablespoon whole milk
 
 == Instructions
 
 1. Preheat oven to 350°F (175°C).
 2. Line a muffin tin with cupcake wrappers and set aside.
 3. In a large bowl, combine the all-purpose flour, cinnamon, salt, baking soda, and baking powder.
-4. In a separate bowl, combine the oil, sugar, eggs, pumpkin puree, and vanilla extract.
+4. In a separate bowl, combine the oil, sugar, egg, pumpkin puree, and vanilla extract.
 5. Pour the pumpkin mixture into the flour mixture and mix until well combined.
 6. Using an ice cream scoop, evenly distribute the batter into the prepared muffin tin.
 7. Bake for 18-20 minutes, or until a toothpick inserted into the center comes out clean.

@@ -1,5 +1,11 @@
 = Apple Cider Pound Cake
 
+link:./README.me[&larrhk; Back to Dessert Recipes]
+
+This Apple Cider Pound Cake blends the warm spices of fall with the sweet tang of apple cider, creating a moist and flavorful dessert perfect for any autumn gathering.
+
+Adapted from _Taste of Home_
+
 == Ingredients
 
 * 3 cups sugar
