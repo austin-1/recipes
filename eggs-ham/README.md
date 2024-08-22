@@ -8,6 +8,9 @@ This Artichoke and Garlic Frittata is a savory and satisfying dish, rich with Me
 ## [Black Bean &amp; Mushroom Enchilada Casserole](black-bean-mushroom-casserole.md)
 This casserole blends the savory tastes of black beans, mushrooms, and cheese into a dish that is both filling and easy to prepare. Perfect for serving at a group gathering or enjoying as a satisfying meal anytime.
 
+## [Black Bean Paté](black-bean-pate.md)
+This Black Bean Paté incorporates bold, smoky flavors from spices like smoked paprika and cumin, while the addition of lime zest and juice brightens the dish. The Green Onion Sauce adds a tangy, herby contrast that complements the richness of the paté.
+
 ## [Cajun Pickled Eggs](cajun-pickled-eggs.adoc)
 Cajun Pickled Eggs are a Southern delicacy that combines hard-cooked eggs with bold Cajun seasoning, hot sauce, and vinegar. Over time, the eggs absorb the spicy, tangy flavors, making them a unique and flavorful snack or appetizer.
 
