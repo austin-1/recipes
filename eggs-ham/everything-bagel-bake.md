@@ -4,6 +4,8 @@
 
 This breakfast bake combines the flavors of everything bagels with sausage, eggs, and cheese, creating a hearty and satisfying dish. It's perfect for brunch or a special morning meal, bringing together a variety of ingredients into a flavorful casserole.
 
+Adapted from _Cravings: Hungry for More_, Chrissy Teigen
+
 ## Ingredients
 
 - 1½ cups grated Gruyère or Swiss cheese

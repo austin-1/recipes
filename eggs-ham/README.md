@@ -32,8 +32,8 @@ Leek, Cheese, and Ham Tarts are a savory treat that combines the delicate flavor
 ## [Leek Patties](leek-patties.adoc)
 These leek patties are a delicious and savory dish, perfect as an appetizer or a light meal. The tender leeks are combined with breadcrumbs and eggs, then pan-fried to golden perfection. Serve them with Greek yogurt or homemade tahini for a delightful experience.
 
-## [Kashkaval](kashkaval.adoc)
-Baked Kashkaval with Sweet Tomato Relish and Egg Yolks is a savory dish that combines the rich flavors of kashkaval cheese with a sweet and tangy tomato relish, finished with perfectly baked egg yolks. This dish is ideal for a hearty breakfast or a light dinner, served with crusty bread.
+## [Fromage Gratiné](fromage-gratine.adoc)
+This is a savory dish that combines the rich flavors of provolone cheese with a sweet and tangy tomato relish, finished with perfectly baked egg yolks. This dish is ideal for a hearty breakfast or a light dinner, served with crusty bread.
 
 ## [Mediterranean Deviled Eggs](mediterranean-deviled-eggs.adoc)
 All your favorite flavors of Kalamata olives, feta cheese, capers, and red onion shine in these Mediterranean Deviled Eggs. This recipe offers a tart and briny twist on the classic deviled eggs, perfect for a flavorful appetizer.

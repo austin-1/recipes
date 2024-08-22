@@ -1,6 +1,10 @@
 = Dutch Oven Tomato and Avocado Frittata
 
+link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+
 This Dutch Oven Tomato and Avocado Frittata is a hearty and flavorful dish that combines the creaminess of avocado with the freshness of tomatoes and herbs. It's perfect for a nutritious breakfast or brunch, and the Dutch oven method ensures even cooking and a tender texture.
+
+Adapted from _Camping For Foodies_, Kim Hanna
 
 == Ingredients
 

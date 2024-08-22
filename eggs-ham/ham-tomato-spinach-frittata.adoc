@@ -1,6 +1,10 @@
 = Ham, Tomato, Spinach, and Onion Frittata
 
+link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+
 This Ham, Tomato, Spinach, and Onion Frittata is a delicious and versatile dish that's perfect for breakfast, brunch, or even a light dinner. Packed with protein and fresh vegetables, it's a healthy and satisfying meal.
+
+Adapted from _ChatGPT_
 
 == Ingredients
 

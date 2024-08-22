@@ -1,6 +1,10 @@
 = Shakshouka (Shakshuka)
 
+link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+
 Shakshouka is a traditional North African and Middle Eastern dish made by poaching eggs in a spiced tomato and pepper sauce. This savory and hearty dish is perfect for breakfast, brunch, or even dinner, offering a burst of flavors in every bite.
+
+Adapted from _Oldways_
 
 == Ingredients
 

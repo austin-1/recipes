@@ -4,6 +4,8 @@
 
 This casserole combines the flavors of black beans, mushrooms, and spices into a hearty dish, perfect for any meal. It's a versatile and group-friendly recipe, ideal for brunch or dinner.
 
+Adapted from _Cravings: Hungry for More_, Chrissy Teigen
+
 ## Ingredients
 
 - 3 tablespoons vegetable oil, plus more for the baking dish and frying the eggs

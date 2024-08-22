@@ -1,6 +1,6 @@
 = Japanese Souffle Pancakes
 
-[&larrhk; Back to Desserts](./README.md)
+link:./README.me[&larrhk; Back to Dessert Recipes]
 
 Fluffy and light, Japanese Souffle Pancakes are a popular breakfast dish that originated in Japan. These pancakes are known for their airy texture, achieved by folding whipped egg whites into the batter. They are often served with syrup and powdered sugar for a sweet treat.
 
