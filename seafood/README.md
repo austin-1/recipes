@@ -85,5 +85,8 @@ This flavorful Portuguese-inspired recipe for Garlic Clams is perfect for servin
 ### [Greek Stuffed Calamari](greek-stuffed-calamari.adoc)
 Baked squid stuffed with rice and herbs, baked in a tomato sauce for a traditional Greek dish.
 
+### [Oyster Stuffing](oyster-stuffing.md)
+A refined version of the classic Southern oyster dressing, this recipe incorporates fresh herbs, artisan bread, and a hint of spice to complement the briny oysters.
+
 ### [Squid Gilroy](squid-gilroy.adoc)
 Squid Gilroy for Two is a flavorful seafood dish that combines tender squid with a rich tomato and red wine sauce, making it perfect for an intimate dinner.
