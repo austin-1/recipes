@@ -1,6 +1,10 @@
 # Sapelo Island Oyster Stuffing
 
+[&larrhk; Back to Seafood Recipes](./README.md)
+
 A refined version of the classic Southern oyster dressing, this recipe incorporates fresh herbs, artisan bread, and a hint of spice to complement the briny oysters, offering a sophisticated yet comforting side dish that's perfect for holiday gatherings.
+
+Adapted from _Emory Seasons: Entertaining Atlanta Style_, Emory University Women's Club
 
 ## Ingredients
 - 1/2 cup unsalted butter, melted
