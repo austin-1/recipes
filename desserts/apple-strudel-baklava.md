@@ -1,6 +1,10 @@
 # Texas Hill Country Apple Strudel Baklava
 
+[&larrhk; Back to Desserts](./README.md)
+
 A contemporary take on the classic apple strudel and baklava, this recipe merges the flaky layers of baklava with the comforting flavors of a Texas Hill Country apple strudel. The addition of toasted pecans, Texas honey, and warm spices creates a rich, flavorful dessert that's perfect for any occasion.
+
+Adapted from _The Peach Tree Tea Room_, Cynthia Collins
 
 ## Ingredients
 
