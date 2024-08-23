@@ -38,7 +38,7 @@ A fragrant and vibrant spice blend, ideal for summer Thai curries, especially wi
 This Apple Orange Cranberry Sauce blends the tartness of cranberries with the sweetness of apples and the citrusy zing of orange, creating a flavorful and festive accompaniment perfect for holiday meals.
 
 ### [Olive Tapenade](olive-tapenade.adoc)
-For a quick and versatile appetizer dip, sandwich spread, or pizza "sauce," try this easy homemade Olive Tapenade. Customize this Mediterranean spread with any variety of briny olives to suit your taste.
+This Olive Tapenade is a savory and versatile Mediterranean spread, perfect as a dip, sandwich topping, or flavorful addition to pizzas, made with a blend of briny olives, capers, anchovies, and fresh herbs.
 
 ## &#127835; Sauces
 

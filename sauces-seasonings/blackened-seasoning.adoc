@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
 
 This blackened seasoning blend captures the bold and spicy flavors typical of Cajun cuisine, similar to what you would find in popular seasoning blend products. It's perfect for adding a robust kick to your dishes.
 
+Adapted from _ChatGPT_
+
 * 2 tablespoons paprika
 * 1 tablespoon onion powder
 * 1 tablespoon garlic powder

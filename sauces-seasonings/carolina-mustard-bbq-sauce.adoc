@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
 
 This tangy and slightly sweet Carolina mustard-based BBQ sauce hails from the Walterboro area of South Carolina. It’s perfect for slathering on smoked pork, chicken, or even as a dipping sauce.
 
+Adapted from _ChatGPT_
+
 == Ingredients
 * 1 cup yellow mustard
 * 1/2 cup apple cider vinegar

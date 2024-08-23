@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
 
 This cherry BBQ sauce from Maggie Valley, North Carolina, combines sweet cherries with tangy vinegar and savory spices for a unique and flavorful sauce that's perfect for grilling.
 
+Adapted from _ChatGPT_
+
 == Ingredients
 * 1 cup fresh or frozen pitted cherries (or 1/2 cup cherry preserves)
 * 1 cup ketchup

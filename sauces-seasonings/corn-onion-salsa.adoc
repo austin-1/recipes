@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
 
 This Corn and Onion Salsa is a fresh and zesty topping that's perfect for tacos, burritos, bowls, or as a dip with tortilla chips. It's a versatile dish that brings a burst of flavor to any meal.
 
+Adapted from _ChatGPT_
+
 == Ingredients
 * 2 cups corn kernels (fresh, frozen, or canned)
 * 1/2 cup red onion, finely chopped
