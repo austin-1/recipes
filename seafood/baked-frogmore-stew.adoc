@@ -1,5 +1,10 @@
 = Oven-Baked Frogmore Stew
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 Oven-Baked Frogmore Stew is a delightful and easy twist on the traditional Lowcountry boil, featuring shrimp, sausage, potatoes, and corn all baked to perfection.
+
+Adapted from _Barefoot Contessa_, Ina Garten
 
 == Ingredients
 * 5 pounds raw shrimp, peeled and deveined

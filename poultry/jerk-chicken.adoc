@@ -1,5 +1,7 @@
 = One Pot Jamaican Jerk Chicken
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 An easy one-pot chicken dinner featuring oven-roasted Jamaican Jerk chicken cooked on top of a flavorful mix of diced plantains, sweet potatoes, and apples. This dish is both hearty and full of Caribbean-inspired flavors.
 
 == Ingredients

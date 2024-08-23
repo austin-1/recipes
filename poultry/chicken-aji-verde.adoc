@@ -1,5 +1,7 @@
 = Chicken Aji Verde
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 Chicken Aji Verde is a flavorful Peruvian-inspired dish, featuring a whole chicken marinated in a blend of spices, lime, and garlic. It is roasted to perfection atop a bed of potatoes, allowing the flavors to meld and the chicken to become tender and juicy.
 
 == Ingredients

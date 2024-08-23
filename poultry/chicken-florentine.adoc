@@ -1,5 +1,7 @@
 = Chicken Florentine
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 This Chicken Florentine recipe features perfectly seared chicken breasts in a thick and creamy spinach sauce. It's a versatile dish that can be served with pasta, rice, or a simple green salad. A splash of lemon and a sprinkle of parsley add extra flavor and color.
 
 == Ingredients

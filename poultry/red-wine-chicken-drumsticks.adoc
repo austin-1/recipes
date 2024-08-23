@@ -1,5 +1,7 @@
 = Dutch Oven Red Wine Chicken Drumsticks with Vegetables
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 This hearty dish features tender chicken drumsticks cooked in a rich red wine sauce with vegetables. It's perfect for a comforting meal, especially when served over mashed potatoes, grits, or rice.
 
 == Ingredients

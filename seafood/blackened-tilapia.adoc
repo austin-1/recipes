@@ -1,4 +1,7 @@
 = Blackened Tilapia
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 An array of savory spices coat this easy blackened tilapia, served on white bread to soak up the delicious juices.
 
 == Ingredients

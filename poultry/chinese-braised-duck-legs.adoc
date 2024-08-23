@@ -1,4 +1,7 @@
 = Chinese Braised Duck Legs
+
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 Chinese Braised Duck Legs are delicately seared and braised with scallions, creating a sauce that pairs wonderfully with steamed rice. This dish is both exquisite and simple, offering a rich flavor that is deeply satisfying.
 
 == Ingredients

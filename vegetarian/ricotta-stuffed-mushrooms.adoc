@@ -1,5 +1,7 @@
 = Herbed Ricotta Stuffed Mushrooms
 
+link:./README.me[&larrhk; Back to Vegetarian Recipes]
+
 Tender mushroom caps stuffed with a creamy herb and ricotta filling.
 
 == Ingredients

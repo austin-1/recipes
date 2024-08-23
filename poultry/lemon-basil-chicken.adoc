@@ -1,4 +1,7 @@
 = Lemon Basil Chicken
+
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 This tender and fragrant chicken dish is perfect for Sunday dinner or any special occasion. The lemon and basil infuse the chicken with fresh, vibrant flavors.
 
 == Ingredients

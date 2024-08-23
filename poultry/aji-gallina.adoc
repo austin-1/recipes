@@ -1,5 +1,7 @@
 = Ají de Gallina
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 Ají de Gallina is a traditional Peruvian dish made with shredded chicken in a creamy, spicy sauce. This flavorful dish is typically served over boiled potatoes with a side of white rice, and garnished with hard-boiled eggs and olives.
 
 == Ingredients

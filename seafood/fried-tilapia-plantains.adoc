@@ -1,4 +1,7 @@
 = Fish Fried with Crispy Plantain
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 A delicious combination of fish fillets and crispy plantains, marinated in a flavorful spice blend and fried to perfection.
 
 == Ingredients

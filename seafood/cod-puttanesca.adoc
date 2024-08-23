@@ -1,4 +1,7 @@
 = Cod and Potatoes Puttanesca
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 This Cod and Potatoes Puttanesca is a savory, Mediterranean-inspired dish combining the rich flavors of garlic, anchovies, olives, and capers with tender cod and potatoes. It's a comforting yet elegant meal perfect for any occasion.
 
 == Ingredients

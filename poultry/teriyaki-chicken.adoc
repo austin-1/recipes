@@ -1,5 +1,7 @@
 = Teriyaki Chicken with Roasted Scallions
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 Sweet and sticky, this Teriyaki Chicken dish combines kid-friendliness with a touch of sophistication. Roasted scallions, a staple in Japanese cooking, add a mellow flavor that complements the chicken perfectly.
 
 == Ingredients

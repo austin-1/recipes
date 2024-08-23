@@ -1,5 +1,7 @@
 = Indonesian Coconut Chicken and Rice
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 This delicious one-pot meal is a Southeast Asian spin on chicken and rice, combining tender chicken thighs with fragrant rice cooked in coconut milk. It's a satisfying and flavorful dinner that's easy to prepare.
 
 == Ingredients

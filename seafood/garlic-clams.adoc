@@ -1,4 +1,7 @@
 = Garlic Clams
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 This flavorful Portuguese-inspired recipe for Garlic Clams is perfect for serving with rolls and butter, making it an excellent choice for dunking in the delicious clam juice.
 
 == Ingredients

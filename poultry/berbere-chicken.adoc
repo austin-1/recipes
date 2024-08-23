@@ -1,5 +1,7 @@
 = Berbere Chicken with Ethiopian Lentils
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 Berbere Chicken is a flavorful and spicy dish from Ethiopian cuisine, featuring chicken thighs seasoned with a homemade Berbere spice mix, served over a bed of lentils cooked with aromatic vegetables and spices.
 
 == Ingredients

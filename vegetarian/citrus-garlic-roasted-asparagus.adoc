@@ -1,4 +1,7 @@
 = Citrus Garlic Roasted Asparagus
+
+link:./README.me[&larrhk; Back to Vegetarian Recipes]
+
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 
 == Ingredients

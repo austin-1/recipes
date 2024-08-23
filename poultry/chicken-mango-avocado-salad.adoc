@@ -1,4 +1,7 @@
 = Spicy Chicken, Avocado, and Mango Salad
+
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 This refreshing salad combines tender shredded chicken with sweet mango, creamy avocado, and a spicy chili-lime dressing, making it a perfect meal for any occasion.
 
 == Ingredients

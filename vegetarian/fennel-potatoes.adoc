@@ -1,6 +1,10 @@
 = Stovetop Fennel Seed Garlic Mini Potatoes
 
+link:./README.me[&larrhk; Back to Vegetarian Recipes]
+
 This recipe features mini potatoes sautéed with aromatic fennel seeds and garlic, creating a simple yet flavorful side dish. It's perfect for adding a warm, earthy touch to any meal.
+
+Adapted from _ChatGPT_
 
 . *Ingredients*  
 

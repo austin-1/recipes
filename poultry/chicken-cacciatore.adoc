@@ -1,5 +1,7 @@
 = Chicken Cacciatore
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 Chicken Cacciatore is a classic Italian dish that features tender chicken braised with vegetables, herbs, and tomatoes. This hearty and flavorful meal is perfect served over pasta, polenta, or with crusty bread.
 
 == Ingredients

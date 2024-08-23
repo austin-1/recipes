@@ -1,5 +1,7 @@
 = Chicken Tostada Wrap
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 This Chicken Tostada Wrap is a homemade version of a fast-food favorite, combining shredded chicken, queso blanco, and fresh toppings all wrapped up in a warm tortilla. It's a delicious and satisfying meal perfect for lunch or dinner.
 
 == Ingredients

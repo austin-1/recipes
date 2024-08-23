@@ -1,4 +1,7 @@
 = Arroz con Gandules (Puerto Rican Rice)
+
+link:./README.me[&larrhk; Back to Vegetarian Recipes]
+
 Arroz con Gandules, also known as Puerto Rican Rice with Pigeon Peas, is a traditional and flavorful dish often served during special occasions. If pigeon peas are unavailable, regular peas can be used as a substitute.
 
 == Ingredients

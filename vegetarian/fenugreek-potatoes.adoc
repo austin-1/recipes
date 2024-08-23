@@ -1,13 +1,16 @@
 = Garlic Fenugreek Seed Potatoes
 
+link:./README.me[&larrhk; Back to Vegetarian Recipes]
+
 A flavorful and aromatic potato dish cooked in a 2-cup Handi pot, perfect as a side dish or a main for a light meal.
+
+Adapted from _ChatGPT_
 
 == Ingredients
 * 2 medium potatoes, peeled and cubed
 * 1 tablespoon fenugreek seeds
 * 4 cloves garlic, minced
 * 1 small onion, finely chopped
-* 1 green chili, slit (optional)
 * 1/2 teaspoon turmeric powder
 * 1/2 teaspoon red chili powder (adjust to taste)
 * 1/2 teaspoon salt (adjust to taste)
@@ -18,7 +21,7 @@ A flavorful and aromatic potato dish cooked in a 2-cup Handi pot, perfect as a s
 == Method
 . Preheat your oven to 375°F (190°C) with the Handi pot inside.
 . Heat the oil or ghee in a pan over medium heat. Add the fenugreek seeds and sauté until fragrant and slightly darkened.
-. Add the chopped onion, green chili (if using), and minced garlic. Sauté until the onion turns golden brown.
+. Add the chopped onion and minced garlic. Sauté until the onion turns golden brown.
 . Stir in the turmeric powder and red chili powder, and cook for another 2 minutes, stirring continuously.
 . Add the cubed potatoes and mix well, ensuring they are fully coated in the spice mixture.
 . Add salt and cook for 5 minutes, allowing the potatoes to absorb the flavors.

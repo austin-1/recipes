@@ -1,5 +1,10 @@
 = Baked Mac and Cheese with Cavatappi, Crawfish Tails, and Lobster Base
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 This rich and indulgent baked mac and cheese combines cavatappi pasta with succulent crawfish tails and a savory lobster base, making it a perfect main course or side dish.
+
+Adapted from _ChatGPT_
 
 == Ingredients
 * 1 lb (16 oz) cavatappi pasta
@@ -7,7 +12,7 @@ This rich and indulgent baked mac and cheese combines cavatappi pasta with succu
 * 4 tablespoons unsalted butter
 * 1/4 cup all-purpose flour
 * 3 cups milk
-* 2 teaspoons lobster base (such as Better Than Bouillon Lobster Base)
+* 2 teaspoons Better Than Boullon lobster base
 * 1/2 teaspoon smoked paprika
 * 1/4 teaspoon cayenne pepper (adjust to taste)
 * Salt and pepper, to taste

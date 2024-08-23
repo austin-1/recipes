@@ -1,4 +1,7 @@
 = Kashmiri Chili Lime Basmati Rice
+
+link:./README.me[&larrhk; Back to Vegetarian Recipes]
+
 A fragrant and spicy rice dish infused with Kashmiri chili and lime, perfect for adding a bold flavor to any meal.
 
 == Ingredients

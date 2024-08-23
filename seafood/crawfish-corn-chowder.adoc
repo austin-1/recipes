@@ -1,5 +1,10 @@
 = Summer-Inspired Crawfish Corn Chowder
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 This Summer-Inspired Crawfish Corn Chowder is a creamy, flavorful dish that combines sweet corn, tender crawfish, and vibrant vegetables. It's the perfect comfort food with a hint of spice for a warm day.
+
+Adapted from _ChatGPT_
 
 == Ingredients
 * 12 oz crawfish tail meat, cooked

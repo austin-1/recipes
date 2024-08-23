@@ -1,9 +1,12 @@
-= Wild Turkey Cajun Jambalaya
-Wild Turkey Cajun Jambalaya blends the robust flavors of wild turkey breast with andouille sausage, shrimp, and a medley of spices and vegetables. This hearty dish is baked to perfection, offering a satisfying one-pot meal with deep Cajun influences.
+= Turkey Cajun Jambalaya
+
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
+This Turkey Cajun Jambalaya blends the robust flavors of wild turkey breast with andouille sausage, shrimp, and a medley of spices and vegetables. This hearty dish is baked to perfection, offering a satisfying one-pot meal with deep Cajun influences.
 
 == Ingredients
 * 2 tablespoons extra virgin olive oil
-* 1 1/2 lbs boneless skinless wild turkey breast
+* 1 1/2 lbs boneless skinless turkey breast
 * 1 lb andouille sausage, cut into 1/4 inch slices
 * 1 large onion, chopped
 * 2 celery ribs, diced

@@ -1,4 +1,7 @@
 = Shrimp Ceviche
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 Shrimp Ceviche is a refreshing and zesty dish featuring fresh shrimp marinated with cucumber, red onions, cilantro, avocado, and diced jalapenos. It is perfect as a light appetizer or snack.
 
 == Ingredients

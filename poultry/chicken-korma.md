@@ -1,5 +1,7 @@
 # Quick Chicken Korma (Murgh Korma)
 
+[&larrhk; Back to Poultry Recipes](./README.md)
+
 This Chicken Korma is a flavorful and creamy dish with tender chicken pieces simmered in a rich sauce made from spices, tomatoes, and cream. Perfect for a comforting meal, it can be prepared ahead of time and reheats well.
 
 ## Ingredients

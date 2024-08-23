@@ -1,4 +1,7 @@
 = Slow-Cooked Duck
+
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 Slow-Cooked Duck features a rich marinade of ají panca paste and spices, resulting in a deeply flavorful and tender dish. This recipe is perfect for a comforting meal, accompanied by potatoes and served with white rice.
 
 == Ingredients

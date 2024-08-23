@@ -1,4 +1,7 @@
 = Shrimp Campechana
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 This Shrimp Campechana is a vibrant appetizer featuring fresh Gulf shrimp and a medley of flavorful ingredients, perfect for any gathering.
 
 == Ingredients

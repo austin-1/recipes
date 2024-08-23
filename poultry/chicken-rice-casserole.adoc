@@ -1,5 +1,7 @@
 = Herbed Chicken and Rice Casserole
 
+link:./README.me[&larrhk; Back to Poultry Recipes]
+
 This Herbed Chicken and Rice Casserole is a hearty and flavorful dish made with marinated chicken thighs, pancetta, cauliflower rice, and fresh herbs. It's baked to perfection in a Dutch oven for a comforting meal.
 
 == Ingredients

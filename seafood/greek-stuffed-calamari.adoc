@@ -1,4 +1,7 @@
 = Greek Stuffed Calamari
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
+
 Baked squid stuffed with rice and herbs, baked in a tomato sauce for a traditional Greek dish.
 
 == Ingredients

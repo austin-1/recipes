@@ -1,4 +1,6 @@
-= Squid Gilroy for Two
+= Squid Gilroy
+
+link:./README.me[&larrhk; Back to Seafood Recipes]
 
 This savory squid dish can be enjoyed on its own or served over spaghetti, complemented by a light, fruity Zinfandel and fresh vegetables.
 

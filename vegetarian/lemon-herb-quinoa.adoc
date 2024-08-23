@@ -1,5 +1,7 @@
 = Lemon Herb Quinoa
 
+link:./README.me[&larrhk; Back to Vegetarian Recipes]
+
 A light and refreshing side dish featuring quinoa infused with lemon and fresh herbs, perfect for any meal.
 
 == Ingredients
