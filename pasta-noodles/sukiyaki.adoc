@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
 
 A warm and satisfying vegetarian version of sukiyaki, perfect for cooler evenings. This dish features a rich broth with a variety of vegetables, tofu, and udon noodles, making it both hearty and comforting.
 
+Adapted from _Emails from Ching_
+
 == Ingredients
 
 * 1/2 small head of napa cabbage, cut into 2-inch chunks

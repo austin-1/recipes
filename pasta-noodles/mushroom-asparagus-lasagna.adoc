@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
 
 Making this lasagna takes time, but it can be prepared in advance and frozen for later. When ready to serve, bake it directly from the freezer.
 
+Adapted from _ChatGPT_
+
 == Ingredients
 * 3 tablespoons olive oil
 * 2 garlic cloves, finely chopped

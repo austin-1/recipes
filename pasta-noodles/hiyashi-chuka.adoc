@@ -4,12 +4,14 @@ link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
 
 This Venice Beach inspired summer Hiyashi Chuka is a refreshing and vibrant cold ramen dish, featuring a medley of fresh vegetables, shrimp, and a tangy sesame-ginger dressing. Perfect for a light, healthy meal on a hot day.
 
+Adapted from _ChatGPT_
+
 == Ingredients
 
-* 200g ramen noodles
+* 8 oz. ramen noodles
 * 1 cucumber, julienned
 * 1 carrot, julienned
-* 100g cooked shrimp, peeled and deveined
+* 12 cooked shrimp, peeled and deveined
 * 1 avocado, sliced
 * 2 boiled eggs, halved
 * Cherry tomatoes, halved

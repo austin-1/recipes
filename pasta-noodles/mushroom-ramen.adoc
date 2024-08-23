@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
 
 Restaurant-quality mushroom ramen you can make at home! With a perfectly seasoned mushroom broth, this dish offers rich, umami flavors that will make you never want to order out again.
 
+Adapted from _Damn Delicious_, Chungah Rhee
+
 == Ingredients
 
 * 1 (1-ounce) package dried shiitake mushrooms

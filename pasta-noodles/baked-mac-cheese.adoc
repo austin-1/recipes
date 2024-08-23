@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
 
 This baked mac and cheese is made lighter with a combination of almond milk and vegetable broth, and uses almond meal instead of breadcrumbs. It's creamy, cheesy, comforting, and sure to become a new family favorite!
 
+Adapted from _Eating Bird Food_, Brittany Mullins
+
 == Ingredients
 
 * 1 lb elbow macaroni

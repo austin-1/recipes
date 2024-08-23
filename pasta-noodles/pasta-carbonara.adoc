@@ -4,6 +4,8 @@ link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
 
 Pasta Carbonara is a classic Italian dish that combines pasta with crispy pancetta or bacon, eggs, and cheese to create a creamy and flavorful sauce. This simple yet elegant dish is perfect for a quick and satisfying meal.
 
+Adapted from _Preppy Kitchen_, John Kanell
+
 == Ingredients
 
 * 1 tablespoon extra virgin olive oil or unsalted butter
