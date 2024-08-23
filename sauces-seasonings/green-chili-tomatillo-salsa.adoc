@@ -6,6 +6,8 @@ Green Chili Tomatillo Salsa is a smoky and spicy salsa with a burst of citrus an
 
 Adapted from _Dinner then Dessert_, Sabrina Snyder
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1 pound tomatillos, halved
 * 1 vine tomato, halved

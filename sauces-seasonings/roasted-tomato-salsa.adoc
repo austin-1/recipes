@@ -6,6 +6,8 @@ Roasted Tomato Salsa is a flavorful, spicy salsa that combines the smoky taste o
 
 Adapted from _Platings and Pairings_, Erin Lynch
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 3 medium tomatillos, husks removed and rinsed
 * 2-3 vine tomatoes (or a 14.5 oz can of Hunt&apos;s brand fire-roasted tomatoes)
