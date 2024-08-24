@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Chicken Marsala is a classic Italian-American dish featuring tender chicken cutlets in a rich and creamy Marsala wine sauce with mushrooms and shallots. It's a flavorful and elegant meal perfect for any occasion.
 
+Adapted from _Once Upon a Chef_, Jenn Segal
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

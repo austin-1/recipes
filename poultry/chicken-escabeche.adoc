@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Chicken Escabeche is a flavorful dish where chicken breasts are marinated and served with a spicy, tangy escabeche sauce made from red onions, garlic, and ají panca paste. This versatile sauce can also be used with beans, fried fish, and other meats, making it a delicious and adaptable dish.
 
+Adapted from Peru Delights, Morena Escardo
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
