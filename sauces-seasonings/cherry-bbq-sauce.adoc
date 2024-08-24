@@ -6,6 +6,8 @@ This cherry BBQ sauce from Maggie Valley, North Carolina, combines sweet cherrie
 
 Adapted from _ChatGPT_
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 1 cup fresh or frozen pitted cherries (or 1/2 cup cherry preserves)
 * 1 cup ketchup

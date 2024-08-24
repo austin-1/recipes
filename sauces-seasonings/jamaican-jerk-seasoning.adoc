@@ -6,6 +6,8 @@ This Jamaican Jerk Seasoning blend brings a kick of authentic Caribbean flavor t
 
 Adapted from _Jo Cooks_, Joanna Cismaru
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 1 tablespoon onion powder
 * 1 tablespoon garlic powder

@@ -6,6 +6,8 @@ Madras curry powder is a vibrant and aromatic spice mix that originates from Sou
 
 Adapted from _ChatGPT_
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients 
 
 1. 1 tablespoon ground coriander

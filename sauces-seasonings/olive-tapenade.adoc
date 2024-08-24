@@ -6,6 +6,8 @@ This Olive Tapenade is a savory and versatile Mediterranean spread, perfect as a
 
 Adapted from _Culinary Hill_, Meggan Hill
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1 1/2 cups pitted, brine-cured olives (such as Kalamata, Lucques, picholines, or Niçoise)
 * 1 teaspoon anchovy paste or 2 anchovy filets, minced
