@@ -6,6 +6,8 @@ This strata takes inspiration from the vibrant flavors of Tucson, blending earth
 
 Adapted from _Purple Sage and Other Pleasures_, Junior League of Tucson
 
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
+
 ## Ingredients
 
 - 1 tablespoon olive oil

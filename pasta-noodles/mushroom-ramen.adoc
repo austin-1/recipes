@@ -1,6 +1,6 @@
 = Mushroom Ramen
 
-link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
+link:./README.md[&larrhk; Back to Pasta &amp; Noodles]
 
 Restaurant-quality mushroom ramen you can make at home! With a perfectly seasoned mushroom broth, this dish offers rich, umami flavors that will make you never want to order out again.
 

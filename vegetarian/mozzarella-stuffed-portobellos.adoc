@@ -1,6 +1,6 @@
 = Mozzarella Stuffed Portobellos
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Mozzarella Stuffed Portobellos are a delicious and savory appetizer, perfect for serving hot or at room temperature.
 

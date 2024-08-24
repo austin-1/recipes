@@ -1,6 +1,6 @@
 = Vegetarian Sukiyaki
 
-link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
+link:./README.md[&larrhk; Back to Pasta &amp; Noodles]
 
 A warm and satisfying vegetarian version of sukiyaki, perfect for cooler evenings. This dish features a rich broth with a variety of vegetables, tofu, and udon noodles, making it both hearty and comforting.
 

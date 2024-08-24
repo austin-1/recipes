@@ -6,6 +6,8 @@ These low-carb crackers are a flavorful and crunchy snack option, made with almo
 
 Adapted from _KetoConnect_, Mia Henderson
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 * 1 cup almond flour (120g)

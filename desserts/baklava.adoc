@@ -1,10 +1,12 @@
 = Baklava
 
-link:./README.me[&larrhk; Back to Dessert Recipes]
+link:./README.md[&larrhk; Back to Dessert Recipes]
 
 Baklava is a traditional Middle Eastern dessert made with layers of flaky Fillo dough, butter, and a sweet nut filling, all soaked in a rich honey syrup. This version is cooked in a Dutch oven, giving it a unique twist on the classic preparation method.
 
 Adapted from _Three Guys Outside_, Lyle Cooper
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

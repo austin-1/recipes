@@ -1,6 +1,6 @@
 = Air Fryer Fried Green Tomatoes
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Air Fryer Fried Green Tomatoes fry up super crispy with very little oil. This healthier version of the Southern classic is quick and easy to make.
 

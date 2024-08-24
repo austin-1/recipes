@@ -1,6 +1,6 @@
 = Cajun Shrimp and Cod Stew
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This hearty Cajun seafood soup is a delicious blend of seafood, vegetables, and spices, perfect for any occasion.
 

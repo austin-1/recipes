@@ -1,6 +1,6 @@
 = Buttermilk Cornish Hen
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Buttermilk Cornish Hen is a perfect choice for holiday family dinners, offering a tender and flavorful dish that's surprisingly easy to prepare. This recipe uses a buttermilk marinade to ensure the hens are juicy and deliciously seasoned.
 

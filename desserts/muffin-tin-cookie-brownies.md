@@ -6,6 +6,8 @@ These Salted Caramel Muffin Tin Cookie Brownies combine rich, fudgy brownies wit
 
 Adapted from _ChatGPT_
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients:
 
 ### For the Brownie Layer:

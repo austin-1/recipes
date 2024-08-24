@@ -6,6 +6,8 @@ Adjaruli Khachapuri is a traditional Georgian cheese-filled bread shaped like a 
 
 Adapted from _Curious Cuisinière_, Sarah Ozimek
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 === For the Dough

@@ -1,6 +1,6 @@
 = Slow Cooker Blackened Cod and Vegetables Walterboro Style
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This dish blends the bold flavors of link:../sauces-seasonings/blackened-seasoning.adoc[blackened seasoning] with tender cod and savory vegetables, cooked to perfection in a slow cooker. It's a comforting and flavorful meal perfect for any day of the week.
 

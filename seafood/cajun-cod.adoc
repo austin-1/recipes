@@ -1,6 +1,6 @@
 = Baked Cajun Garlic Butter Cod
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 Baked Cajun Garlic Butter Cod is a tender and juicy cod fillet baked in a buttery Cajun seasoning with garlic and olive oil, making this cod a flavorful and delicious dinner. Baked to perfection in just 15 minutes!
 

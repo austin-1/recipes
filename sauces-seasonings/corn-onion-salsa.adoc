@@ -1,6 +1,6 @@
 = Corn and Onion Salsa
 
-link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
+link:./README.md[&larrhk; Back to Sauces &amp; Seasonings]
 
 This Corn and Onion Salsa is a fresh and zesty topping that's perfect for tacos, burritos, bowls, or as a dip with tortilla chips. It's a versatile dish that brings a burst of flavor to any meal.
 

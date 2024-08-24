@@ -1,6 +1,6 @@
 = Garlic Fenugreek Seed Potatoes
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A flavorful and aromatic potato dish cooked in a 2-cup Handi pot, perfect as a side dish or a main for a light meal.
 

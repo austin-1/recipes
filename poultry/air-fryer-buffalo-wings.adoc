@@ -1,6 +1,6 @@
 = Air Fryer Chicken Wings
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Air Fryer Chicken Wings deliver the perfect combination of crispy skin and tender, juicy meat. This method ensures an easy clean-up and is an excellent alternative for those who love the classic taste of fried wings but prefer a healthier approach.
 

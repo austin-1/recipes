@@ -1,10 +1,12 @@
 = Chocolate Chip Cookies
 
-link:./README.me[&larrhk; Back to Dessert Recipes]
+link:./README.md[&larrhk; Back to Dessert Recipes]
 
 This classic American chocolate chip cookie recipe is simple, straightforward, and delivers perfectly doughy yet fully cooked cookies every time. With no need for chilling time or special ingredients, it’s a go-to for any occasion.
 
 Adapted from _JoyFoodSunshine_, Laura Sandford
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients
 

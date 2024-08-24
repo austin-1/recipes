@@ -1,6 +1,6 @@
 = Pesto Chicken and Cauliflower
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This one-pan Pesto Chicken and Cauliflower dish is a fast and healthy option for a weeknight meal. It's paleo, Whole30, and keto-friendly, and ready in just 35 minutes.
 

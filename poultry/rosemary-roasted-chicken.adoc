@@ -1,6 +1,6 @@
 = Rosemary Roasted Whole Chicken
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Rosemary roasted whole chicken is a simple, delicious meal, perfect for family dinners or special occasions. This recipe showcases the ease of oven roasting and leverages the aromatic richness of rosemary and garlic, adapted from a traditional French technique.
 

@@ -1,8 +1,10 @@
 = Leek, Cheese, and Ham Tarts
 
-link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+link:./README.md[&larrhk; Back to Eggs &amp; Ham Recipes]
 
 These Leek, Cheese, and Ham Tarts combine tender leeks, savory ham, and rich cheeses in a buttery tart shell, creating a satisfying and elegant dish perfect for any meal.
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

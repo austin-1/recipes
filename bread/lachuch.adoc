@@ -6,6 +6,8 @@ Lachuch is a traditional Yemenite flatbread with a spongy texture, made from a s
 
 Adapted from _Cook with Renu_, Renu Agrawal-Dongre
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 * 3/4-1 teaspoon active dry yeast

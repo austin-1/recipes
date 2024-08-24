@@ -1,6 +1,6 @@
 = Mushroom and Asparagus Lasagna
 
-link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
+link:./README.md[&larrhk; Back to Pasta &amp; Noodles]
 
 Making this lasagna takes time, but it can be prepared in advance and frozen for later. When ready to serve, bake it directly from the freezer.
 

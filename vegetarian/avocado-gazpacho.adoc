@@ -1,6 +1,6 @@
 = Avocado Gazpacho
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
 

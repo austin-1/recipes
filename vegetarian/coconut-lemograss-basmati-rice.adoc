@@ -1,6 +1,6 @@
 = Summer Coastal Thai Coconut Lemongrass Basmati Rice
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
 

@@ -1,6 +1,6 @@
 = Roast Turkey Thighs for Two
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Roast Turkey Thighs for Two is the perfect solution for a smaller Thanksgiving dinner or a cozy meal for two. This dish offers the flavor and tenderness of turkey without the need to roast a whole bird.
 

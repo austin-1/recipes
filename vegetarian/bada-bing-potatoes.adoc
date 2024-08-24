@@ -1,6 +1,6 @@
 = Bada Bing Bada Banged Potatoes
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 These flavorful and crispy smashed potatoes are a crowd favorite, with a cheesy herb coating that brings out their deliciousness.
 

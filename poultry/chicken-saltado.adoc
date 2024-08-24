@@ -1,6 +1,6 @@
 = Chicken Saltado
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Chicken Saltado is a quick and delicious Peruvian dish inspired by the classic Lomo Saltado, featuring stir-fried chicken with vegetables, soy sauce, and vinegar. This dish is perfect for a flavorful dinner in under 30 minutes.
 

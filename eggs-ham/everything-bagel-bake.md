@@ -6,6 +6,8 @@ This breakfast bake combines the flavors of everything bagels with sausage, eggs
 
 Adapted from _Cravings: Hungry for More_, Chrissy Teigen
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 - 1½ cups grated Gruyère or Swiss cheese

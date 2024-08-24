@@ -1,6 +1,6 @@
 = Air Fryer Rosemary Roasted Potatoes
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Rosemary roasted potatoes with a crispy texture and fragrant aroma, made easily in an air fryer. Perfect as a side dish for any meal.
 

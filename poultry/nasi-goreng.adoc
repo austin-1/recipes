@@ -1,6 +1,6 @@
 = Nasi Goreng
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Nasi Goreng is a popular Indonesian fried rice dish typically made with leftover rice, vegetables, and a protein such as chicken or shrimp. It is flavored with a variety of seasonings, including garlic, sambal, and kecap manis, which give it a unique sweet and savory taste.
 

@@ -1,6 +1,6 @@
 = Vegetarian Cuban Ropa Vieja Stew
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A plant-based take on the traditional Cuban Ropa Vieja, this stew uses jackfruit in place of flank steak, offering a flavorful and satisfying vegetarian option.
 

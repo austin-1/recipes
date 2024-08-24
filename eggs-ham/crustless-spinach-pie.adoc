@@ -1,10 +1,12 @@
 = Crustless Spinach Pie
 
-link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+link:./README.md[&larrhk; Back to Eggs &amp; Ham Recipes]
 
 This easy crustless spinach pie is cheesy and full of spinach, making it a keto-friendly option for breakfast or a delicious, veggie-packed dinner.
 
 Adapted from _Low Carb with Jennifer_, Jennifer Banz
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

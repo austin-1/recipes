@@ -1,6 +1,6 @@
 = Creamy Spinach Gratin
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A rich and comforting side dish, Creamy Spinach Gratin combines fresh spinach with a luscious cream sauce and a golden, cheesy topping. Perfect for special occasions or as a decadent addition to your meal.
 

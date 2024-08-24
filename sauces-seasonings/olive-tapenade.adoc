@@ -1,6 +1,6 @@
 = Olive Tapenade
 
-link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
+link:./README.md[&larrhk; Back to Sauces &amp; Seasonings]
 
 This Olive Tapenade is a savory and versatile Mediterranean spread, perfect as a dip, sandwich topping, or flavorful addition to pizzas, made with a blend of briny olives, capers, anchovies, and fresh herbs.
 

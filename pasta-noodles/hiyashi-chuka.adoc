@@ -1,6 +1,6 @@
 = Venice Beach Inspired Summer Hiyashi Chuka
 
-link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
+link:./README.md[&larrhk; Back to Pasta &amp; Noodles]
 
 This Venice Beach inspired summer Hiyashi Chuka is a refreshing and vibrant cold ramen dish, featuring a medley of fresh vegetables, shrimp, and a tangy sesame-ginger dressing. Perfect for a light, healthy meal on a hot day.
 

@@ -1,10 +1,12 @@
 = Pumpkin Cake
 
-link:./README.me[&larrhk; Back to Dessert Recipes]
+link:./README.md[&larrhk; Back to Dessert Recipes]
 
 This easy Pumpkin Cake with cinnamon cream cheese icing is a simple and delicious sheet cake, perfect for fall gatherings and holidays. The rich pumpkin flavor paired with the spiced cream cheese frosting makes it a seasonal favorite.
 
 Adapted from _Miss in the Kitchen_, Milisa Armstrong
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

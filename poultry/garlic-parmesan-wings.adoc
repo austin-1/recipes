@@ -1,6 +1,6 @@
 = Air Fryer Garlic and Parmesan Wings
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Air Fryer Garlic and Parmesan Wings are crispy and packed with flavor, making them the perfect snack for any gathering. They pair wonderfully with a bitter IPA, balancing the robust flavors of garlic and Parmesan.
 

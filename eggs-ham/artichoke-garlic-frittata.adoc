@@ -1,15 +1,17 @@
 = Artichoke and Garlic Frittata
 
-link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+link:./README.md[&larrhk; Back to Eggs &amp; Ham Recipes]
 
 A frittata is an Italian dish similar to an omelet but cooked flat and can include various ingredients. This version combines rich flavors from garlic, onions, mushrooms, and artichoke hearts, topped with a generous amount of cheese.
 
 Adapted from _The Garlic Lovers Cookbook Volume II_, The Gilroy Garlic Festival Association
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 - 15 to 20 cloves fresh garlic, peeled and coarsely chopped
-- 1 large Bermuda onion, coarsely chopped
+- 1 large yellow onion, coarsely chopped
 - 1½ cup olive oil
 - 1½ lb. fresh mushrooms, sliced
 - 2 jars (6 oz. each) marinated artichoke hearts, drained and halved

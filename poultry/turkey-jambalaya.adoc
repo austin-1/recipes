@@ -1,6 +1,6 @@
 = Turkey Cajun Jambalaya
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This Turkey Cajun Jambalaya blends the robust flavors of wild turkey breast with andouille sausage, shrimp, and a medley of spices and vegetables. This hearty dish is baked to perfection, offering a satisfying one-pot meal with deep Cajun influences.
 

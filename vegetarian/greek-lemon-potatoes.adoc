@@ -1,6 +1,6 @@
 = Greek Lemon Potatoes
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Greek Lemon Potatoes are slowly roasted to achieve a lightly crispy exterior and a tender, flavorful interior with a delightful lemony taste. They make a delicious side dish to any meal.
 

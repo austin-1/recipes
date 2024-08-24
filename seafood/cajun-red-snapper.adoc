@@ -1,6 +1,6 @@
 = Cajun Red Snapper
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This spicy Cajun Red Snapper dish is quick to prepare and full of bold flavors, making it a perfect weeknight meal.
 

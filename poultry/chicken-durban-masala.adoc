@@ -1,6 +1,6 @@
 = Chicken Durban Masala
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Chicken Durban Masala is a flavorful and spicy South African curry dish, made with a blend of aromatic spices, tender chicken, and hearty potatoes. Traditionally served in a bread bowl known as Bunny Chow, this version is cooked in Handi clay pots for a rich and authentic taste.
 

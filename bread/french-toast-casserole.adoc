@@ -6,6 +6,8 @@ Dutch Oven French Toast Casserole is a comforting, baked breakfast dish made wit
 
 Adapted from _Let's Camp S'more_, Diana Hansen
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 * 1 loaf day-old French bread

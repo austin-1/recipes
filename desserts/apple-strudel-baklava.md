@@ -6,6 +6,8 @@ A contemporary take on the classic apple strudel and baklava, this recipe merges
 
 Adapted from _The Peach Tree Tea Room_, Cynthia Collins
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 ### Baklava

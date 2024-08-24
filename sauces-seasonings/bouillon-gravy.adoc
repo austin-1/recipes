@@ -1,6 +1,6 @@
 = Bouillon Gravy
 
-link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
+link:./README.md[&larrhk; Back to Sauces &amp; Seasonings]
 
 Discover the secret ingredient in this flavorful gravy, made versatile with your choice of bouillon flavor.
 

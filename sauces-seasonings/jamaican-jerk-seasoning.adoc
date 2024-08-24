@@ -1,6 +1,6 @@
 = Jamaican Jerk Seasoning
 
-link:./README.me[&larrhk; Back to Sauces &amp; Seasonings]
+link:./README.md[&larrhk; Back to Sauces &amp; Seasonings]
 
 This Jamaican Jerk Seasoning blend brings a kick of authentic Caribbean flavor to your dishes with a mix of spices like cayenne pepper, cinnamon, and nutmeg. Perfect for seasoning meats, vegetables, and more.
 

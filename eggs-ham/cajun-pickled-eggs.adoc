@@ -1,10 +1,12 @@
 = Cajun Pickled Eggs
 
-link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+link:./README.md[&larrhk; Back to Eggs &amp; Ham Recipes]
 
 Cajun Pickled Eggs are a Southern delicacy that combines hard-cooked eggs with bold Cajun seasoning, hot sauce, and vinegar. Over time, the eggs absorb the spicy, tangy flavors, making them a unique and flavorful snack or appetizer.
 
 Adapted from _Leite's Culinaria_, David Leite
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

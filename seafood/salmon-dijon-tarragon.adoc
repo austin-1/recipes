@@ -1,6 +1,6 @@
 = Salmon with Dijon Tarragon Sauce
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This baked salmon dish is served with a tangy tarragon Dijon sauce, making it a flavorful and easy main course perfect for any occasion.
 

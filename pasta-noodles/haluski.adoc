@@ -1,10 +1,12 @@
 = Haluski - Cabbage and Noodles
 
-link:./README.me[&larrhk; Back to Pasta &amp; Noodles]
+link:./README.md[&larrhk; Back to Pasta &amp; Noodles]
 
 This Haluski recipe is a traditional Eastern European dish made with buttery egg noodles, fried cabbage, and onions. It's a simple, hearty, and flavorful dish that's perfect for sharing with family and friends.
 
 Adapted from _AllRecipes_, User PAgirlgoneSouth
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

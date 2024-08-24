@@ -1,6 +1,6 @@
 = Tarragon Chicken Salad Lettuce Wraps
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Lemon Tarragon Chicken Salad Lettuce Wraps are low fat, low carb, and made with no mayo! These refreshing wraps are perfect for summer entertaining and are quick to prepare.
 

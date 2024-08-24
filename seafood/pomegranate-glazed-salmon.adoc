@@ -1,6 +1,6 @@
 = Pomegranate-Glazed Salmon with Asparagus Salad
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This dish combines perfectly cooked salmon with a bright and refreshing asparagus salad, topped with a sweet and tangy pomegranate glaze.
 

@@ -1,6 +1,6 @@
 = Cornish Hens with Apple-Cranberry Rice Stuffing
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Cornish Hens with Apple-Cranberry Rice Stuffing offers an elegant main course perfect for special occasions in fall and winter. This dish combines the sweetness of apples and cranberries with savory herbs and a delicious glaze, providing a sophisticated flavor profile.
 

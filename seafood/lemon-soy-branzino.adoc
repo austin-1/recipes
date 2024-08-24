@@ -1,6 +1,6 @@
 = Lemon Soy Roasted Branzino
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This Lemon Soy Roasted Branzino is a fusion dish that brings together the freshness of Mediterranean flavors with a touch of Asian influence. Inspired by a memorable dish from an Italian restaurant in New York City, it's a flavorful and elegant option for a seafood dinner.
 

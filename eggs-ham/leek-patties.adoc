@@ -1,8 +1,10 @@
 = The Ultimate Leek Patties
 
-link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+link:./README.md[&larrhk; Back to Eggs &amp; Ham Recipes]
 
 These leek patties are a delicious and savory dish, perfect as an appetizer or a light meal. The tender leeks are combined with breadcrumbs and eggs, then pan-fried to golden perfection. Serve them with Greek yogurt or homemade tahini for a delightful experience.
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

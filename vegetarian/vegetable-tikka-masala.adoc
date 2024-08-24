@@ -1,6 +1,6 @@
 = Vegetable Tikka Masala Curry
 
-link:./README.me[&larrhk; Back to Vegetarian Recipes]
+link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A delicious and aromatic vegetable curry made in a 2-cup Handi pot, combining marinated vegetables with a rich, spiced tomato-coconut sauce.
 

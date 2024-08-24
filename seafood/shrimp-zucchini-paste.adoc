@@ -1,6 +1,6 @@
 = Zucchini Pasta with Lemon Garlic Shrimp
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 Healthy zucchini noodles "zucchini pasta" are tossed with lemon garlic shrimp for an easy, family favorite dinner recipe. It's naturally gluten-free, low carb, and can easily be made Whole30 by replacing the white wine with chicken broth.
 

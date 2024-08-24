@@ -6,6 +6,8 @@ A sophisticated take on a Texas Hill Country favorite, this black bean paté is 
 
 Adapted from _The Peach Tree Tea Room_, Cynthia Collins
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 ### Black Bean Paté

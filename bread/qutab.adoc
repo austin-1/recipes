@@ -6,6 +6,8 @@ Qutab with Cheese and Herbs is a savory Azerbaijani flatbread filled with a flav
 
 Adapted from _Cooking 4 All Seasons_, Srivalli Jetti
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 === For the Outer Layer

@@ -1,6 +1,6 @@
 = Parmesan Catfish
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This moist baked catfish has a slightly crunchy coating with a mild Parmesan flavor. It's an easy-to-fix recipe that's sure to be a hit, even with kids.
 

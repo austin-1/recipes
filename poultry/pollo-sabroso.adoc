@@ -1,6 +1,6 @@
 = Pollo Sabroso
 
-link:./README.me[&larrhk; Back to Poultry Recipes]
+link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Pollo Sabroso is a traditional Peruvian dish known for its comforting flavors and vibrant ingredients, often enjoyed with rice or pasta.
 

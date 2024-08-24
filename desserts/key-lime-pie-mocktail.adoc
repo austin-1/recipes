@@ -1,10 +1,12 @@
 = Key Lime Pie Mocktail
 
-link:./README.me[&larrhk; Back to Dessert Recipes]
+link:./README.md[&larrhk; Back to Dessert Recipes]
 
 This Key Lime Pie Mocktail offers a refreshing blend of tangy lime, sweet pineapple, and creamy coconut milk, delivering the flavors of the classic dessert in a delightful non-alcoholic drink.
 
 Adapted from _Allianna's Kitchen_, Allianna Moximchalk
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

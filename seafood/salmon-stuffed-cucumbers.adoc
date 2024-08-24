@@ -1,6 +1,6 @@
 = Salmon Stuffed Cucumbers with Cream Cheese
 
-link:./README.me[&larrhk; Back to Seafood Recipes]
+link:./README.md[&larrhk; Back to Seafood Recipes]
 
 These refreshing salmon stuffed cucumber appetizers are quick and easy to make with just six common ingredients. Perfect for a healthy snack or party appetizer!
 

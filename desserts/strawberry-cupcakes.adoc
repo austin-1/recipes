@@ -1,48 +1,50 @@
 = Very Strawberry Cupcakes
 
-link:./README.me[&larrhk; Back to Dessert Recipes]
+link:./README.md[&larrhk; Back to Dessert Recipes]
 
 These Very Strawberry Cupcakes are adorned with a tangy and delicious strawberry cream cheese frosting. Packed with flavor from both fresh and freeze-dried strawberries, they deliver a natural and vibrant strawberry taste without any artificial flavor or coloring.
 
 Adapted from _Wild Wild Whisk_, Trang Doan
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 === Cupcakes
-* 0.08 cup freeze-dried strawberry powder (1/2 oz)
-* 0.5 cup all-purpose flour
-* 0.22 cup granulated sugar
-* 0.08 teaspoon kosher salt
-* 0.33 teaspoon baking powder
-* 0.08 teaspoon baking soda
-* 0.17 cup pureed strawberry (4 oz)
-* 0.11 cup buttermilk (room temperature)
-* 0.08 cup vegetable oil
-* 0.33 large egg (room temperature)
-* 0.17 teaspoon pure vanilla extract
+* 1 tablespoon freeze-dried strawberry powder
+* 1/2 cup all-purpose flour
+* 1/4 cup granulated sugar
+* 1/8 teaspoon kosher salt
+* 1/3 teaspoon baking powder
+* 1/8 teaspoon baking soda
+* 1/4 cup pureed strawberry
+* 1/8 cup buttermilk (room temperature)
+* 1/8 cup vegetable oil
+* 1 large egg (room temperature)
+* 1/4 teaspoon pure vanilla extract
 
 === Frosting
-* 2.67 oz cream cheese (room temperature)
-* 2.67 oz unsalted butter (room temperature)
-* 0.17 teaspoon pure vanilla extract
-* 0.33 cup powdered sugar
-* 0.08 cup freeze-dried strawberry powder (1/2 oz)
+* 1/3 cup cream cheese (room temperature)
+* 1/3 cup unsalted butter (room temperature)
+* 1/4 teaspoon pure vanilla extract
+* 1/3 cup powdered sugar
+* 1 tablespoon freeze-dried strawberry powder
 
 == Instructions
 
 . Prepare the strawberry powder:
-  * Add 1 oz of freeze-dried strawberries to a food processor and process until a powder forms. This should yield 1/2 cup. Use 1/4 cup for the cupcake batter and the remaining 1/4 cup for the strawberry cream cheese frosting.
+  * Add 1 oz of freeze-dried strawberries to a food processor and process until a powder forms. This should yield about 1/2 cup. Use 1 tablespoon for the cupcake batter and the remaining for the strawberry cream cheese frosting.
 
 . Make the cupcakes:
-  1. Preheat oven to 350°F and line a muffin pan with cupcake liners. Set aside.
-  2. Add 1/4 cup of strawberry powder to a small mixing bowl along with the flour, sugar, salt, baking powder, and baking soda. Mix with a whisk to distribute evenly. Set aside.
-  3. In the same food processor used previously for the freeze-dried strawberries, puree the fresh strawberries. Add the strawberry puree to a medium mixing bowl along with the buttermilk, vegetable oil, egg, and vanilla extract. Whisk until smooth.
-  4. Add the flour mixture to the wet ingredient mixture and fold until just combined.
-  5. Use a large ice cream scoop to divide the batter into the prepared muffin pan, filling each cavity with about 1/4 cup of batter.
-  6. Bake in the middle oven rack for 16-17 minutes, until a toothpick inserted in the center of a cupcake comes out clean. Remove from the oven and allow to cool in the pan until cool to the touch, then transfer to a wire rack to cool completely.
+  1. Preheat oven to 350°F and line a muffin pan with cupcake liners.
+  2. In a small mixing bowl, combine 1 tablespoon of strawberry powder, flour, sugar, salt, baking powder, and baking soda. Whisk to distribute evenly.
+  3. In the same food processor used for the strawberries, puree fresh strawberries. In a medium mixing bowl, combine the strawberry puree, buttermilk, vegetable oil, egg, and vanilla extract. Whisk until smooth.
+  4. Fold the flour mixture into the wet ingredients until just combined.
+  5. Divide the batter among the prepared muffin pan, filling each cavity with about 1/4 cup of batter.
+  6. Bake on the middle oven rack for 16-17 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool in the pan briefly, then transfer to a wire rack to cool completely.
 
 . Make the frosting:
-  1. Allow the cream cheese and butter to come to room temperature and soften. Cut them into small cubes to speed up the process.
-  2. In a stand mixer bowl, add softened butter and cream cheese along with the vanilla extract. Mix with the whisk attachment at medium-low speed, gradually increasing to medium-high, and beat until thoroughly combined.
-  3. Stop the mixer to add the powdered sugar and the remaining 1/4 cup of strawberry powder. Mix at low speed to incorporate the powder mixture into the cream mixture, then gradually increase to medium-high speed and beat until thoroughly combined and fluffy.
-  4. Add a piping tip of your choice to a pastry bag, fill with the frosting, and frost the cooled cupcakes.
+  1. Ensure the cream cheese and butter are at room temperature. Cut into small cubes if necessary.
+  2. In a stand mixer, add the butter, cream cheese, and vanilla extract. Start mixing on medium-low and increase to medium-high until well combined.
+  3. Gradually add the powdered sugar and remaining strawberry powder while mixing on low. Increase the speed to medium-high and beat until fluffy.
+  4. Using a pastry bag with a tip of your choice, fill with the frosting and apply to the cooled cupcakes.

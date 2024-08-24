@@ -1,8 +1,10 @@
 = Mediterranean Deviled Eggs
 
-link:./README.me[&larrhk; Back to Eggs &amp; Ham Recipes]
+link:./README.md[&larrhk; Back to Eggs &amp; Ham Recipes]
 
 All your favorite flavors of Kalamata olives, feta cheese, capers, and red onion shine in these Mediterranean Deviled Eggs. This recipe offers a tart and briny twist on the classic deviled eggs, perfect for a flavorful appetizer.
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 

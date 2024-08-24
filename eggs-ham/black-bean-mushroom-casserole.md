@@ -6,6 +6,8 @@ This casserole combines the flavors of black beans, mushrooms, and spices into a
 
 Adapted from _Cravings: Hungry for More_, Chrissy Teigen
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 - 3 tablespoons vegetable oil, plus more for the baking dish and frying the eggs
