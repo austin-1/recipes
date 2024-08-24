@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Salvadoran Stewed Chicken is a flavorful and hearty dish made with tender chicken drumsticks cooked in a rich tomato and vegetable sauce. This comforting stew is perfect served over rice or with tortillas for a satisfying meal.
 
+Adapted from _Spin the Globe Recipes_
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients

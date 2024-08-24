@@ -4,6 +4,8 @@
 
 This Kumamoto-style Chicken Teriyaki elevates a classic dish with a more sophisticated blend of flavors. The addition of mirin and sake adds depth, while roasted scallions enhance the dish with their sweet, mellow flavor. 
 
+Adapted from _Martha Stewart_
+
 ![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
 
 ## Ingredients

@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Slow-cooked with herbs and shallots, this braised turkey recipe yields succulent and flavorful meat. Using a variety of turkey pieces, such as the breast and thighs, ensures a perfect turkey dinner, ideal for a family meal.
 
+Adapted from _Andrea Buckett Cooks_, Andrea Buckett
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
