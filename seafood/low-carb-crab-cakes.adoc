@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 Gluten-free and keto-friendly crab cakes made with almond flour instead of breadcrumbs. These crab cakes are wonderfully crispy and delicious, perfect as an appetizer or main course.
 
+Adapted from _Healthy Recipes_, Vered DeLeeuw
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 1 egg, lightly beaten
 * 8 oz fresh lump crabmeat, gently picked through and shells removed

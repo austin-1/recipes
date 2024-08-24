@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 These refreshing salmon stuffed cucumber appetizers are quick and easy to make with just six common ingredients. Perfect for a healthy snack or party appetizer!
 
+Adapted from _Wholesome Yum_, Maya Krampf
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1 lb cucumber (about 1 foot-long cucumber)
 * 2 oz cream cheese, softened and cut into cubes

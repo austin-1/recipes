@@ -6,6 +6,8 @@ Oven-Baked Frogmore Stew is a delightful and easy twist on the traditional Lowco
 
 Adapted from _Barefoot Contessa_, Ina Garten
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 5 pounds raw shrimp, peeled and deveined
 * 8 fully cooked sausages, sliced into 1/2-inch pieces

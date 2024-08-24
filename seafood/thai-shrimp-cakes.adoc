@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 Pan-seared, tender Thai Shrimp Cakes with a golden panko crust served with creamy Chili Aioli. Simple, yet wildly flavorful, these shrimp cakes can be enjoyed as an appetizer or entree.
 
+Adapted from _Dishing out Health_, Jamie Vespa
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 === Thai Shrimp Cakes

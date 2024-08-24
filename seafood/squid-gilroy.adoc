@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This savory squid dish can be enjoyed on its own or served over spaghetti, complemented by a light, fruity Zinfandel and fresh vegetables.
 
+Adapted from _The Garlic Lovers Cookbook Volume II_, The Gilroy Garlic Festival Association
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 - 2 lb. squid, cleaned and drained

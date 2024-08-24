@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 A delicious combination of fish fillets and crispy plantains, marinated in a flavorful spice blend and fried to perfection.
 
+Adapted from _Playful Cooking_, Kankana Saxena
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 2 fish fillets (e.g., tilapia)
 * 1 plantain, peeled and thinly sliced into circular shapes

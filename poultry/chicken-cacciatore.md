@@ -1,12 +1,12 @@
 # Tangipahoa Sicilian Summer Chicken Cacciatore
 
-link:./README.md[&larrhk; Back to Poultry Recipes]
+[&larrhk; Back to Poultry Recipes](./README.md)
 
 This version of Chicken Cacciatore is inspired by the Sicilian roots of Tangipahoa Parish, Louisiana, incorporating local ingredients and a touch of summer freshness to create a vibrant and flavorful dish.
 
 Adapted from _New Orleans Magazine_, Nick Lama
 
-image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients
 

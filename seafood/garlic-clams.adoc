@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This flavorful Portuguese-inspired recipe for Garlic Clams is perfect for serving with rolls and butter, making it an excellent choice for dunking in the delicious clam juice.
 
+Adapted from _Fandom Recipes Wiki_
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 24 littleneck clams
 * 1/2 cup olive oil

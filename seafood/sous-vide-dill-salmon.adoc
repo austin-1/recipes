@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This Sous Vide Dill Salmon is perfectly cooked and infused with the flavors of fresh dill, garlic, and lemon. A simple yet elegant dish that's sure to impress.
 
+Adapted from _ChatGPT_
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 4 salmon fillets
 * 2 tablespoons olive oil

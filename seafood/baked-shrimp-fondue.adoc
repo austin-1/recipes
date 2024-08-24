@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 A delightful blend of shrimp, bell peppers, and onions seasoned and baked to perfection with a crispy cheese fondue topping. This easy recipe is perfect for a flavorful appetizer or main course.
 
+Adapted from _ChatGPT_
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1/2 lb large shrimp, peeled and deveined
 * 1 red bell pepper, sliced into chunks

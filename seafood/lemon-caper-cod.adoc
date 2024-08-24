@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 Thick-cut cod is pan-seared in a mixture of olive oil and butter to produce a golden brown crust, then served with a lemon, parsley, and caper sauce. This simple and healthy dish makes for a perfect weeknight meal.
 
+Adapted from _Just a Little Bit of Bacon_, Annemarie Walker
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 
 *Cod Fillets:*

@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This spicy Cajun Red Snapper dish is quick to prepare and full of bold flavors, making it a perfect weeknight meal.
 
+Adapted from _AllRecipes_, user MARBALET
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 1 teaspoon paprika
 * 1/4 teaspoon ground cayenne pepper

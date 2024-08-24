@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 The collar of salmon is full of flavorful meat that stays succulent when broiled. This dish pairs the rich taste of salmon collars with a bold soy-ginger sauce, making it a delicious and easy meal. Salmon fillets can be used as a substitute if collars are unavailable.
 
+Adapted from _Food &amp; Wine_, Justin Chapple
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1/4 cup soy sauce
 * 2 tablespoons rice vinegar

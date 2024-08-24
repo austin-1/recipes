@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This recipe takes the traditional Thai shrimp curry and enhances it by using a preheated handi pot to finish in the oven, which allows the flavors to meld beautifully.
 
+Adapted from _ChatGPT_
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1/2 pound (200g) medium shrimp, peeled and deveined
 * 1 tablespoon vegetable oil or coconut oil

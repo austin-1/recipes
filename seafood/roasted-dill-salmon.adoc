@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This easy and flavorful Roasted Dill Salmon pairs perfectly with a creamy dill sauce, making it a delicious and healthy meal option.
 
+Adapted from _ChatGPT_
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 *For the Salmon:*
 * 4 salmon fillets

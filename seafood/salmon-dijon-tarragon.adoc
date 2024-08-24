@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This baked salmon dish is served with a tangy tarragon Dijon sauce, making it a flavorful and easy main course perfect for any occasion.
 
+Adapted from _Life's Ambrosia_, Dez Kazda
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 3 tablespoons mayonnaise
 * 2 tablespoons Dijon mustard

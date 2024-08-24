@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This hearty Cajun seafood soup is a delicious blend of seafood, vegetables, and spices, perfect for any occasion.
 
+Adapted from _The Spice House_, Clay Erickson
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1/2 cup uncooked barley
 * 2 cups chicken stock

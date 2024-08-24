@@ -4,6 +4,10 @@
 
 Though at first it seems an odd tip of the hat to familiar Beef Wellington, this dish is a wonderful variation spotlighting Louisiana's most versatile shellfish. A filling of crawfish tails, mushrooms, and scallop mousse is sealed in puff pastry and served in a pool of White Butter Sauce.
 
+Adapted from _Arnaud's Creole Cookbook_, John DeMers
+
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 - 1 cup (1/2 pound) Boiled Crawfish Tails, cut in half

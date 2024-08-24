@@ -6,6 +6,8 @@ A refined version of the classic Southern oyster dressing, this recipe incorpora
 
 Adapted from _Emory Seasons: Entertaining Atlanta Style_, Emory University Women's Club
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 - 1/2 cup unsalted butter, melted
 - 2 cups chopped celery

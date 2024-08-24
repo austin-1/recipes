@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Seafood Recipes]
 
 This easy and flavorful baked red snapper is infused with fresh herbs, fennel, and a zesty lemon sauce, making it a perfect dish for a special meal.
 
+Adapted from _Food Network_, Giada De Laurentiis
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 4 tablespoons olive oil, divided
 * 1 whole (3-pound) red snapper, cleaned and scaled
