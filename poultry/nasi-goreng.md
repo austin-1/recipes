@@ -4,6 +4,8 @@
 
 Nasi Goreng is a popular Indonesian fried rice dish typically made with leftover rice, vegetables, and a protein such as chicken or shrimp. This version is adapted for a Bali Autumn theme, using ingredients commonly found at a typical Safeway while maintaining its unique sweet and savory taste.
 
+Adapted from _Well-Worn Apron_, Ann Marie van den Hurk
+
 ![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
 
 ## Ingredients

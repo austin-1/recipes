@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Recipe for oven-fried chicken thighs that taste just like pan-fried or even deep-fried, but without the greasy mess and extra calories. Perfect for a quick and delicious meal.
 
+Adapted from _Craving Tasty_, Victor
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

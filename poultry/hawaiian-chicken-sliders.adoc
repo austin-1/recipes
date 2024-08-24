@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 These easy Hawaiian Chicken Sliders are perfect for game day or any day. Made with rotisserie chicken or leftover shredded chicken, these sliders come together quickly with a sweet and tangy flavor profile.
 
+Adapted from _Your Homebased Mom_, Leigh Anne Wilkes
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients

@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Juane de Gallina is a traditional Peruvian dish made with chicken, rice, and eggs, all wrapped in banana leaves and steamed to perfection. This flavorful dish requires some patience and attention to detail but is well worth the effort.
 
+Adapted from _The Everything Peruvian Cookbook_, Morena Cuadra
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients

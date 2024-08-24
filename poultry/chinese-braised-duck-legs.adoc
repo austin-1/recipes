@@ -4,11 +4,13 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Chinese Braised Duck Legs are delicately seared and braised with scallions, creating a sauce that pairs wonderfully with steamed rice. This dish is both exquisite and simple, offering a rich flavor that is deeply satisfying.
 
+Adapted from _The Woks of Life_, Sarah Leung
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 * 4 duck legs
-* 1/4 cup Shaoxing wine (substitute with clear rice wine or cooking sherry if needed)
+* 1/4 cup sherry cooking wine or mirin
 * 2 cups low sodium chicken stock
 * 2 tablespoons soy sauce
 * 2 tablespoons oyster sauce

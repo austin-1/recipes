@@ -9,7 +9,7 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 == Ingredients
 
 * 2 lbs chicken breasts, cut into 6 servings
-* 2 tablespoons Jamaican Jerk seasoning
+* 2 tablespoons link:../sauces-seasonings/jamaican-jerk-seasoning[Jamaican Jerk seasoning]
 * 1 sweet potato, diced
 * 3 plantains, diced
 * 2 apples, diced
@@ -29,7 +29,7 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
    * Drizzle olive oil over the mixture. Season with salt and pepper, then toss to coat evenly.
 
 3. **Season the Chicken:**
-   * Season each chicken breast with 1/2 teaspoon of Jamaican Jerk seasoning on each side.
+   * Season each chicken breast with 1/2 teaspoon of link:../sauces-seasonings/jamaican-jerk-seasoning[Jamaican Jerk seasoning] on each side.
    * Place the seasoned chicken breasts on top of the vegetable and fruit mixture in the Dutch oven.
 
 4. **Bake:**
