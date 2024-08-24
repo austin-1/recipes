@@ -6,6 +6,8 @@ A warm and satisfying vegetarian version of sukiyaki, perfect for cooler evening
 
 Adapted from _Emails from Ching_
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 * 1/2 small head of napa cabbage, cut into 2-inch chunks

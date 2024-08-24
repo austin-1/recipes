@@ -6,6 +6,8 @@ Pasta Carbonara is a classic Italian dish that combines pasta with crispy pancet
 
 Adapted from _Preppy Kitchen_, John Kanell
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 
 * 1 tablespoon extra virgin olive oil or unsalted butter

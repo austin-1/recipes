@@ -6,6 +6,8 @@ Restaurant-quality mushroom ramen you can make at home! With a perfectly seasone
 
 Adapted from _Damn Delicious_, Chungah Rhee
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 
 * 1 (1-ounce) package dried shiitake mushrooms
