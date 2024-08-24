@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Air Fryer Fried Green Tomatoes fry up super crispy with very little oil. This healthier version of the Southern classic is quick and easy to make.
 
+Adapted from _Spicy Southern Kitchen_, Christin Mahrlig
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

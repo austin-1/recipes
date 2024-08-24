@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 With layers of cheese, tomato sauce, and vegetables, this easy Zucchini Lasagna will soon become a favorite in your house. Low-carb and gluten-free, it is prepared with zucchini slices instead of traditional noodles.
 
+Adapted from _Del's Cooking Twist_, Delphine Fortin
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

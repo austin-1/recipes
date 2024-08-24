@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 
+Adapted from _Recipe Girl_, Laurie Lange
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

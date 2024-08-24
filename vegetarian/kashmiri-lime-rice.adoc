@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A fragrant and spicy rice dish infused with Kashmiri chili and lime, perfect for adding a bold flavor to any meal.
 
+Adapted from _ChatGPT_
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

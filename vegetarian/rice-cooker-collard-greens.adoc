@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A Southern-style collard greens dish that's easily prepared in a rice cooker. Optional replacements for the ham hock include diced ham or bacon for added flavor.
 
+Adapted from _ChatGPT_
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

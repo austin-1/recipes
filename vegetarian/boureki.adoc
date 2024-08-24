@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Boureki is a traditional Cretan dish that layers thinly sliced zucchini, potatoes, and onions with a savory blend of cheeses, garlic, and mint, then bakes them to perfection. 
 
+Adapted from _Food.com_, user @evelynathens
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients

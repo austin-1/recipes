@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 This Stuffed Tomatoes and Rice recipe features juicy tomatoes filled with a savory mixture of bread crumbs, Parmesan cheese, and seasonings, baked until golden and served over a bed of rice. It's a perfect side dish for holiday dinners, complementing turkey or ham beautifully.
 
+Adapted from _Mostly Homemade Mom_, Kelly Miller
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

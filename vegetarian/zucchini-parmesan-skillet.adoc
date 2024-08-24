@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Perfect for weeknight dinners, this quick and easy skillet side dish delivers family-friendly flavors.
 
+Adapted from _Better Than Bouillon_
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients

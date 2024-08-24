@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 This stuffed zucchini recipe combines white and garbanzo beans with a blend of herbs and vegetables for a flavorful and satisfying dish. Perfect as a main course or a side dish.
 
+Adapted from _ChatGPT_
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients

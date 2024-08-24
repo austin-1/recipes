@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 This handy Air Fryer Zucchini Fritters recipe is a fantastic way to get your kids to eat their veggies without any resistance! Crispy, flavorful, and nutritious, these zucchini cakes utilize the power of shredded zucchini for a filling and delicious snack or side.
 
+Adapted from _Dizzy Busy and Hungry_, Kristin King
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

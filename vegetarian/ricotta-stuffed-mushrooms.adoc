@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Tender mushroom caps stuffed with a creamy herb and ricotta filling.
 
+Adapted from _Love Laugh Mirch_, Nisha Vedi Pawar
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients

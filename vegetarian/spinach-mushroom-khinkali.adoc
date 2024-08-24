@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Khinkali are traditional Georgian dumplings, typically filled with meat, but this vegetarian version features a savory mix of spinach, mushrooms, and cheese, offering a delicious twist on the classic.
 
+Adapted from _ChatGPT_
+
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients
