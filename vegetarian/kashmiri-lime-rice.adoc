@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A fragrant and spicy rice dish infused with Kashmiri chili and lime, perfect for adding a bold flavor to any meal.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1 cup Basmati rice (rinse thoroughly under cold water)
 * 2 cups water

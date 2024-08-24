@@ -6,6 +6,8 @@ This recipe features mini potatoes sautéed with aromatic fennel seeds and garli
 
 Adapted from _ChatGPT_
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 . *Ingredients*  
 
 .. 2 cups mini potatoes, halved  

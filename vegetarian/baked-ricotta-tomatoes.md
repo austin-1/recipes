@@ -6,6 +6,8 @@ This simple and addictive baked ricotta dip is best enjoyed warm with crackers, 
 
 Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Westerhausen
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 - 1 lb (455 g) whole-milk ricotta

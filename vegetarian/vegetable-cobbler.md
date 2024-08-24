@@ -6,6 +6,8 @@ This hearty vegetable cobbler, topped with tender herb drop biscuits, is a comfo
 
 Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Westerhausen
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 ### For the Filling

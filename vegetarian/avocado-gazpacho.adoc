@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 1 large ripe avocado (about 6 or 7 ounces)
 * 1 ½ pounds ripe tomatoes, cored and peeled

@@ -50,14 +50,16 @@ Khinkali are a popular Georgian dish, and this vegetarian version with spinach, 
 ## &#127834; Rice &amp; Grains
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
+
 ### [Javaher Polow](javaher-polow.adoc)
 Iranian Jeweled Rice, or Javaher Polow, is a traditional Persian dish that combines basmati rice with a mix of dried fruits, nuts, and aromatic spices. It's known for its beautiful presentation and vibrant flavors, making it a perfect side dish for special occasions.
+
 ### [Kashmiri Chili &amp; Lime Basmati Rice](kashmiri-lime-rice.adoc)
 Kashmiri Chili Lime Basmati Rice is a fragrant and spicy dish that combines the heat of Kashmiri chili with the zesty flavor of lime. This vibrant rice dish pairs well with a variety of main courses, particularly those with coastal or Thai-inspired flavors.
+
 ### [Lemon Herb Quinoa](lemon-herb-quinoa.adoc)
 A light and refreshing side dish featuring quinoa infused with lemon and fresh herbs, perfect for any meal.
-### [Pigeon Pea Rice](pigeon-pea-rice.adoc)
-Arroz con Gandules, also known as Puerto Rican Rice with Pigeon Peas, is a traditional and flavorful dish often served during special occasions. If pigeon peas are unavailable, regular peas can be used as a substitute.
+
 ### [Rice Cooker Couscous](rice-cooker-couscous.adoc)
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
 
@@ -75,10 +77,10 @@ Stovetop fennel seed garlic mini potatoes are a quick and delicious side dish th
 
 ### [Fenugreek Potatoes](fenugreek-potatoes.adoc)
 Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a side or light main course. The combination of fenugreek seeds, garlic, and spices infuses the potatoes with a rich and complex flavor, perfect for a cozy meal.
-### [Garlic Bombs](garlic-bombs.adoc)
-Roasted Garlic Bombs are easy to make and perfect for adding a burst of flavor to your dishes. Roast a batch and freeze them for quick use in weeknight meals.
+
 ### [Greek Lemon Potatoes](greek-lemon-potatoes.adoc)
 Greek Lemon Potatoes are a classic Mediterranean side dish, featuring tender, lemon-infused potatoes that are crispy on the outside and soft on the inside. Perfect for accompanying any main dish.
+
 ### [Rosemary Roasted Potatoes](rosemary-roasted-potatoes.adoc)
 These Air Fryer Rosemary Roasted Potatoes offer a quick and flavorful way to enjoy crispy, herb-infused potatoes as a side dish to complement any meal.
 

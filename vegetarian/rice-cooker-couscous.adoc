@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 1 1/2 cups couscous
 * 1 1/2 cups chicken or vegetable broth

@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Greek Lemon Potatoes are slowly roasted to achieve a lightly crispy exterior and a tender, flavorful interior with a delightful lemony taste. They make a delicious side dish to any meal.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 3 large russet potatoes (or 4 medium-sized), peeled and quartered
 * 1/2 cup olive oil

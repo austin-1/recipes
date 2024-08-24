@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 1 cup basmati rice
 * 1 cup coconut milk (unsweetened)

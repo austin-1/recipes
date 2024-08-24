@@ -2,6 +2,8 @@
 
 A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 4 large russet potatoes, peeled and cubed
 * 3 hard-boiled eggs, chopped

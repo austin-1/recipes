@@ -6,6 +6,8 @@ These savory muffins combine the earthy sweetness of sweet potatoes with the sal
 
 Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Westerhausen
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 - 1 Tbsp unsalted butter

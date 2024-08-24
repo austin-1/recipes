@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 A savory-sweet gratin made with pears, acorn squash, and pumpkin, layered with a spiced honey mixture and baked to perfection.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 2 Bartlett pears
 * 1/2 tsp lemon juice

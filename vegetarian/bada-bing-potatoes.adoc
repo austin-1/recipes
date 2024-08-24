@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 These flavorful and crispy smashed potatoes are a crowd favorite, with a cheesy herb coating that brings out their deliciousness.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 5 pounds small new potatoes
 * 3/4 cup olive oil

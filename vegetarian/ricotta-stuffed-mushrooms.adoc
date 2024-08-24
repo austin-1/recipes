@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Tender mushroom caps stuffed with a creamy herb and ricotta filling.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 16 oz Crimini Mushrooms (Baby Bellas)
 * 1 tablespoon butter

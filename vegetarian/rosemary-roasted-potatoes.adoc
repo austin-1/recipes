@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Rosemary roasted potatoes with a crispy texture and fragrant aroma, made easily in an air fryer. Perfect as a side dish for any meal.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 2 pounds Yukon Gold or red potatoes, washed and cut into bite-sized pieces
 * 3 tablespoons olive oil
