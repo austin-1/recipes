@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Anticuchos, or brochettes, hold a special place in Peruvian cuisine. These flavorful skewers of marinated chicken are grilled to perfection and served with golden potatoes, making them a satisfying and delicious dish to enjoy all year round.
 
+Adapted from _The Everything Peruvian Cookbook_, Morena Cuadra
+
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 6 chicken breasts, boned and skinned
 * Salt to taste

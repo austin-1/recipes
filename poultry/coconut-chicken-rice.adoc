@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This delicious one-pot meal is a Southeast Asian spin on chicken and rice, combining tender chicken thighs with fragrant rice cooked in coconut milk. It's a satisfying and flavorful dinner that's easy to prepare.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 2 tablespoons olive oil
 * 8 chicken thighs

@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This tender and fragrant chicken dish is perfect for Sunday dinner or any special occasion. The lemon and basil infuse the chicken with fresh, vibrant flavors.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 1 medium lemon
 * 2 garlic cloves, peeled and divided

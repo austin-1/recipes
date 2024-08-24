@@ -41,8 +41,10 @@ These easy Hawaiian Chicken Sliders are perfect for game day or any day. Made wi
 An easy one-pot chicken dinner featuring oven-roasted Jamaican Jerk chicken cooked on top of a flavorful mix of diced plantains, sweet potatoes, and apples. This dish is both hearty and full of Caribbean-inspired flavors.
 #### [Lemon Caper Chicken](lemon-caper-chicken.adoc)
 This Oven Baked Creamy Lemon-Caper Chicken features tender chicken cutlets cooked in a rich and tangy lemon-caper sauce. Perfect for a comforting dinner, this dish is sure to impress with its blend of zesty lemon, briny capers, and savory chicken.
-#### [Nasi Goreng](nasi-goreng.adoc)
+
+#### [Nasi Goreng](nasi-goreng.md)
 Nasi Goreng is a popular Indonesian fried rice dish typically made with leftover rice, vegetables, and a protein such as chicken or shrimp. It is flavored with a variety of seasonings, including garlic, sambal, and kecap manis, which give it a unique sweet and savory taste.
+
 #### [Pesto Chicken &amp; Cauliflower](pesto-chicken-cauliflower.adoc)
 This one-pan Pesto Chicken and Cauliflower dish is a fast and healthy option for a weeknight meal. It's paleo, Whole30, and keto-friendly, and ready in just 35 minutes.
 #### [Tarragon Chicken Salad Wraps](tarragon-chicken-salad.adoc)
@@ -55,7 +57,7 @@ This easy and juicy Dutch oven chicken breast with tomatoes is a must-try! Tende
 #### [Berbere Chicken](berbere-chicken.adoc)
 Berbere Chicken is a flavorful and spicy dish from Ethiopian cuisine, featuring chicken thighs seasoned with a homemade Berbere spice mix, served over a bed of lentils cooked with aromatic vegetables and spices.
 
-#### [Chicken Cacciatore](chicken-cacciatore.adoc)
+#### [Chicken Cacciatore](chicken-cacciatore.md)
 Chicken Cacciatore is a classic Italian dish that features tender chicken braised with vegetables, herbs, and tomatoes. This hearty and flavorful meal is perfect served over pasta, polenta, or with crusty bread.
 
 #### [Chicken Fricassee](chicken-fricassee.md)
@@ -106,8 +108,10 @@ This Dutch Oven Roasted Chicken with Wild Rice combines tender chicken with the 
 Rosemary roasted whole chicken is a simple, delicious meal, perfect for family dinners or special occasions. This recipe showcases the ease of oven roasting and leverages the aromatic richness of rosemary and garlic, adapted from a traditional French technique.
 #### [Rotisserie Chicken, Mango &amp; Avocado Salad](chicken-mango-avocado-salad.adoc)
 This refreshing salad combines tender shredded chicken with sweet mango, creamy avocado, and a spicy chili-lime dressing, making it a perfect meal for any occasion.
-#### [Teriyaki Chicken](teriyaki-chicken.adoc)
-This Teriyaki Chicken with Roasted Scallions recipe showcases the harmonious flavors of Japanese cuisine, with sweet and savory chicken paired with mellow roasted scallions. It's a delightful dish that's both comforting and elegant, perfect for family meals or entertaining guests.
+
+#### [Teriyaki Chicken](teriyaki-chicken.md)
+This Kumamoto-style Chicken Teriyaki elevates a classic dish with a more sophisticated blend of flavors. The addition of mirin and sake adds depth, while roasted scallions enhance the dish with their sweet, mellow flavor. 
+
 ## &#128037; Cornish Hens
 ### [Basque Cornish Hens](basque-cornish-hens.adoc)
 Rock Cornish Game Hens Basque Style is a delightful dish that combines the tender and flavorful Cornish game hens with a robust tomato-based sauce infused with herbs and olives, embodying the rich flavors of Basque cuisine.

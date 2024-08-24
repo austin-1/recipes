@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Duck Confit is a classic French dish where duck legs are slowly cooked in their own fat, resulting in tender, flavorful meat with crispy skin. This simple method is perfect for an indulgent meal.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * Duck legs (at least 1 per person)
 * Kosher salt

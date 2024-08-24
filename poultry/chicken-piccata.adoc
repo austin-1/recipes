@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This savory Lemon Chicken Piccata is made all in one skillet and is perfect for a quick weeknight meal. It's gluten-free, paleo, low carb, and keto-friendly, making it a healthy and delicious option that also saves well for lunch the next day.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 
 * 1.5 pounds boneless skinless chicken breasts, pounded to 1/2” thickness (or purchased thin-sliced)

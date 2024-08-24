@@ -4,6 +4,8 @@
 
 This Chicken Korma is a flavorful and creamy dish with tender chicken pieces simmered in a rich sauce made from spices, tomatoes, and cream. Perfect for a comforting meal, it can be prepared ahead of time and reheats well.
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 - 1.5-inch piece fresh ginger, peeled and coarsely chopped

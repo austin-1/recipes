@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Turkey and Pancetta Pie is a hearty, savory dish perfect for a comforting meal. The combination of tender turkey, smoky pancetta, and a creamy filling, all encased in a flaky homemade pastry, makes this pie a satisfying treat.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 *Pastry:*
 * 400g plain flour

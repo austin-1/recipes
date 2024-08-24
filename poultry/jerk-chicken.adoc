@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 An easy one-pot chicken dinner featuring oven-roasted Jamaican Jerk chicken cooked on top of a flavorful mix of diced plantains, sweet potatoes, and apples. This dish is both hearty and full of Caribbean-inspired flavors.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 * 2 lbs chicken breasts, cut into 6 servings

@@ -6,6 +6,8 @@ This Tucson-inspired twist on the classic French chicken fricassee incorporates 
 
 Adapted from _Purple Sage and Other Pleasures_, Junior League of Tucson
 
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 
 - 4 bone-in, skin-on chicken thighs

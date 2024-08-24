@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Chicken Mole is a rich and flavorful Mexican dish traditionally simmered for a long period of time. This version is ready in less than an hour and can be served with Spanish rice, cauliflower rice, or shredded for enchiladas, quesadillas, or tacos.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 
 === Prepping the Chicken Breasts:

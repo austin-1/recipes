@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Crispy Baked Chicken Wings offer a delightful crunch without the hassle of deep frying. Prepare the flavorful Buffalo sauce first for a seamless cooking process that results in perfectly seasoned wings.
 
+Adapted from _Tastes Better From Scratch_, Lauren Allen
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 4 pounds chicken wings, halved at joints, wingtips discarded
 * 2 Tablespoons aluminum-free baking powder

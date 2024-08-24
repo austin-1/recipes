@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Duck Legs Braised with Seville Oranges offers a rich and citrus-infused flavor, perfectly complemented by a medley of tender vegetables. This dish is ideal for a sophisticated dinner that highlights the unique tartness of Seville oranges.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 4 duck legs
 * 1 tablespoon mild olive oil

@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This easy and juicy Dutch oven chicken breast with tomatoes is a must-try! Tender and flavorful boneless chicken breasts are cooked in a rich tomato sauce with simple everyday spices and vegetables. It's the perfect comfort food for the whole family.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 4 boneless, skinless chicken breasts
 * Salt and black pepper, to taste

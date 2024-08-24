@@ -4,6 +4,8 @@
 
 This traditional dish combines tender chicken with a flavorful blend of tiger lily buds, mushrooms, and red dates, all simmered in a savory sauce.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 ### Ingredients
 
 - 3 tablespoons oil

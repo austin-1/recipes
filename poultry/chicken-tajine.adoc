@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Traditional Moroccan Chicken Breast Tajine is a flavorful dish featuring tender chicken breasts simmered with aromatic spices, preserved lemons, olives, and dried fruits. This comforting meal is perfect for a cozy dinner and is typically served with couscous or bread.
 
+image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+
 == Ingredients
 * 2 boneless, skinless chicken breasts
 * 1 medium onion, thinly sliced

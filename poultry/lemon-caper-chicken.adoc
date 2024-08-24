@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This Oven Baked Creamy Lemon-Caper Chicken features tender chicken cutlets cooked in a rich and tangy lemon-caper sauce. Perfect for a comforting dinner, this dish is sure to impress with its blend of zesty lemon, briny capers, and savory chicken.
 
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 
 * 4 lbs. chicken cutlets

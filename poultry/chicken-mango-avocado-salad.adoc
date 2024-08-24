@@ -4,6 +4,10 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 This refreshing salad combines tender shredded chicken with sweet mango, creamy avocado, and a spicy chili-lime dressing, making it a perfect meal for any occasion.
 
+Adpated from _Food &amp; Wine_
+
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+
 == Ingredients
 * 3 tablespoons light brown sugar
 * 1/4 cup water
