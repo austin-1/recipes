@@ -4,6 +4,8 @@ link:./README.md[&larrhk; Back to Poultry Recipes]
 
 Duck Escabeche is a traditional Peruvian dish that showcases the rich and savory flavor of duck, which has been a part of the Peruvian diet since pre-Columbian times. This recipe combines the duck with vibrant citrus and spices for a truly delightful meal.
 
+Adapted from _The Everything Peruvian Cookbook_, Morena Cuadra
+
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
