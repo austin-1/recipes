@@ -4,7 +4,7 @@
 
 This Venice Beach inspired summer Hiyashi Chuka is a refreshing and vibrant cold ramen dish, now with a spicy peanut sauce. Featuring a medley of fresh vegetables, shrimp, and a robust flavor profile, it’s perfect for a light, spicy meal on a hot day.
 
-Adapted from _ChatGPT_
+Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Westerhausen
 
 ![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
