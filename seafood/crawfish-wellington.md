@@ -72,5 +72,3 @@ Adapted from _Arnaud's Creole Cookbook_, John DeMers
 2. Add the cream and reduce to one-third of its original volume.
 3. Remove from the heat and add the butter, small amounts at a time, whipping with a whisk until the butter is completely mixed with the cream. (The sauce will separate if this is done over heat.)
 4. Season to taste with salt.
-
-**Note:** White butter sauce cannot be stored, but any leftovers are good over a sophisticated salad.
