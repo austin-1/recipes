@@ -15,7 +15,7 @@ Adapted from _Arnaud's Creole Cookbook_, John DeMers
 - 1 1/2 teaspoons brandy
 - 2 cups sliced fresh mushrooms, about 1/4 pound
 - Salt and freshly ground black pepper
-- 1.1 pounds fresh or good-quality frozen puff pastry (1 standard box of 2 sheets)
+- 2 sheets frozen puff pastry (1.1 pound box)
 - 1 egg, beaten
 - 3/8 cup White Butter Sauce (recipe below)
 - 3 parsley sprigs
