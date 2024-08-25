@@ -45,7 +45,7 @@ Adapted from _Arnaud's Creole Cookbook_, John DeMers
 - 2 tablespoons finely chopped leeks
 - 2 tablespoons chopped fresh parsley
 - A small pinch of cayenne pepper
-- 1/4 cup bread crumbs, approximately
+- 1 cup panko bread crumbs, approximately
 
 ### Instructions
 
