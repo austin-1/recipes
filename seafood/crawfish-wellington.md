@@ -6,7 +6,7 @@ Though at first it seems an odd tip of the hat to familiar Beef Wellington, this
 
 Adapted from _Arnaud's Creole Cookbook_, John DeMers
 
-![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients
 
