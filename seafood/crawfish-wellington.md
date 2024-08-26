@@ -25,10 +25,10 @@ Adapted from _Arnaud's Creole Cookbook_, John DeMers
 1. Preheat the oven to 350°F (175°C).
 2. Mix the crawfish, scallop mousse, and brandy in a bowl, and set aside.
 3. In a pan over high heat, sauté the mushrooms until the moisture in them has evaporated. Season to taste with salt and pepper.
-4. Roll out the puff pastry sheets to ¼ inch thick. Cut each sheet into 3 rectangles, each 7 by 5 inches.
-5. Center 1/2 teaspoon of the sautéed mushrooms on each rectangle, then top with about 1/4 cup of the crawfish mixture. Cover with another 1/2 teaspoon of the mushrooms.
-6. Brush all the exposed puff pastry with beaten egg, fold over the edges, and seal by pinching lightly. Decorate with any excess pastry cut into interesting shapes. Brush all the surfaces with egg and place the pastries on a sheet pan.
-7. Bake in the oven for 22 minutes, until the pastry turns golden brown.
+4. Roll out each puff pastry sheet to thaw, placing one of the sheets on a sheet pan topped with a silicone baking mat.
+5. Center half of the sautéed mushrooms on a sheet of puff pastry, then top with the crawfish mixture. Cover with another 1/2 teaspoon of the mushrooms. Be sure to leave about an inch of space on all sides.
+6. Cover the filling with the other puff pastry sheet and press down on sides to seal. Cut 3 slits diagonally along the top to vent. Brush all the surfaces with egg.
+7. Bake in the oven for 30 minutes, or until the pastry turns golden brown.
 8. When ready to serve, ladle 1 tablespoon of white butter sauce on each of 3 dinner plates. Center the Wellington shells on the sauce, garnish with the parsley sprigs, and serve immediately.
 
 ## Scallop Mousse
