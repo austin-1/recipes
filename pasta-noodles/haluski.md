@@ -26,6 +26,6 @@ Adapted from _AllRecipes_, User PAgirlgoneSouth
 4. Stir in the sliced cabbage and the remaining 1/2 cup butter. Continue to cook, stirring occasionally, until the cabbage is tender and slightly caramelized, about 5 to 8 minutes. Season with salt and black pepper.
 5. Combine the cooked noodles, cabbage mixture, and chopped dill in a large roasting pan. Mix gently to blend the flavors.
 6. Sprinkle the crumbled goat cheese over the top.
-7. Bake in the preheated oven until the top is slightly golden and the cheese has softened, about 15 to 20 minutes.
+7. Bake in the preheated oven until the top is slightly golden and the cheese has softened, about 25 minutes.
 
 Serve this delightful dish warm, perfect for a light lunch or as a side to your favorite summer meal.
