@@ -5,6 +5,9 @@
 ## [Apple Cider Pound Cake](apple-cider-pound-cake.adoc)
 Apple Cider Pound Cake is a rich, spiced cake that captures the flavors of fall, inspired by the bountiful apple harvests of New England. The cake is complemented by a buttery icing, making it a perfect treat for autumn gatherings.
 
+## [Apple Kuechle](apple-kuechle.md)
+This Frankenmuth Christmas Kuechle recipe blends traditional German apple fritters with festive spices like cinnamon and nutmeg, perfect for holiday celebrations in the charming Bavarian-themed town of Frankenmuth, Michigan.
+
 ## [Apple Strudel Baklava](apple-strudel-baklava.md)
 A contemporary take on the classic apple strudel and baklava, this recipe merges the flaky layers of baklava with the comforting flavors of a Texas Hill Country apple strudel. The addition of toasted pecans, Texas honey, and warm spices creates a rich, flavorful dessert that's perfect for any occasion.
 
