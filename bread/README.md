@@ -19,3 +19,6 @@ Low Carb Crackers are a delicious and keto-friendly snack made from almond flour
 
 ## [Qutab](qutab.adoc)
 Qutab with Cheese and Herbs is an Azerbaijani flatbread filled with a savory mixture of spinach, onions, and cheeses, encased in a thin, crisp outer layer. This versatile dish can be enjoyed for breakfast or as a delicious snack.
+
+## [Raspberry Rhubarb Bread](raspberry-rhubarb-bread.md)
+This bread combines the tartness of rhubarb and the sweetness of raspberries, creating a delightful treat perfect for enjoying during the vibrant festivities of Oktoberfest in Frankenmuth.
