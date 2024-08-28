@@ -6,7 +6,7 @@ This summer version of the traditional Eastern European Haluski dish features bu
 
 Adapted from _AllRecipes_, User PAgirlgoneSouth
 
-image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
+![Verified Delicious]([https://badgen.net/badge/untested/recipe/AA4A44](https://badgen.net/badge/verified/delicious/228B22))
 
 ## Ingredients
 
