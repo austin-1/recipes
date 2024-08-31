@@ -1,8 +1,12 @@
 # Barcelona Summer Crispy Potatoes with Tomato Brava Sauce and Spicy Aioli
 
+[&larrhk; Back to Vegetarian Recipes](./README.md)
+
 A popular tapa from Barcelona, this dish features crispy potatoes drizzled with a vibrant tomato brava sauce and a zesty, spicy aioli. Perfect for a summer gathering or as a delicious appetizer.
 
 Adapted from _Telefèric Barcelona_, Xavi Padrosa
+
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
 
 ## Ingredients
 
