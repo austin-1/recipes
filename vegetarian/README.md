@@ -22,32 +22,43 @@ This savory cobbler pairs roasted vegetables with fluffy herb drop biscuits, mak
 
 ### [Zucchini Fritters](zucchini-fritters.adoc)
 These Air Fryer Zucchini Fritters are crispy on the outside and tender on the inside, making them a delicious way to enjoy zucchini in a fun and flavorful form.
+
 ### [Zucchini Lasagna](zucchini-lasagna.adoc)
 This Zucchini Lasagna offers a delicious and healthier alternative to traditional lasagna, using zucchini slices instead of pasta to create a satisfying, low-carb dish.
+
 ### [Zucchini Parmesan Skillet](zucchini-parmesan-skillet.adoc)
 This easy Zucchini Parmesan Skillet is a delightful combination of tender zucchini, savory onion-infused tomato sauce, and melted cheeses, making it a perfect side dish or vegetarian main course.
 
 ## &#129388; Leafy Greens
+
 ### [Olive Collard Greens](olive-collard-greens.adoc)
 Braised Greens with Olives and Lemon is a fresh and flavorful Mediterranean-inspired makeover for traditional Southern-style greens.
+
 ### [Rice Cooker Collard Greens](rice-cooker-collard-greens.adoc)
 Rice Cooker Collard Greens, Walterboro Style, is a Southern-inspired dish that uses a rice cooker for convenience. Optional replacements for the ham hock include diced ham or bacon for added flavor.
+
 ### [Spinach Gratin](spinach-gratin.adoc)
 Creamy Spinach Gratin is a classic dish featuring fresh spinach in a rich, cheesy cream sauce. This gratin is perfect for adding a touch of indulgence to your meal, whether it's a holiday feast or a cozy family dinner.
 
 ## &#127812; Mushrooms
+
 ### [Goat Cheese Stuffed Mushrooms](goat-cheese-mushrooms.adoc)
 Make-Ahead Stuffed Mushrooms with Goat Cheese and Pine Nuts are a great Thanksgiving appetizer that you can make the day before!
+
 ### [Mozzarella Stuffed Portobellos](mozzarella-stuffed-portobellos.adoc)
 Mozzarella Stuffed Portobellos are a delicious and savory appetizer, perfect for serving hot or at room temperature. The combination of roasted mushrooms, melted mozzarella, and a crispy herb topping makes this dish a crowd-pleaser.
+
 ### [Quinoa Stuffed Mushrooms](quinoa-stuffed-mushrooms.adoc)
 Quinoa Vegetable Stuffed Mushrooms are a healthy and flavorful dish, perfect for a hearty appetizer or side dish, combining the goodness of quinoa and fresh vegetables.
+
 ### [Ricotta Stuffed Mushrooms](ricotta-stuffed-mushrooms.adoc)
 Herbed Ricotta Stuffed Mushrooms are tender mushroom caps filled with a creamy herb and ricotta mixture, perfect for an appetizer or side dish, with both air fryer and oven methods provided for easy preparation.
+
 ### [Spinach &amp; Mushroom Khinkali](spinach-mushroom-khinkali.adoc)
 Khinkali are a popular Georgian dish, and this vegetarian version with spinach, mushrooms, and cheese provides a fresh and flavorful alternative to the traditional meat-filled dumplings.
 
 ## &#127834; Rice &amp; Grains
+
 ### [Coconut Lemongrass Basmati Rice](coconut-lemongrass-basmati-rice.adoc)
 This light and aromatic basmati rice dish pairs perfectly with seafood curries, bringing the flavors of Thai cuisine to your table.
 
@@ -64,11 +75,13 @@ A light and refreshing side dish featuring quinoa infused with lemon and fresh h
 Rice Cooker Couscous is a simple and flavorful dish that can be prepared effortlessly using your rice cooker.
 
 ## &#129364; Roots &amp; Bulbs
+
 ### [Amish Potato Salad](amish-potato-salad.adoc)
 A bright yellow, creamy, and tangy potato salad inspired by the traditional Amish recipes from Shipshewana, Indiana.
 
 ### [Bada Bing Potatoes](bada-bing-potatoes.adoc)
 Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
+
 ### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
 
@@ -80,6 +93,9 @@ Garlic Fenugreek Seed Potatoes are a flavorful and aromatic dish, ideal as a sid
 
 ### [Greek Lemon Potatoes](greek-lemon-potatoes.adoc)
 Greek Lemon Potatoes are a classic Mediterranean side dish, featuring tender, lemon-infused potatoes that are crispy on the outside and soft on the inside. Perfect for accompanying any main dish.
+
+### [Potatoes Brava](potatoes-brava.md)
+A popular tapa from Barcelona, this dish features crispy potatoes drizzled with a vibrant tomato brava sauce and a zesty, spicy aioli. Perfect for a summer gathering or as a delicious appetizer.
 
 ### [Rosemary Roasted Potatoes](rosemary-roasted-potatoes.adoc)
 These Air Fryer Rosemary Roasted Potatoes offer a quick and flavorful way to enjoy crispy, herb-infused potatoes as a side dish to complement any meal.
