@@ -15,16 +15,16 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 === For the filling
 * 1 large brown onion, finely chopped
 * 6 cloves garlic, chopped
-* 250g mushrooms, finely chopped
+* 8oz mushrooms, finely chopped
 * 2 tbsp tomato puree
 * 1/4 tsp ground cinnamon
 * 1/4 tsp ground black pepper
 * 1/2 tsp ground allspice
 * 2 tsp ground cumin
 * 2 tsp ground coriander
-* 200g brown, green, or puy lentils (1 cup)
-* 200g brown rice (1 cup)
-* 250ml vegetable stock (1 cup)
+* 1 cup lentils
+* 1 cup basmati rice
+* 4 cups vegetable stock
 * 1 lemon, juiced
 * 2 tbsp olive oil
 
@@ -37,10 +37,22 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 * 1 tbsp dried mint
 
 == Instructions
+
+=== Prepare Rice and Lentils
+
+. Rinse 1 cup of basmati rice and lentils under cold water until the water runs clear. 
+. In the rice cooker, add the rinsed rice and lentils.
+. Pour in 3 cups of vegetable stock. 
+. Stir the ingredients gently to combine them evenly.
+. Close the lid of the rice cooker and set it to the brown rice setting.
+. Allow the rice cooker to complete its cooking cycle while you prepare the other ingredients.
+
+=== Prepare Cabbage and filling
+
 . Place the cabbage upside down in a large pot. Use a long, sharp knife to cut around the core, going as deep as you can. Fill the pot with boiling water to cover the cabbage and bring to a low simmer.
 . After about 3-4 minutes of simmering, start pulling the leaves off one by one, leaving time between each layer to allow the leaves to soften.
 . In a wide pan, heat a little oil and fry the onion and garlic over medium heat for 3-4 minutes until softened. Add the mushrooms and cook until they start to release water, about 3 minutes.
-. Add the tomato puree and spices, mix well, then add the lentils, rice, and vegetable stock. Stir and cover the pan, then simmer for about 15 minutes until all the water is absorbed.
+. Add the tomato puree and spices, mix well, then add the lentils, rice, and 1 cup vegetable stock. Stir and cover the pan, then simmer for about 15 minutes until all the water is absorbed.
 . Stir in the lemon juice and olive oil, and season with salt and pepper.
 . Cut each cabbage leaf into two or three pieces, making sure to cut around the stem. For small leaves, you can leave them whole but thin out any chunky stems.
 . Place a couple of small spoonfuls of filling on each cabbage leaf piece, forming it into a line and leaving space at either end. Fold the ends over the filling, then roll the leaf tightly. Give the roll a little squeeze to secure it.
