@@ -4,7 +4,7 @@ link:./README.md[&larrhk; Back to Vegetarian Recipes]
 
 Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a lightly spiced lentil and rice mixture. Cooked with mint, lemon, and garlic, these rolls offer a healthy, gluten-free meal.
 
-Adapted from _Forkful of PLants_, Chloe
+Adapted from _Forkful of Plants_, Chloe
 
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
