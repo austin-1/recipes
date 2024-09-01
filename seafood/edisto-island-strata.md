@@ -31,5 +31,5 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 5. Transfer the mixture to the prepared baking dish, pressing down gently to ensure the bread absorbs the egg mixture.
 6. Preheat your oven to 350°F (175°C) while the mixture rests.
 7. Before baking, sprinkle the chopped basil over the top and drizzle with the melted butter.
-8. Bake uncovered for 45-50 minutes, until the strata is puffed and golden brown.
+8. Bake uncovered for 60 minutes, until the strata is puffed and golden brown.
 9. Let it cool for a few minutes before slicing and serving.
