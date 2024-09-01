@@ -15,7 +15,7 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 - 1 cup cherry tomatoes, halved
 - 1 cup shredded sharp cheddar cheese
 - 6 large eggs
-- 2 cups whole milk
+- 1 cup whole milk
 - 1/2 cup heavy cream
 - 1 teaspoon Old Bay seasoning
 - 1 teaspoon salt
