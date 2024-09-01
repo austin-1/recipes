@@ -24,15 +24,12 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 - 2 tablespoons butter, melted
 
 ## Instructions
-1. Preheat your oven to 350°F (175°C) and butter a 9x13 inch baking dish.
+1. Butter a 9x13 inch baking dish.
 2. In a large bowl, combine the bread cubes, shrimp, corn, tomatoes, and cheddar cheese.
 3. In another bowl, whisk together the eggs, milk, cream, Old Bay seasoning, salt, and pepper.
 4. Pour the egg mixture over the bread and shrimp mixture, and toss gently to combine.
 5. Transfer the mixture to the prepared baking dish, pressing down gently to ensure the bread absorbs the egg mixture.
+6. Preheat your oven to 350°F (175°C) while the mixture rests.
 6. Before baking, sprinkle the chopped basil over the top and drizzle with the melted butter.
 7. Bake uncovered for 45-50 minutes, until the strata is puffed and golden brown.
 8. Let it cool for a few minutes before slicing and serving.
-
-## Notes
-- This dish can be made ahead of time and baked just before serving, making it perfect for a summer brunch.
-- Serve with a side salad or fresh fruit for a complete meal.
