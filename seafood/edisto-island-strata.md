@@ -29,10 +29,9 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 3. In another bowl, whisk together the eggs, milk, cream, Old Bay seasoning, salt, and pepper.
 4. Pour the egg mixture over the bread and shrimp mixture, and toss gently to combine.
 5. Transfer the mixture to the prepared baking dish, pressing down gently to ensure the bread absorbs the egg mixture.
-6. Cover and refrigerate for at least 2 hours or overnight.
-7. Before baking, sprinkle the chopped basil over the top and drizzle with the melted butter.
-8. Bake uncovered for 45-50 minutes, until the strata is puffed and golden brown.
-9. Let it cool for a few minutes before slicing and serving.
+6. Before baking, sprinkle the chopped basil over the top and drizzle with the melted butter.
+7. Bake uncovered for 45-50 minutes, until the strata is puffed and golden brown.
+8. Let it cool for a few minutes before slicing and serving.
 
 ## Notes
 - This dish can be made ahead of time and baked just before serving, making it perfect for a summer brunch.
