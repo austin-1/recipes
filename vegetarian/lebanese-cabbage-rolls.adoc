@@ -13,7 +13,7 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 * 1 large green cabbage or 2 medium cabbages
 
 === For the filling
-* 1 large brown onion, finely chopped
+* 1 large onion, finely chopped
 * 6 cloves garlic, chopped
 * 8oz mushrooms, finely chopped
 * 2 tbsp tomato puree
