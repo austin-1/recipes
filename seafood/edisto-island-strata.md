@@ -17,7 +17,7 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 - 6 large eggs
 - 1 cup whole milk
 - 1/2 cup heavy cream
-- 1 teaspoon Old Bay seasoning
+- 2 teaspoons Old Bay seasoning
 - 1 teaspoon salt
 - 1/2 teaspoon black pepper
 - 1/4 cup fresh basil, chopped
@@ -26,10 +26,10 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 ## Instructions
 1. Butter a 9x13 inch baking dish.
 2. In a large bowl, combine the bread cubes, shrimp, corn, tomatoes, and cheddar cheese.
-3. In another bowl, whisk together the eggs, milk, cream, Old Bay seasoning, salt, and pepper.
+3. In another bowl, whisk together the eggs, milk, cream, 1 tsp. Old Bay seasoning, salt, and pepper.
 4. Pour the egg mixture over the bread and shrimp mixture, and toss gently to combine.
 5. Transfer the mixture to the prepared baking dish, pressing down gently to ensure the bread absorbs the egg mixture.
 6. Preheat your oven to 350°F (175°C) while the mixture rests.
-7. Before baking, sprinkle the chopped basil over the top and drizzle with the melted butter.
+7. Before baking, sprinkle the chopped basil and remaining 1 tsp. Old Bay seasoning over the top and drizzle with the melted butter.
 8. Bake uncovered for 60 minutes, until the strata is puffed and golden brown.
 9. Let it cool for a few minutes before slicing and serving.
