@@ -6,7 +6,7 @@ A delightful summer strata inspired by the flavors of Edisto Island, featuring f
 
 Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 
-![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients
 - 6 cups crusty bread, cubed
