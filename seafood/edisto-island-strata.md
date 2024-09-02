@@ -18,7 +18,7 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 - 1 cup whole milk
 - 1/2 cup heavy cream
 - 1 1/2 teaspoons Old Bay seasoning
-- 1 teaspoon salt
+- 1 teaspoon monosodium glutamate (MSG)
 - 1/2 teaspoon black pepper
 - 1/4 cup fresh basil, chopped
 - 2 tablespoons butter, melted
@@ -26,7 +26,7 @@ Adapted from _Full Moon, High Tide_, Beaufort Academy Parents Association
 ## Instructions
 1. Butter a 9x13 inch baking dish.
 2. In a large bowl, combine the bread cubes, shrimp, corn, tomatoes, and cheddar cheese.
-3. In another bowl, whisk together the eggs, milk, cream, 1 tsp. Old Bay seasoning, salt, and pepper.
+3. In another bowl, whisk together the eggs, milk, cream, 1 tsp. Old Bay seasoning, MSG, and pepper.
 4. Pour the egg mixture over the bread and shrimp mixture, and toss gently to combine.
 5. Transfer the mixture to the prepared baking dish, pressing down gently to ensure the bread absorbs the egg mixture.
 6. Preheat your oven to 350°F (175°C) while the mixture rests.
