@@ -31,7 +31,7 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 === For the pot
 * 6 medium tomatoes, wedged
 * 1 bulb garlic, peeled and sliced
-* 1 litre boiling water (4 cups)
+* 4 cups boiling water
 * 2 tsp salt
 * 1/2 lemon, juiced
 * 1 tbsp dried mint
