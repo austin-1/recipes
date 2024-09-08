@@ -51,10 +51,13 @@ This Sous Vide Dill Salmon is perfectly cooked and infused with the flavors of f
 The collar of salmon is full of flavorful meat that stays succulent when broiled. This dish pairs the rich taste of salmon collars with a bold soy-ginger sauce, making it a delicious and easy meal.
 
 ## &#127844; Shrimp
+
 ### [Baked Frogmore Stew](baked-frogmore-stew.adoc)
 Oven-Baked Frogmore Stew is a delightful and easy twist on the traditional Lowcountry boil, featuring shrimp, sausage, potatoes, and corn all baked to perfection.
+
 ### [Baked Shrimp Fondue](baked-shrimp-fondue.adoc)
-A delightful blend of shrimp, bell peppers, and onions seasoned and baked to perfection with a crispy cheese fondue topping. This easy recipe is perfect for a flavorful appetizer or main course.
+A delightful blend of shrimp, bell peppers, and onions seasoned and baked to perfection in scallop shells with a crispy cheese fondue topping. This easy recipe is perfect for a flavorful appetizer or main course. course.
+
 ### [Cajun Shrimp &amp; Cod Stew](cajun-shrimp-cod-stew.adoc)
 This hearty Cajun stew features tender shrimp and cod in a flavorful broth with vegetables and spices, making it a perfect dish for a comforting meal.
 
