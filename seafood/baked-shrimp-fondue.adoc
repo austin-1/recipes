@@ -1,10 +1,10 @@
-= Baked Shrimp and Vegetable Skewers with Cheese Fondue
+= Baked Shrimp and Vegetables in Scallop Shells with Cheese Fondue
 
 link:./README.md[&larrhk; Back to Seafood Recipes]
 
-A delightful blend of shrimp, bell peppers, and onions seasoned and baked to perfection with a crispy cheese fondue topping. This easy recipe is perfect for a flavorful appetizer or main course.
+A delightful blend of shrimp, bell peppers, and onions seasoned and baked to perfection in scallop shells with a crispy cheese fondue topping. This easy recipe is perfect for a flavorful appetizer or main course.
 
-Adapted from _ChatGPT_
+Adapted from _Necessities and Temptations_, Junior League of Austin
 
 image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
@@ -23,7 +23,7 @@ image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 * 1 teaspoon cornstarch
 * 1 teaspoon Dijon mustard
 * Salt and pepper, to taste
-* Skewers (soak wooden skewers in water for 30 minutes to prevent burning)
+* Five 4-inch scallop shells for baking
 
 == Instructions
 
@@ -33,7 +33,7 @@ image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 . Prepare the Dry Seasoning and Vegetables:
 .. In a bowl, combine olive oil, minced garlic, paprika, lemon zest, salt, and pepper.
 .. Pat the shrimp dry with paper towels and toss them in the seasoning mixture.
-.. Thread the seasoned shrimp, bell peppers, and onions onto the skewers, alternating as desired.
+.. Divide the seasoned shrimp, bell peppers, and onions evenly across the scallop shells.
 
 . Prepare the Cheese Fondue Mixture:
 .. In a saucepan over medium heat, bring the white wine to a simmer.
@@ -41,15 +41,15 @@ image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 .. Gradually add the cheese mixture to the wine, stirring constantly until the cheese is melted and smooth.
 .. Stir in the lemon juice and Dijon mustard. Season with salt and pepper to taste.
 
-. Bake the Skewers:
-.. Arrange the prepared skewers on the lined baking sheet.
-.. Pour the cheese fondue mixture evenly over the skewers.
+. Bake the Shrimp and Vegetables:
+.. Arrange the filled scallop shells on the lined baking sheet.
+.. Pour the cheese fondue mixture evenly over the shrimp and vegetables in the shells.
 .. Bake in the preheated oven for 12-15 minutes, or until the shrimp are pink and cooked through, and the cheese is bubbly.
 
 . Broil for Crispiness:
-.. After baking, turn on the broiler and broil the skewers for 2-3 minutes, or until the cheese is golden and slightly crispy. Watch closely to avoid burning.
+.. After baking, turn on the broiler and broil the shells for 2-3 minutes, or until the cheese is golden and slightly crispy. Watch closely to avoid burning.
 
 . Serve:
 .. Remove from the oven and serve immediately. Garnish with fresh herbs if desired.
 
-Enjoy these flavorful shrimp and vegetable skewers with a rich and crispy cheese fondue topping!
+Enjoy this flavorful shrimp and vegetable dish with a rich and crispy cheese fondue topping, baked in scallop shells for a stunning presentation!
