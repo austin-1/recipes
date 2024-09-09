@@ -10,54 +10,65 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
 === For the cabbage leaves
-* 1 large green cabbage or 2 medium cabbages
+* 1 large green cabbage
 
 === For the filling
-* 1 large onion, finely chopped
-* 6 cloves garlic, chopped
-* 8oz mushrooms, finely chopped
-* 2 tbsp tomato puree
-* 1/4 tsp ground cinnamon
-* 1/4 tsp ground black pepper
-* 1/2 tsp ground allspice
-* 2 tsp ground cumin
-* 2 tsp ground coriander
-* 1 cup lentils
-* 1 cup basmati rice
-* 4 cups vegetable stock
+* 1/2 large onion, finely chopped
+* 3 cloves garlic, chopped
+* 4oz mushrooms, finely chopped
+* 1 1/2 tsp tomato paste
+* 1/8 tsp ground cinnamon
+* 1/8 tsp ground black pepper
+* 1/4 tsp ground allspice
+* 1 tsp ground cumin
+* 1 tsp ground coriander
+* 1/2 cup lentils
+* 1/2 cup basmati rice
+* 2 cups vegetable stock
 * 1 lemon, juiced
 * 2 tbsp olive oil
 
-=== For the pot
+=== For the Dutch Oven
+* 2 cups vegetable stock
 * 6 medium tomatoes, wedged
 * 1 bulb garlic, peeled and sliced
 * 4 cups boiling water
 * 2 tsp salt
 * 1/2 lemon, juiced
-* 1 tbsp dried mint
+* 3-5 fresh mint leaves
 
 == Instructions
 
 === Prepare Rice and Lentils
 
-. Rinse 1 cup of basmati rice and lentils under cold water until the water runs clear. 
+. Rinse basmati rice and lentils under cold water until the water runs clear. 
 . In the rice cooker, add the rinsed rice and lentils.
-. Pour in 3 cups of vegetable stock. 
+. Pour in 1 1/2 cups of vegetable stock. 
 . Stir the ingredients gently to combine them evenly.
 . Close the lid of the rice cooker and set it to the brown rice setting.
 . Allow the rice cooker to complete its cooking cycle while you prepare the other ingredients.
 
-=== Prepare Cabbage and filling
+=== Prepare Cabbage
 
 . Core the cabbage, then place the cabbage core-side down in a large pot. Fill the pot with boiling water to cover the cabbage and bring to a low simmer.
 . After about 3-4 minutes of simmering, start pulling the leaves off one by one, leaving time between each layer to allow the leaves to soften.
-. In a wide pan, heat a little oil and fry the onion and garlic over medium heat for 3-4 minutes until softened. Add the mushrooms and cook until they start to release water, about 3 minutes.
-. Add the tomato puree and spices, mix well, then add the lentils, rice, and 1 cup vegetable stock. Stir and cover the pan, then simmer for about 15 minutes until all the water is absorbed.
-. Stir in the lemon juice and olive oil, and season with salt and pepper.
-. Cut each cabbage leaf into two or three pieces, making sure to cut around the stem. For small leaves, you can leave them whole but thin out any chunky stems.
-. Place a couple of small spoonfuls of filling on each cabbage leaf piece, forming it into a line and leaving space at either end. Fold the ends over the filling, then roll the leaf tightly. Give the roll a little squeeze to secure it.
-. Add a layer of leftover cabbage leaves to the bottom of a heavy pot. Line the cabbage rolls up tightly, adding wedges of tomato between any gaps.
-. Layer the rolls in the pot, alternating the direction with each layer. Sprinkle slices of garlic between each layer. When all the rolls are in, add any remaining garlic and tomato.
-. Mix the water, salt, lemon juice, and dried mint, and pour it over the rolls. Top up with enough water to nearly cover the rolls.
-. Place a heavy plate or bowl on top of the rolls, then cover. Bring the water to a simmer and cook for 45 minutes.
-. Serve with fresh lemon slices and dairy-free yogurt.
+. Trim cabbage leaves to a remove frayed pieces, making the largest rectangle possible.
+. Set aside cabbage leaves and save all trimmings separately.
+
+=== Prepare Filling
+
+. In a wide pan, heat olive oil and fry the onion and garlic over medium heat for 3-4 minutes until softened. Add the mushrooms and cook until they start to release water, about 3 minutes.
+. Add the tomato puree, lemon juice and spices to the remaining 1/2 cup of vegetable stock and mix well.
+. When the rice cooker is complete, add the lentils, rice, and remaining vegetable stock. Stir and cover the pan, then simmer for about 15 minutes until all the water is absorbed.
+. Place a spoonful of filling on each cabbage leaf piece, forming it into a line in the center and leaving space on both sides. Fold the ends over the filling, then roll the leaf tightly.
+
+=== Prepare Dutch Oven
+
+. Fill a Dutch Oven with 2 cups vegetable stock and set heat to medium high.
+. Add the cabbage leaf trimmings to the bottom of the Dutch Oven.
+. Place 4-5 cabbage rolls in the center of the Dutch Oven, tightly spaced.
+. Fill the remaining space around the cabbage rolls with 1/3 of the tomato wedges and garlic cloves.
+. Layer the remaining rolls in the Dutch Oven, alternating the direction with each layer. Continue to add tomato wedges and garlic cloves around the remaining space.
+. Top with 3-5 fresh mint leaves.
+. Fill the Dutch Oven with boiling water until the water line is just below the mint leaves.
+. Simmer and cook for 45 minutes.
