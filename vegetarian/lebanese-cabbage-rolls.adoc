@@ -15,13 +15,13 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 === For the filling
 * 1/2 large onion, finely chopped
 * 3 cloves garlic, chopped
-* 4oz mushrooms, finely chopped
-* 1 1/2 tsp tomato paste
+* 4 oz mushrooms, finely chopped
+* 2 tbsp tomato paste
 * 1/8 tsp ground cinnamon
 * 1/8 tsp ground black pepper
-* 1/4 tsp ground allspice
-* 1 tsp ground cumin
-* 1 tsp ground coriander
+* 1/8 tsp ground allspice
+* 1/2 tsp ground cumin
+* 1/2 tsp ground coriander
 * 1/2 cup lentils
 * 1/2 cup basmati rice
 * 2 cups vegetable stock
