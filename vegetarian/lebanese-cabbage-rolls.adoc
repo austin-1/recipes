@@ -33,7 +33,6 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 * 6 medium tomatoes, wedged
 * 1 bulb garlic, peeled and sliced
 * 4 cups boiling water
-* 2 tsp salt
 * 1/2 lemon, juiced
 * 3-5 fresh mint leaves
 
