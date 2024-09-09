@@ -29,7 +29,7 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 * 2 tbsp olive oil
 
 === For the Dutch Oven
-* 2 cups vegetable stock
+* 6 cups vegetable stock
 * 6 medium tomatoes, wedged
 * 1 bulb garlic, peeled
 * 4 cups boiling water
@@ -70,7 +70,7 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 . Fill the remaining space around the cabbage rolls with 1/3 of the tomato wedges and garlic cloves.
 . Layer the remaining rolls in the Dutch Oven, alternating the direction with each layer. Continue to add tomato wedges and garlic cloves around the remaining space.
 . Top with 3-5 fresh mint leaves.
-. Fill the Dutch Oven with boiling water until the water line is just below the mint leaves.
+. Fill the Dutch Oven with the remaining 4 cups of vegetable stock, or until the water line is just below the mint leaves.
 . Cover with lid and simmer for 45 minutes.
 
 === Serve
