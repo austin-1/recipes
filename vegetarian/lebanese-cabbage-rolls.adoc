@@ -6,7 +6,7 @@ Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a 
 
 Adapted from _Forkful of Plants_, Chloe
 
-image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients
 === For the cabbage leaves
