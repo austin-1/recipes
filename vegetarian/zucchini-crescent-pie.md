@@ -1,8 +1,12 @@
 # Kansas City-Style Zucchini Crescent Pie
 
+[&larrhk; Back to Vegetarian Recipes](./README.md)
+
 A savory zucchini pie with a Kansas City twist, featuring smoked gouda, BBQ seasoning, and homemade crescent roll dough.
 
 Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, Missouri
+
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
 
 ## Ingredients
 
