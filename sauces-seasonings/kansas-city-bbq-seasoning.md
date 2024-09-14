@@ -1,5 +1,7 @@
 # Kansas City BBQ Seasoning
 
+[&larrhk; Back to Sauces &amp; Seasonings](./README.md)
+
 A classic Kansas City BBQ seasoning that combines sweetness, smokiness, and a bit of heat.
 
 Adapted from _ChatGPT_
