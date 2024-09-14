@@ -2,6 +2,10 @@
 
 A classic Kansas City BBQ seasoning that combines sweetness, smokiness, and a bit of heat.
 
+Adapted from _ChatGPT_
+
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 - 1/4 cup brown sugar
 - 2 tablespoons paprika
