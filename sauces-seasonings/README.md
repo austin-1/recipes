@@ -26,6 +26,11 @@ Durban Masala is a vibrant and aromatic spice blend, integral to South African I
 ### [Jamaican Jerk](jamaican-jerk.adoc)
 This Jamaican Jerk Seasoning blend brings a kick of authentic Caribbean flavor to your dishes with a mix of spices like cayenne pepper, cinnamon, and nutmeg. Perfect for seasoning meats, vegetables, and more.
 
+### [Kansas City BBQ Seasoning](kansas-city-bbq-seasoning.md)
+
+A classic Kansas City BBQ seasoning that combines sweetness, smokiness, and a bit of heat.
+
+
 ### [Madras Masala](madras-masala.md)
 Madras curry powder is known for its warm and robust flavor profile, which pairs well with meat and vegetable dishes. The blend can be adjusted to your heat preference by varying the amount of cayenne pepper.
 
