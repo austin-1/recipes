@@ -50,10 +50,9 @@ Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, 
 4. In a large bowl, combine the beaten eggs and the shredded cheeses. Mix in the cooked vegetable mixture.
 
 ### Assembling the Pie
-1. Roll out the crescent roll dough on a lightly floured surface into a large circle or rectangle, about 1/4 inch thick.
-2. Press the dough into an 11-inch quiche pan, 10-inch pie pan, or a 12x8-inch baking dish, covering the bottom and sides to form the crust.
-3. Spread the mustard evenly over the crust.
-4. Pour the vegetable and cheese mixture into the crust, spreading it evenly.
+1. Press the dough into an 11-inch quiche pan, 10-inch pie pan, or a 12x8-inch baking dish, covering the bottom and sides to form the crust.
+2. Spread the mustard evenly over the crust.
+3. Pour the vegetable and cheese mixture into the crust, spreading it evenly.
 
 ### Baking
 1. Bake in the preheated oven for 25-30 minutes or until a knife inserted near the center comes out clean. If the crust begins to brown too much, cover with foil during the last 10 minutes of baking.
