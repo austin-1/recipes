@@ -35,7 +35,7 @@ Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, 
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon sweet basil leaves
 - 1/2 teaspoon oregano leaves
-- 1 teaspoon [Kansas City BBQ seasoning](../sauces-seasonings/kansas-city-bbq-seasoning.md)
+- 2 teaspoons [Kansas City BBQ seasoning](../sauces-seasonings/kansas-city-bbq-seasoning.md)
 
 ## Instructions
 
