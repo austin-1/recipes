@@ -23,7 +23,7 @@ This stuffed zucchini recipe combines white and garbanzo beans with a blend of h
 This savory cobbler pairs roasted vegetables with fluffy herb drop biscuits, making it a satisfying and versatile main dish that's perfect for showcasing seasonal produce.
 
 ### [Zucchini Crescent Pie](zucchini-crescent-pie.md)
-A savory zucchini pie with a Kansas City twist, featuring smoked gouda, BBQ seasoning, and homemade crescent roll dough.
+A savory zucchini pie with a Kansas City twist, featuring mozzarella cheese, BBQ seasoning, and homemade crescent roll dough.
 
 ### [Zucchini Fritters](zucchini-fritters.adoc)
 These Air Fryer Zucchini Fritters are crispy on the outside and tender on the inside, making them a delicious way to enjoy zucchini in a fun and flavorful form.
