@@ -23,10 +23,12 @@ Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, 
 ### Filling
 - 4 cups zucchini, thinly sliced and unpeeled
 - 1 small onion, coarsely chopped
-- 1/4 cup unsalted butter or margarine
+- 1 small tomato, coarsely chopped
+- 1/4 cup unsalted butter
+- 1/4 cup vegetable stock
 - 2 teaspoons Dijon or prepared mustard
 - 2 eggs, well beaten
-- 1 cup fresh parsley, chopped (or 2 tablespoons dried parsley flakes)
+- 2 tablespoons dried parsley flakes
 - 2 cups shredded mozzarella cheese
 - 1/2 teaspoon salt
 - 1/2 teaspoon black pepper
@@ -45,17 +47,18 @@ Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, 
 
 ### Preparing the Filling
 1. Preheat the oven to 375°F (190°C).
-2. In a large skillet, melt the butter over medium heat. Add the zucchini and onion, cooking until tender, about 10 minutes.
-3. Stir in parsley, salt, black pepper, garlic powder, basil, oregano, and BBQ seasoning. Remove from heat.
-4. In a large bowl, combine the beaten eggs and the shredded cheeses. Mix in the cooked vegetable mixture.
+2. Wrap the chopped tomatoes in paper towels and set aside.
+3. In a large skillet, melt the butter over medium heat. Add the zucchini and onion, cooking until tender, about 10 minutes.
+4. Stir in vegetable stock, parsley, salt, black pepper, garlic powder, basil, oregano, and BBQ seasoning. Remove from heat.
+5. In a large bowl, combine the beaten eggs and the shredded cheeses. Mix in the cooked vegetable mixture.
 
 ### Assembling the Pie
-1. Press the dough into an 11-inch quiche pan, 10-inch pie pan, or a 12x8-inch baking dish, covering the bottom and sides to form the crust.
+1. Press the dough into a 10-12 inch baking dish, covering the bottom and sides to form the crust.
 2. Spread the mustard evenly over the crust.
 3. Pour the vegetable and cheese mixture into the crust, spreading it evenly.
 
 ### Baking
-1. Bake in the preheated oven for 25-30 minutes or until a knife inserted near the center comes out clean. If the crust begins to brown too much, cover with foil during the last 10 minutes of baking.
+1. Bake in the preheated oven for 30 minutes or until a knife inserted near the center comes out clean. If the crust begins to brown too much, cover with foil during the last 10 minutes of baking.
 2. Remove from the oven and let the pie stand for 10 minutes before serving.
 
 ### Serving
