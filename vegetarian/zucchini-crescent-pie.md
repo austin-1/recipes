@@ -1,4 +1,4 @@
-# Kansas City-Style Zucchini Crescent Pie
+# Kansas City Zucchini Crescent Pie
 
 [&larrhk; Back to Vegetarian Recipes](./README.md)
 
