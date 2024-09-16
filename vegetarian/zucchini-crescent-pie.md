@@ -2,7 +2,7 @@
 
 [&larrhk; Back to Vegetarian Recipes](./README.md)
 
-A savory zucchini pie with a Kansas City twist, featuring smoked gouda, BBQ seasoning, and homemade crescent roll dough.
+A savory zucchini pie with a Kansas City twist, featuring mozzarella cheese, BBQ seasoning, and homemade crescent roll dough.
 
 Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, Missouri
 
