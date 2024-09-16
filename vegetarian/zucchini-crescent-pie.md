@@ -6,7 +6,8 @@ A savory zucchini pie with a Kansas City twist, featuring mozzarella cheese, BBQ
 
 Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, Missouri
 
-![Verified Delicious](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
+
 ## Ingredients
 
 ### Crescent Roll Dough
