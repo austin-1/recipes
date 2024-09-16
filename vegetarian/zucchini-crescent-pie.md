@@ -22,12 +22,12 @@ Adapted from _Gourmet Garden_, Menorah Medical Center Auxillary of Kansas City, 
 
 ### Filling
 - 4 cups zucchini, thinly sliced and unpeeled
-- 1 cup onion, coarsely chopped
-- 1/2 cup unsalted butter or margarine
+- 1 small onion, coarsely chopped
+- 1/4 cup unsalted butter or margarine
 - 2 teaspoons Dijon or prepared mustard
 - 2 eggs, well beaten
 - 1 cup fresh parsley, chopped (or 2 tablespoons dried parsley flakes)
-- 2 cups shredded cheese (1 cup Muenster or Mozzarella, 1 cup smoked gouda)
+- 2 cups shredded mozzarella cheese
 - 1/2 teaspoon salt
 - 1/2 teaspoon black pepper
 - 1/2 teaspoon garlic powder
