@@ -25,4 +25,4 @@ Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Weste
 2. In a medium bowl, whisk together the ricotta, honey, egg, garlic, thyme leaves, salt and pepper.
 3. Spread the ricotta mixture evenly into the prepared pan and gently press the  tomato pieces into the mixture.
 4. Bake for 30 minutes and then place the butter directly on top of the ricotta and let it melt for 30 seconds. Once melted, tilt the pan to coat the ricotta with the melted butter and continue baking for 10 minutes more.
-5. Remove from the oven and sprinkle with a little more thyme leaves and pepper. Serve warm.
+5. Remove from the oven and serve warm.
