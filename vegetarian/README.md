@@ -116,8 +116,8 @@ This Vegetable Tikka Masala Curry is a flavorful dish that blends marinated vege
 ### [Avocado Gazpacho](avocado-gazpacho.adoc)
 A creamy and tangy twist on the traditional gazpacho andaluz, this chilled soup is perfect for a refreshing summer dish.
 
-### [Baked Ricotta &amp; Tomatoes with Thyme Butter](baked-ricotta-tomatoes.md)
-This creamy baked ricotta dish, enhanced with the sweetness of cherry tomatoes and the aromatic touch of thyme, is a crowd-pleasing appetizer that's simple yet full of flavor.
+### [Baked Ricotta &amp; Tomatoes](baked-ricotta-tomatoes.md)
+This creamy baked ricotta dish, enhanced with the sweetness of tomatoes and the aromatic touch of thyme, is a crowd-pleasing appetizer that's simple yet full of flavor.
 
 ### [Fried Green Tomatoes](fried-green-tomatoes.adoc)
 This recipe offers a healthier take on the classic Southern fried green tomatoes by using an air fryer, resulting in a crispy, golden coating with minimal oil.
