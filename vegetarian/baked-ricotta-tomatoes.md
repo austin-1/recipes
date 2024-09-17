@@ -16,7 +16,7 @@ Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Weste
 - 1 garlic clove, minced
 - 1 tsp dried thyme leaves
 - 1 large tomato, coarsely chopped
-- 1 tbsp unsalted butter
+- 1 tbsp unsalted butter, melted
 - Salt and pepper, to taste
 
 ## Instructions
@@ -24,5 +24,7 @@ Adapted from _Vegetarian Heartland: Recipes for Life's Adventures_, Shelly Weste
 1. Preheat the oven to 400°F (200°C). Grease a 9-in (23-cm) round baking pan or pie pan.
 2. In a medium bowl, whisk together the ricotta, honey, egg, garlic, thyme leaves, salt and pepper.
 3. Spread the ricotta mixture evenly into the prepared pan and gently press the  tomato pieces into the mixture.
-4. Bake for 30 minutes and then place the butter directly on top of the ricotta and let it melt for 30 seconds. Once melted, tilt the pan to coat the ricotta with the melted butter and continue baking for 10 minutes more.
-5. Remove from the oven and serve warm.
+4. Bake for 30 minutes.
+5. Remove from the oven and spoon the melted butter evenly over the top.
+6. Return to oven and cook for an additional 10 minutes.
+7. Remove from the oven and serve warm.
