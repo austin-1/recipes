@@ -1,4 +1,4 @@
-# Baked Ricotta & Tomatoes with Thyme Butter
+# Baked Ricotta & Tomatoes
 
 [&larrhk; Back to Vegetarian Recipes](./README.md)
 
