@@ -2,6 +2,10 @@
 
 This aromatic rice dish blends the citrusy aroma of kaffir lime leaves with the subtle sweetness of toasted coconut, making it a perfect side dish for curries.
 
+Adapted from _ChatGPT_
+
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 - 1 cup white jasmine or basmati rice
 - 1 1/4 cups water
