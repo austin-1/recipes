@@ -36,5 +36,3 @@ Adapted from _ChatGPT_
 10. Bake for 25-30 minutes, or until the butternut squash is tender.
 11. Once cooked, remove the Handi pot from the oven, season with salt and pepper to taste, and add a squeeze of lime juice for brightness.
 12. Garnish with fresh cilantro, if desired, and serve hot.
-
-Enjoy your cozy and flavorful chickpea and butternut squash coconut curry!
