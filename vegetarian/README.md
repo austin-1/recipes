@@ -73,6 +73,9 @@ This light and aromatic basmati rice dish pairs perfectly with seafood curries, 
 ### [Javaher Polow](javaher-polow.adoc)
 Iranian Jeweled Rice, or Javaher Polow, is a traditional Persian dish that combines basmati rice with a mix of dried fruits, nuts, and aromatic spices. It's known for its beautiful presentation and vibrant flavors, making it a perfect side dish for special occasions.
 
+### [Kaffir Lime Leaf Rice with Toasted Coconut](kaffir-coconut-rice.md)
+This aromatic rice dish blends the citrusy aroma of kaffir lime leaves with the subtle sweetness of toasted coconut, making it a perfect side dish for curries.
+
 ### [Kashmiri Chili &amp; Lime Basmati Rice](kashmiri-lime-rice.adoc)
 Kashmiri Chili Lime Basmati Rice is a fragrant and spicy dish that combines the heat of Kashmiri chili with the zesty flavor of lime. This vibrant rice dish pairs well with a variety of main courses, particularly those with coastal or Thai-inspired flavors.
 
