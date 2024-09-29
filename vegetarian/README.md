@@ -13,6 +13,9 @@ Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a 
 ### [Boureki](boureki.adoc)
 Boureki is a traditional Cretan dish that layers thinly sliced zucchini, potatoes, and onions with a savory blend of cheeses, garlic, and mint, then bakes them to perfection. 
 
+### [Chickpea Butternut Squash Curry](chickpea-butternut-squash-curry.md)
+A cozy autumn curry that combines the sweetness of butternut squash with the creaminess of coconut milk and the heartiness of chickpeas, perfect for a small 2-cup Handi pot.
+
 ### [Pear &amp; Gourd Gratin](pear-gourd-gratin.adoc)
 Pear and Gourd Gratin is a savory-sweet dish featuring layers of pear, pumpkin, and acorn squash with a spiced honey mixture, baked with a rich custard until perfectly set and lightly browned.
 
