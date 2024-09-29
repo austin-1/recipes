@@ -36,5 +36,3 @@ Adapted from _ChatGPT_
 9. Season with salt and pepper to taste, cover with the lid, and return the Handi pot to the oven.
 10. Bake for 30-35 minutes, or until the fennel and green beans are tender and the sauce has thickened.
 11. Remove from the oven, squeeze over the lemon juice, and garnish with fresh parsley if desired.
-
-Serve warm as a flavorful side dish to complement your chickpea and butternut squash coconut curry.
