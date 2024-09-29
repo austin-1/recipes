@@ -24,14 +24,17 @@ Adapted from _ChatGPT_
 - Fresh cilantro for garnish (optional)
 
 ## Instructions
-1. Heat the oil in your Handi pot over medium heat.
-2. Add the chopped onion and sauté until translucent, about 3-4 minutes.
-3. Add the garlic and ginger, and sauté for another 1-2 minutes until fragrant.
-4. Add the curry powder, cumin, coriander, and cinnamon. Stir well to coat the onion, garlic, and ginger with the spices.
-5. Add the diced butternut squash and chickpeas, stirring to combine with the spices.
-6. Pour in the coconut milk and vegetable broth. Stir well and bring the mixture to a simmer.
-7. Cover the Handi pot with a lid and let it cook on low heat for 15-20 minutes, or until the butternut squash is tender.
-8. Season with salt and pepper to taste. Add a squeeze of lime juice for brightness.
-9. Garnish with fresh cilantro, if desired, and serve hot.
+1. Preheat your oven to 350°F (175°C) and place the empty Handi pot in the oven to preheat as well.
+2. Heat the olive oil or coconut oil in a separate pan over medium heat on the stove.
+3. Add the chopped onion and sauté until translucent, about 3-4 minutes.
+4. Add the garlic and ginger, and sauté for another 1-2 minutes until fragrant.
+5. Stir in the curry powder, cumin, coriander, and cinnamon. Cook for 1 minute to allow the spices to bloom.
+6. Add the diced butternut squash and chickpeas to the pan, stirring to coat them with the spices.
+7. Pour in the coconut milk and vegetable broth, stirring well to combine, and bring the mixture to a gentle simmer.
+8. Carefully remove the preheated Handi pot from the oven using oven mitts, and transfer the mixture from the pan into the Handi pot.
+9. Cover the Handi pot with its lid, and return it to the oven.
+10. Bake for 25-30 minutes, or until the butternut squash is tender.
+11. Once cooked, remove the Handi pot from the oven, season with salt and pepper to taste, and add a squeeze of lime juice for brightness.
+12. Garnish with fresh cilantro, if desired, and serve hot.
 
 Enjoy your cozy and flavorful chickpea and butternut squash coconut curry!
