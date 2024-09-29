@@ -3,8 +3,10 @@
 [&larrhk; Back to All Recipes](../README.md)
 
 ## &#129367; Cabbage
+
 ### [Egg Roll in a Bowl](egg-roll-bowl.adoc)
 A healthy and flavorful twist on the classic egg roll, without the deep-fried wrapper. This dish is naturally vegan, nut-free, gluten-free, paleo, low-carb, and keto-friendly.
+
 ### [Lebanese Cabbage Rolls](lebanese-cabbage-rolls.adoc)
 Lebanese cabbage rolls are a fresh take on vegan stuffed cabbage, filled with a lightly spiced lentil and rice mixture. Cooked with mint, lemon, and garlic, these rolls offer a healthy, gluten-free meal. This recipe makes a large batch, perfect for filling your freezer!
 
@@ -92,6 +94,9 @@ A bright yellow, creamy, and tangy potato salad inspired by the traditional Amis
 
 ### [Bada Bing Potatoes](bada-bing-potatoes.adoc)
 Bada Bing Bada Banged Potatoes are crispy smashed potatoes coated in a savory herb and cheese mixture, roasted to perfection. A perfect side dish for any gathering.
+
+### [Braised Fennel &amp; Green Beans](fennel-green-beans.md)
+A light and flavorful Turkish dish that combines tender fennel and green beans in a rich tomato sauce, perfect for balancing the creamy curry. This recipe cooks beautifully in a 2-cup Handi pot alongside your curry.
 
 ### [Citrus Garlic Roasted Asparagus](citrus-garlic-roasted-asparagus.adoc)
 A vibrant and zesty roasted asparagus dish, perfect as a side for any meal.
