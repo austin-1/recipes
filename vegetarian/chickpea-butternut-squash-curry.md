@@ -2,6 +2,10 @@
 
 A cozy autumn curry that combines the sweetness of butternut squash with the creaminess of coconut milk and the heartiness of chickpeas, perfect for a small 2-cup Handi pot.
 
+Adapted from _ChatGPT_
+
+![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+
 ## Ingredients
 - 1/2 cup canned chickpeas, drained and rinsed
 - 1 cup butternut squash, peeled and diced into 1/2-inch cubes
