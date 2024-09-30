@@ -1,5 +1,7 @@
 # Kaffir Lime Leaf Rice with Toasted Coconut
 
+[&larrhk; Back to Vegetarian Recipes](./README.md)
+
 This aromatic rice dish blends the citrusy aroma of kaffir lime leaves with the subtle sweetness of toasted coconut, making it a perfect side dish for curries.
 
 Adapted from _ChatGPT_
