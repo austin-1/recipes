@@ -6,7 +6,7 @@ A cozy autumn curry that combines the sweetness of butternut squash with the cre
 
 Adapted from _ChatGPT_
 
-![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients
 - 1 cup canned chickpeas, drained and rinsed
