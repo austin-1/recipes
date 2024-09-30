@@ -1,5 +1,7 @@
 # Turkish Braised Fennel and Green Beans
 
+[&larrhk; Back to Vegetarian Recipes](./README.md)
+
 A light and flavorful Turkish dish that combines tender fennel and green beans in a rich, spiced tomato sauce, perfect for balancing the creamy curry. This recipe cooks beautifully in a 2-cup Handi pot alongside your curry.
 
 Adapted from _ChatGPT_
