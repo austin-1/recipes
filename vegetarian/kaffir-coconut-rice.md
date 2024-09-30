@@ -6,7 +6,7 @@ This aromatic rice dish blends the citrusy aroma of kaffir lime leaves with the 
 
 Adapted from _ChatGPT_
 
-![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients
 - 1 cup white jasmine rice
@@ -24,7 +24,6 @@ Adapted from _ChatGPT_
 5. Close the lid and set your rice cooker to the "whole grain" setting.
 6. While the rice is cooking, toast the shredded coconut in a dry pan over medium heat until golden and fragrant, about 3-4 minutes. Stir constantly to prevent burning, then set aside.
 7. Once the rice cooker finishes, let it sit for about 5 minutes with the lid on.
-8. Open the rice cooker, remove the kaffir lime leaves, and gently fluff the rice with a fork.
-9. Transfer the rice to a serving bowl and sprinkle the toasted coconut on top before serving.
+8. Open the rice cooker, gently fluff the rice and mix in the toasted coconut.
 
 Enjoy this fragrant and flavorful rice as a side dish for your curry!
