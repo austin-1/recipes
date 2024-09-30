@@ -1,5 +1,7 @@
 # Chickpea and Butternut Squash Coconut Curry
 
+[&larrhk; Back to Vegetarian Recipes](./README.md)
+
 A cozy autumn curry that combines the sweetness of butternut squash with the creaminess of coconut milk and the heartiness of chickpeas, perfect for a small 2.5-cup Handi pot.
 
 Adapted from _ChatGPT_
