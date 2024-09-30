@@ -2,11 +2,11 @@
 
 [&larrhk; Back to Vegetarian Recipes](./README.md)
 
-A light and flavorful Turkish dish that combines tender fennel and green beans in a rich, spiced tomato sauce, perfect for balancing the creamy curry. This recipe cooks beautifully in a 2-cup Handi pot alongside your curry.
+A light and flavorful Turkish dish that combines tender fennel and green beans in a rich, spiced tomato sauce, perfect for balancing the creamy curry. This recipe cooks beautifully in a 2.5-cup Handi pot alongside your curry.
 
 Adapted from _ChatGPT_
 
-![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients
 - 2 fennel bulbs, trimmed and sliced into 1/4-inch wedges
