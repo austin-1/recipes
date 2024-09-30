@@ -7,8 +7,8 @@ Adapted from _ChatGPT_
 ![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
 
 ## Ingredients
-- 1 small fennel bulb, trimmed and sliced into 1/4-inch wedges
-- 1/2 cup green beans, trimmed and cut into 2-inch pieces
+- 2 fennel bulbs, trimmed and sliced into 1/4-inch wedges
+- 1 1/2 cup green beans, trimmed and cut into 1-inch pieces
 - 1/4 cup onion, finely chopped
 - 1 clove garlic, minced
 - 1/4 cup diced tomatoes (canned or fresh)
