@@ -52,7 +52,9 @@ Adapted from _ChatGPT_
 ### Make the Brownie Layer:
 1. **Preheat the Oven**: Preheat your oven to 350°F (175°C). Grease a standard 12-cup muffin tin or line it with paper liners.
 
-2. **Prepare the Brownie Batter**: In a medium saucepan, melt the butter. Remove from heat and stir in the sugar, eggs, and vanilla extract until well combined. Sift in the cocoa powder, flour, salt, and baking powder, and stir until the batter is smooth.
+2. **Mix the dry ingredients**: In a mixing bowl, combine the cocoa powder, flour, salt and baking powder.
+
+2. **Prepare the Brownie Batter**: Cream together the sugar, eggs, and vanilla extract until well combined. Sift in the dry ingredients and stir until the batter is smooth.
 
 ### Make the Cookie Layer:
 1. **Prepare the Cookie Dough**: In a mixing bowl, cream together the butter, brown sugar, and granulated sugar until light and fluffy. Add the egg and vanilla extract, mixing well. In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add the dry ingredients to the wet mixture until combined. Stir in the chocolate chips.
