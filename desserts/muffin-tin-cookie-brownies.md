@@ -12,7 +12,7 @@ Adapted from _ChatGPT_
 
 ### For the Brownie Layer:
 - 1/2 cup unsalted butter, melted
-- 1 cup granulated sugar
+- 3/4 cup granulated sugar
 - 2 large eggs
 - 1 teaspoon vanilla extract
 - 1/3 cup unsweetened cocoa powder
@@ -22,14 +22,14 @@ Adapted from _ChatGPT_
 
 ### For the Cookie Layer:
 - 1/2 cup unsalted butter, softened
-- 1/2 cup brown sugar
-- 1/4 cup granulated sugar
+- 1/3 cup brown sugar
+- 2 tablespoons granulated sugar
 - 1 large egg
 - 1 teaspoon vanilla extract
 - 1 1/4 cups all-purpose flour
 - 1/2 teaspoon baking soda
 - 1/4 teaspoon salt
-- 1 cup chocolate chips
+- 1 cup dark chocolate chips
 
 ### For the Homemade Caramel:
 - 1 cup granulated sugar
