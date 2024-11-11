@@ -50,22 +50,28 @@ Adapted from _ChatGPT_
 4. **Finish the Caramel**: Let the caramel boil for 1-2 minutes, then remove from heat. Stir in the vanilla extract and sea salt. Set aside to cool slightly.
 
 ### Make the Brownie Layer:
-1. **Preheat the Oven**: Preheat your oven to 350°F (175°C). Grease a standard 12-cup muffin tin or line it with paper liners.
+1. **Preheat the Oven**: Preheat your oven to 350°F (175°C). Grease 12 silicone muffin molds.
 
-2. **Mix the dry ingredients**: In a mixing bowl, combine the cocoa powder, flour, salt and baking powder.
+2. **Mix the dry ingredients**: In a small mixing bowl, combine the cocoa powder, flour, salt and baking powder.
 
-2. **Prepare the Brownie Batter**: Cream together the melted butter, sugar, eggs, and vanilla extract until well combined. Sift in the dry ingredients and stir until the batter is smooth.
+2. **Prepare the Brownie Batter**: In a large mixing bowl, cream together the melted butter, sugar, eggs, and vanilla extract until well combined. Sift in the dry ingredients and stir until the batter is smooth.
 
 ### Make the Cookie Layer:
-1. **Prepare the Cookie Dough**: In a mixing bowl, cream together the butter, brown sugar, and granulated sugar until light and fluffy. Add the egg and vanilla extract, mixing well. In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add the dry ingredients to the wet mixture until combined. Stir in the chocolate chips.
 
-### Assemble the Muffin Tin Cookie Brownies:
-1. **Layer the Brownie Batter**: Spoon about 1-2 tablespoons of brownie batter into the bottom of each muffin cup, spreading it evenly.
+1. **Mix the dry ingredients**: In a small mixing bowl, combine the flour, salt and baking soda.
 
-2. **Add Caramel**: Drop a spoonful of the homemade caramel sauce over the brownie layer.
+2. **Prepare the Cookie Dough**: In a large mixing bowl, cream together the butter, brown sugar, and granulated sugar until light and fluffy. Add the egg and vanilla extract, mixing well. Gradually add the dry ingredients to the wet mixture until combined. Stir in the chocolate chips.
 
-3. **Layer the Cookie Dough**: Top the caramel with a spoonful of cookie dough, spreading it to cover the caramel.
+### Assemble and Bake:
 
-4. **Bake**: Bake in the preheated oven for 15-18 minutes, or until the cookie tops are golden brown and a toothpick inserted into the center comes out with a few moist crumbs.
+1. **Layer the Brownie Batter**: Spoon about 1 1/2 tablespoons of brownie batter into the bottom of each muffin cup, spreading it evenly.
 
-5. **Cool and Finish**: Let the cookie brownies cool in the muffin tin for about 10 minutes before removing. Drizzle with any remaining caramel sauce and sprinkle with sea salt before serving.
+2. **Pre-bake the Brownie layer**: Place the silicone molds about 1 1/2 inches apart on a baking sheet. Bake in the preheated oven for 5 minutes.
+
+3. **Add Caramel**: Remove muffin molds from oven. Drop a spoonful of the homemade caramel sauce over the brownie layer.
+
+4. **Layer the Cookie Dough**: Shape a flat round patty of cookie dough to cover the top of each mold.
+
+5. **Bake**: Bake in the preheated oven for 18 minutes, or until the cookie tops are golden brown and a toothpick inserted into the center comes out with a few moist crumbs.
+
+6. **Cool and Finish**: Let the cookie brownies cool in the molds for about 10 minutes before removing. Drizzle with any remaining caramel sauce and sprinkle with sea salt before serving.
