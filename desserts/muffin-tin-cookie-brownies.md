@@ -11,7 +11,7 @@ Adapted from _ChatGPT_
 ## Ingredients:
 
 ### For the Brownie Layer:
-- 1/2 cup unsalted butter
+- 1/2 cup unsalted butter, melted
 - 1 cup granulated sugar
 - 2 large eggs
 - 1 teaspoon vanilla extract
@@ -54,7 +54,7 @@ Adapted from _ChatGPT_
 
 2. **Mix the dry ingredients**: In a mixing bowl, combine the cocoa powder, flour, salt and baking powder.
 
-2. **Prepare the Brownie Batter**: Cream together the sugar, eggs, and vanilla extract until well combined. Sift in the dry ingredients and stir until the batter is smooth.
+2. **Prepare the Brownie Batter**: Cream together the melted butter, sugar, eggs, and vanilla extract until well combined. Sift in the dry ingredients and stir until the batter is smooth.
 
 ### Make the Cookie Layer:
 1. **Prepare the Cookie Dough**: In a mixing bowl, cream together the butter, brown sugar, and granulated sugar until light and fluffy. Add the egg and vanilla extract, mixing well. In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add the dry ingredients to the wet mixture until combined. Stir in the chocolate chips.
