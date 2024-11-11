@@ -1,8 +1,8 @@
-# Salted Caramel Muffin Tin Cookie Brownies
+# Salted Caramel Muffin Cookie Brownies
 
 [&larrhk; Back to Desserts](./README.md)
 
-These Salted Caramel Muffin Tin Cookie Brownies combine rich, fudgy brownies with chewy chocolate chip cookies, all topped with a homemade caramel sauce and a sprinkle of sea salt for a perfect balance of sweet and salty flavors. Baked in individual muffin tins, they're a decadent treat that's easy to share and enjoy.
+These Salted Caramel Muffin Cookie Brownies combine rich, fudgy brownies with chewy chocolate chip cookies, all topped with a homemade caramel sauce and a sprinkle of sea salt for a perfect balance of sweet and salty flavors. Baked in individual muffin molds, they're a decadent treat that's easy to share and enjoy.
 
 Adapted from _ChatGPT_
 
