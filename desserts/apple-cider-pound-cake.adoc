@@ -19,6 +19,7 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 * 1 teaspoon ground cinnamon
 * 1/2 teaspoon ground allspice
 * 1/2 teaspoon ground nutmeg
+* 1/2 teaspoon ground ginger
 * 1/4 teaspoon ground cloves
 * 1 cup apple cider
 * 1 teaspoon vanilla extract
@@ -35,10 +36,11 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 1. Preheat oven to 325°F (160°C).
 2. In a large bowl, cream together the sugar and butter until light and fluffy.
 3. Add the eggs one at a time, beating well after each addition.
-4. In a separate bowl, stir together the flour, salt, baking powder, cinnamon, allspice, nutmeg, and cloves.
-5. Combine the apple cider and vanilla extract in another bowl.
-6. Add the dry ingredients alternately with the cider mixture to the batter, mixing until well blended.
-7. Spoon the batter into a greased 10-inch Bundt cake pan.
-8. Bake for 80 minutes, or until a toothpick inserted in the center comes out clean.
-9. Meanwhile, combine the icing ingredients in a saucepan. Bring to a boil, reduce heat, and simmer for 10 minutes.
-10. While the cake is still warm, drizzle half of the icing over the cake. Serve the remaining icing over individual cake servings if desired.
+4. In a separate bowl, stir together the flour, salt, baking powder, cinnamon, allspice, nutmeg, ginger and cloves.
+5. Combine the apple cider and vanilla extract in a third bowl.
+6. Add half of the dry ingredients and cider to the egg mixture, stirring until combined. Repeat for the remaining half.
+7. Using an electric mixer, beat the batter for 5 minutes.
+8. Spoon the batter into a greased 10-inch Bundt cake pan.
+9. Bake for 80 minutes, or until a toothpick inserted in the center comes out clean.
+10. Meanwhile, combine the icing ingredients in a saucepan. Bring to a boil, reduce heat, and simmer for 10 minutes.
+11. While the cake is still warm, drizzle half of the icing over the cake. Serve the remaining icing over individual cake servings if desired.
