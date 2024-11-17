@@ -6,7 +6,7 @@ This Apple Cider Pound Cake blends the warm spices of fall with the sweet tang o
 
 Adapted from _Taste of Home_
 
-image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients
 
@@ -41,6 +41,6 @@ image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 6. Add half of the dry ingredients and cider to the egg mixture, stirring until combined. Repeat for the remaining half.
 7. Using an electric mixer, beat the batter for 5 minutes.
 8. Spoon the batter into a greased 10-inch Bundt cake pan.
-9. Bake for 80 minutes, or until a toothpick inserted in the center comes out clean.
-10. Meanwhile, combine the icing ingredients in a saucepan. Bring to a boil, reduce heat, and simmer for 10 minutes.
+9. Bake for 70 minutes, returning to the oven in 5 minutes increments until a toothpick inserted in the center comes out nearly clean.
+10. While the cake is cooking, combine the icing ingredients in a saucepan. Bring to a boil, reduce heat, and simmer for 10 minutes.
 11. While the cake is still warm, drizzle half of the icing over the cake. Serve the remaining icing over individual cake servings if desired.
