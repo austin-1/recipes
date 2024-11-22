@@ -9,22 +9,30 @@ Adapted from _Food.com_, user @evelynathens
 image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
 
 == Ingredients
-* 3 lbs large zucchini, washed and sliced into thin rounds
-* 2 lbs large potatoes, peeled and sliced into thin rounds
+* 5 small zucchini, washed and sliced into thin rounds
+* 2 lbs baby potatoes, washed and sliced into thin rounds
 * 1 large onion, chopped
 * 1/4 cup olive oil
-* 4-5 garlic cloves, minced
-* 1 lb ricotta cheese, crumbled (or anthotiro, if available)
-* 1/2 lb mizithra cheese, grated (or substitute Parmesan)
+* 5 garlic cloves, minced
+* 15 oz ricotta cheese
+* 8 oz Parmesan cheese, grated
 * 2 tablespoons fresh mint, minced (or 1 tablespoon dried mint)
-* Salt and pepper, to taste
+* 1/4 teaspoon Greek seasoning
+* 1/4 teaspoon black pepper
+* 1/4 teaspoon salt
+* 1/4 teaspoon everything bagel seasoning
 * 1/2 cup flour
-* 1/4 cup water
+* 1/4 cup vegetable stock
 
 == Instructions
 . Preheat the oven to 350°F (170°C).
-. In a deep bowl, combine the zucchini, potato, and chopped onion. Sprinkle with 1/2 cup of flour, salt, and pepper to taste (keeping in mind that the cheese is salty). Add the grated cheese, mint, garlic, and olive oil. Toss to coat all the slices evenly.
-. Grease a 13x9-inch Pyrex baking dish with olive oil. Pour the vegetable and cheese mixture into the dish, spreading it out evenly.
-. Press down with the palms of your hands to compact the mixture slightly. Carefully pour 1/4 cup of water over the top.
-. Bake in the preheated oven for about 1 hour and 20 minutes. If the boureki appears too dry during baking, you can add up to 1/4 cup more water, but be cautious as the zucchini and potatoes will release liquid during baking.
+. In a large bowl, combine the olive oil, minced garlic cloves, ricotta cheese, Parmesan cheese, mint, Greek seasoning, black pepper, salt, everything bagel seasoning, flour and vegetable stock.
+. Grease a 13x9-inch baking dish with cooking spray. 
+. Cover the bottom of the pan evenly with a layer of zucchini rounds, then top with a layer of potato rounds.
+. Place the chopped onion in a single even layer on top of the potatoes.
+. Create an additional layer of zucchini rounds, then another layer of potato rounds.
+. Press down with the palms of your hands to compact the layers.
+. Spread the cheese and flour mixture evenly over the top.
+. Place on a baking sheet and tent with a sheet of aluminum foil.
+. Bake in the preheated oven for about 1 hour and 20 minutes. If the boureki appears too dry during baking, you can add up to 1/4 cup more vegetable stock, but be cautious as the zucchini and potatoes will release liquid during baking.
 . Allow the boureki to cool for 15 minutes before cutting into portions.
