@@ -22,7 +22,6 @@ Adapted from _Telefèric Barcelona_, Xavi Padrosa
 - 1 teaspoon smoked paprika
 - 1/2 teaspoon cayenne pepper (adjust to taste)
 - 1 can (14 oz) crushed tomatoes
-- 1 tablespoon sugar
 - Salt, to taste
 
 ### For the Spicy Aioli:
@@ -44,7 +43,7 @@ Adapted from _Telefèric Barcelona_, Xavi Padrosa
 1. While the potatoes are roasting, heat the olive oil in a saucepan over medium heat.
 2. Add the onion and sauté until soft and translucent, about 5 minutes.
 3. Stir in the garlic, smoked paprika, and cayenne pepper, and cook for another minute.
-4. Add the crushed tomatoes and sugar, and simmer for 15-20 minutes, stirring occasionally, until the sauce thickens.
+4. Add the crushed tomatoes and simmer for 15-20 minutes, stirring occasionally, until the sauce thickens.
 5. Season with salt to taste and set aside.
 
 ### Preparing the Spicy Aioli:
