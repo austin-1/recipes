@@ -6,7 +6,7 @@ Boureki is a traditional Cretan dish that layers thinly sliced zucchini, potatoe
 
 Adapted from _Food.com_, user @evelynathens
 
-image::https://badgen.net/badge/untested/recipe/AA4A44[Untested Recipe]
+image::https://badgen.net/badge/verified/delicious/228B22[Verified Delicious]
 
 == Ingredients
 * 5 small zucchini, washed and sliced into thin rounds
