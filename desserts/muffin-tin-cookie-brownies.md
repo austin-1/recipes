@@ -6,7 +6,7 @@ These Salted Caramel Cookie Brownie Muffins combine rich, fudgy brownies with ch
 
 Adapted from _ChatGPT_
 
-![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients:
 
