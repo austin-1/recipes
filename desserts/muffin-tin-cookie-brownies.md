@@ -66,7 +66,7 @@ Adapted from _ChatGPT_
 
 1. **Layer the Brownie Batter**: Spoon about 1 1/2 tablespoons of brownie batter into the bottom of each muffin cup, spreading it evenly.
 
-2. **Pre-bake the Brownie layer**: Place the silicone molds about 1 1/2 inches apart on a baking sheet. Bake in the preheated oven for 5 minutes.
+2. **Pre-bake the Brownie layer**: Place the silicone molds about 1 1/2 inches apart on a baking sheet. Bake in the preheated oven for 8 minutes.
 
 3. **Add Caramel**: Remove muffin molds from oven. Drop a spoonful of the homemade caramel sauce over the brownie layer.
 
