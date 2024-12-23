@@ -6,7 +6,7 @@ A popular tapa from Barcelona, this dish features crispy potatoes drizzled with 
 
 Adapted from _Telefèric Barcelona_, Xavi Padrosa
 
-![Untested Recipe](https://badgen.net/badge/untested/recipe/AA4A44)
+![Verified Delicious](https://badgen.net/badge/verified/delicious/228B22)
 
 ## Ingredients
 
